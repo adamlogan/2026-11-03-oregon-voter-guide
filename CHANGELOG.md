@@ -14,3 +14,5 @@ Applied Impeccable distill/craft guidance to simplify headings, rows and claim l
 
 ## October 19: file links and OLCV slate review
 Label explicit downloads and PDF/file links. Warn on repeat file requests using tab-session storage only; request history does not imply a completed download. Add OLCV official general-election support for 105 roster-matched entries, replacing two campaign-reported OLCV claims. Add new races and other candidates from official rosters. Withhold Mai Vang because the certified Salem Ward 6 November roster instead lists Betsy Vega. Current totals: 250 listings, 119 contests, 390 claims.
+
+Confirmed Marion County commissioner ballot nominations in the county’s November sample ballot, including Democratic/Independent/Working Families cross-nominations; corrected the local-race default of Nonpartisan.

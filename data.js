@@ -7269,10 +7269,10 @@ window.GUIDE = {
         "Marion"
       ],
       "kind": "Candidate",
-      "party": "Nonpartisan",
+      "party": "Democrat, Independent, Working Families",
       "description": "Candidate for Marion County Commissioner, Position 1 in the November 3, 2026 election.",
       "raceDescription": "Elects the Marion County Commissioner, Position 1 to serve the local jurisdiction.",
-      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=15",
       "rosterStatus": "November election-office roster",
       "endorsements": [
         {
@@ -7300,10 +7300,10 @@ window.GUIDE = {
         "Marion"
       ],
       "kind": "Candidate",
-      "party": "Nonpartisan",
+      "party": "Republican",
       "description": "Candidate for Marion County Commissioner, Position 1 in the November 3, 2026 election.",
       "raceDescription": "Elects the Marion County Commissioner, Position 1 to serve the local jurisdiction.",
-      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=15",
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
@@ -7319,10 +7319,10 @@ window.GUIDE = {
         "Marion"
       ],
       "kind": "Candidate",
-      "party": "Nonpartisan",
+      "party": "Democrat, Independent, Working Families",
       "description": "Candidate for Marion County Commissioner, Position 2 in the November 3, 2026 election.",
       "raceDescription": "Elects the Marion County Commissioner, Position 2 to serve the local jurisdiction.",
-      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=15",
       "rosterStatus": "November election-office roster",
       "endorsements": [
         {
@@ -7350,10 +7350,10 @@ window.GUIDE = {
         "Marion"
       ],
       "kind": "Candidate",
-      "party": "Nonpartisan",
+      "party": "Republican",
       "description": "Candidate for Marion County Commissioner, Position 2 in the November 3, 2026 election.",
       "raceDescription": "Elects the Marion County Commissioner, Position 2 to serve the local jurisdiction.",
-      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=15",
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
