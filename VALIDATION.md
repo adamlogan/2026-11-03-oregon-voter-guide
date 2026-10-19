@@ -1,0 +1,7 @@
+# Validation — October 19, 2026
+
+Passed JavaScript syntax, dataset parity, ID/source-reference integrity, source attribution fields, local asset links, and actual filter functions. Regression checks include Merkley’s 21 records, the OEA recommendation label, the primary-cycle label and the shared candidate-support filter.
+
+The first release was checked in the in-app browser for switches, search, measure evidence dialogs, combined filters, empty states, reset and Escape dismissal. The expanded dataset was checked with the included verification script. No physical-phone or assistive-technology audit has been performed.
+
+Source URLs were reviewed via primary-source retrieval/indexed primary text, not an automated HTTP-success check of every URL. Current local roster and coverage limitations remain documented in the methodology.
