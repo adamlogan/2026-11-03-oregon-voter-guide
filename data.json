@@ -168,7 +168,7 @@
       "id": "pp",
       "name": "Planned Parenthood Action Oregon",
       "kind": "Organization",
-      "description": "Reproductive healthcare advocacy organization named by the campaign.",
+      "description": "Oregon reproductive-health advocacy organization supporting access to contraception, abortion and other reproductive healthcare. Its state and local endorsements are distinct from those of the national Planned Parenthood Action Fund.",
       "source": "https://www.plannedparenthoodaction.org/planned-parenthood-action-oregon/endorsements",
       "coverageReview": "65 Oregon state/local endorsements included from the union of the official general-election web table (64 names) and four-page PDF. Travis Nelson appears in the PDF on page 2; Amy Sabbadini and Julia Brim-Edwards appear on the web table. Federal endorsements belong to the separate national Action Fund.",
       "includedClaims": 65
@@ -177,7 +177,7 @@
       "id": "hoyle",
       "name": "Val Hoyle",
       "kind": "Individual",
-      "description": "U.S. representative; personal endorsement claimed by the Fragala campaign.",
+      "description": "U.S. representative for Oregon’s 4th Congressional District. Records here identify personal endorsements attributed to Hoyle, separately from organizational endorsements.",
       "source": "https://www.lisafragalafororegon.com/endorsements",
       "coverageReview": "Expanded through explicit November campaign statements and current campaign endorsement lists. Undated current pages are marked stage unspecified; historical lists, references to employment and criticism of opponents are excluded. This person has no verified central public slate, so the included count is documented campaign claims rather than an exhaustive list of personal decisions.",
       "includedClaims": 12
@@ -186,7 +186,7 @@
       "id": "piercy",
       "name": "Kitty Piercy",
       "kind": "Individual",
-      "description": "Former Eugene mayor; personal endorsement claimed by the Fragala campaign.",
+      "description": "Former Eugene mayor and Oregon state representative. Records here identify personal endorsements attributed to Piercy.",
       "source": "https://www.lisafragalafororegon.com/endorsements",
       "coverageReview": "Expanded through explicit November campaign statements and current campaign endorsement lists. Undated current pages are marked stage unspecified; historical lists, references to employment and criticism of opponents are excluded. This person has no verified central public slate, so the included count is documented campaign claims rather than an exhaustive list of personal decisions.",
       "includedClaims": 6
@@ -195,7 +195,7 @@
       "id": "knudson",
       "name": "Kaarin Knudson",
       "kind": "Individual",
-      "description": "Eugene mayor; personal endorsement claimed by the Fragala campaign.",
+      "description": "Eugene mayor. Records here identify personal endorsements attributed to Knudson.",
       "source": "https://www.lisafragalafororegon.com/endorsements",
       "coverageReview": "Expanded through explicit November campaign statements and current campaign endorsement lists. Undated current pages are marked stage unspecified; historical lists, references to employment and criticism of opponents are excluded. This person has no verified central public slate, so the included count is documented campaign claims rather than an exhaustive list of personal decisions.",
       "includedClaims": 7
@@ -204,7 +204,7 @@
       "id": "thatcher",
       "name": "Kim Thatcher",
       "kind": "Individual",
-      "description": "Oregon state senator; personal support claimed by the Cramer campaign.",
+      "description": "Oregon state senator. Records here identify personal endorsements attributed to Thatcher.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
       "coverageReview": "Expanded through explicit November campaign statements and current campaign endorsement lists. Undated current pages are marked stage unspecified; historical lists, references to employment and criticism of opponents are excluded. This person has no verified central public slate, so the included count is documented campaign claims rather than an exhaustive list of personal decisions.",
       "includedClaims": 6
@@ -213,7 +213,7 @@
       "id": "mannix",
       "name": "Kevin Mannix",
       "kind": "Individual",
-      "description": "Oregon state representative; personal support claimed by the Cramer campaign.",
+      "description": "Oregon state representative and attorney. Records here identify personal endorsements attributed to Mannix.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
       "coverageReview": "Expanded through explicit November campaign statements and current campaign endorsement lists. Undated current pages are marked stage unspecified; historical lists, references to employment and criticism of opponents are excluded. This person has no verified central public slate, so the included count is documented campaign claims rather than an exhaustive list of personal decisions.",
       "includedClaims": 6
@@ -357,7 +357,7 @@
       "id": "sierra-or",
       "name": "Sierra Club Oregon Chapter",
       "kind": "Organization",
-      "description": "Oregon chapter of the national environmental organization. This slate is published by the chapter; campaign claims naming an unspecified Sierra Club committee are kept separate.",
+      "description": "Oregon chapter of the national environmental organization. Its published state and local slate is distinct from the national federal directory. Ambiguous campaign claims that do not identify a committee are excluded.",
       "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
       "coverageReview": "All 52 positions on the checked Oregon Chapter November list included: 49 candidates and three measures. Kept separate from the national federal directory. An ambiguous generic Sierra Club campaign claim was removed rather than assigned to a committee without evidence.",
       "includedClaims": 52
