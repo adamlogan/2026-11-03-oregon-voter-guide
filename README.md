@@ -31,7 +31,7 @@ Update data.js and data.json together, then run validation. Update the research 
 
 ## Current limits
 
-Partial research release: 153 listings, 73 contests, 284 claims, 40 entities. All federal House races, Senate and governor included; selective legislative/local coverage. Multnomah local candidate source is a November filing list rather than a final certified list. Some 2026 issuer pages do not specify stage. The methodology records these limitations and research gaps prominently.
+Partial research release: 153 listings, 73 contests, 287 claims, 40 entities. All federal House races, Senate and governor included; selective legislative/local coverage. Multnomah local candidate source is a November filing list rather than a final certified list. Some 2026 issuer pages do not specify stage. The methodology records these limitations and research gaps prominently.
 
 UI checks should include phone-width layout, keyboard navigation, Escape and focus return in dialogs, any/all entity matches, source/stage filters, no-match states, reset, shared links and a GitHub project subpath. No third-party scripts, cookies or tracking.
 

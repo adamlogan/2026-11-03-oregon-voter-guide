@@ -318,7 +318,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.DavidBrockSmithforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "us-senate-1",
@@ -525,7 +529,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://jeffmerkley.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "us-senate-2",
@@ -542,7 +550,9 @@
       "raceDescription": "One U.S. senator represents the entire state in the federal Senate.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "us-senate-3",
@@ -559,7 +569,11 @@
       "raceDescription": "One U.S. senator represents the entire state in the federal Senate.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://chrishenry.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=31",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "governor-4",
@@ -576,7 +590,11 @@
       "raceDescription": "Oregon’s statewide chief executive.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://brett-smith.us",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "governor-5",
@@ -666,7 +684,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://TinaforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "governor-6",
@@ -756,7 +778,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ChristineForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd1-7",
@@ -777,7 +803,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://Drkahlforcongress.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=34",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd1-8",
@@ -853,7 +883,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.BonamiciForCongress.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=34",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd2-9",
@@ -904,7 +938,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://ChrisBeckforCongress.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=32",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd2-10",
@@ -964,7 +1002,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://cliffbentz.com/endorsements/",
+      "campaignSource": "https://cliffbentz.com/endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd3-11",
@@ -1047,7 +1089,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.MaxineforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd3-12",
@@ -1066,7 +1112,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.facebook.com/profile.php?id=61575347597252",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Candidate page (Facebook)"
     },
     {
       "id": "cd4-13",
@@ -1089,7 +1139,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.moniqueforcongress.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd4-14",
@@ -1185,7 +1239,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.valhoyle.com/",
+      "campaignSource": "https://www.valhoyle.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd4-15",
@@ -1208,7 +1266,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.justin4congress.com/",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd5-16",
@@ -1276,7 +1338,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.JanelleBynum.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=36",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd5-17",
@@ -1298,7 +1364,9 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "cd5-18",
@@ -1320,7 +1388,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.PattiForCongress.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=36",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd6-19",
@@ -1396,7 +1468,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://AndreaSalinasForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=35",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "cd6-20",
@@ -1417,7 +1493,11 @@
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://RussIsForUS.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=35",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd4-21",
@@ -1462,7 +1542,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.facebook.com/senprozanski/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Candidate page (Facebook)"
     },
     {
       "id": "sd6-22",
@@ -1491,7 +1575,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://SierrahWilliams.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=38",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd6-23",
@@ -1520,7 +1608,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.tibbettsfororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=39",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd6-24",
@@ -1539,7 +1631,11 @@
       "raceDescription": "State Senate · District 6: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ticerfororegonsenate.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.ticerfororegonsenate.com/",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd7-25",
@@ -1584,7 +1680,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://votejamesmanning.com/",
+      "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd7-26",
@@ -1601,7 +1701,11 @@
       "raceDescription": "State Senate · District 7: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.jake4senate-or7.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.jake4senate-or7.com/",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd7-27",
@@ -1618,7 +1722,11 @@
       "raceDescription": "State House · District 7: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.WilsonForSpringfield.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=41",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd7-28",
@@ -1672,7 +1780,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://Kori-Rodley.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=41",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd8-29",
@@ -1689,7 +1801,11 @@
       "raceDescription": "State House · District 8: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.BillVivianHD8.net",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd8-30",
@@ -1788,7 +1904,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.lisafragalafororegon.com",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd9-31",
@@ -1807,7 +1927,9 @@
       "raceDescription": "State House · District 9: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd9-32",
@@ -1836,7 +1958,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ClaireForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=43",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd10-33",
@@ -1883,7 +2009,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ElectGomberg.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd12-34",
@@ -1901,7 +2031,9 @@
       "raceDescription": "State House · District 12: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd12-35",
@@ -1929,7 +2061,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.HarbickForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd13-36",
@@ -1983,7 +2119,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.NancyNathanson.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=45",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd13-37",
@@ -2000,7 +2140,9 @@
       "raceDescription": "State House · District 13: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd14-38",
@@ -2017,7 +2159,11 @@
       "raceDescription": "State House · District 14: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://kevinburtonhousedi.wixsite.com/",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=46",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd14-39",
@@ -2071,7 +2217,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.JulieFahey.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=46",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd8-40",
@@ -2127,7 +2277,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.saragelser.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=40",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd8-41",
@@ -2146,7 +2300,9 @@
       "raceDescription": "State Senate · District 8: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "sd10-42",
@@ -2201,7 +2357,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.DebPattersonOR.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=41",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd10-43",
@@ -2219,7 +2379,11 @@
       "raceDescription": "State Senate · District 10: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://Angela4Oregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=41",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd11-44",
@@ -2282,7 +2446,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ElectVirginiaStapleton.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd11-45",
@@ -2327,7 +2495,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.TracyForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd11-46",
@@ -2355,7 +2527,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ruralindependent.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=43",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd11-47",
@@ -2383,7 +2559,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.votekenjackola.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=43",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd15-48",
@@ -2412,7 +2592,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://shellyboshartdavis.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd15-49",
@@ -2450,7 +2634,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.joannarobinsonfororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd17-50",
@@ -2468,7 +2656,11 @@
       "raceDescription": "State House · District 17: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.linncodems.org/david-nelson-hd17.html",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=45",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd17-51",
@@ -2496,7 +2688,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.farringtonfororegon.com/",
+      "campaignSource": "https://www.farringtonfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd18-52",
@@ -2513,8 +2709,22 @@
       "description": "Listed for State House · District 18 in the November 3, 2026 election.",
       "raceDescription": "State House · District 18: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.amandaforor.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=46",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd18-53",
@@ -2532,7 +2742,11 @@
       "raceDescription": "State House · District 18: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.KaufmannforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=46",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd18-54",
@@ -2550,7 +2764,9 @@
       "raceDescription": "State House · District 18: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd19-55",
@@ -2567,7 +2783,11 @@
       "raceDescription": "State House · District 19: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://vote-annamunson.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=47",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd19-56",
@@ -2621,7 +2841,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://electtomandersen.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=47",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd20-57",
@@ -2676,7 +2900,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.PaulEvans.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=48",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd20-58",
@@ -2694,7 +2922,11 @@
       "raceDescription": "State House · District 20: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.fudge4oregon.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=48",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd20-59",
@@ -2712,7 +2944,9 @@
       "raceDescription": "State House · District 20: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd21-60",
@@ -2766,7 +3000,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://WelshForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=49",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd21-61",
@@ -2793,7 +3031,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.MannixForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=49",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd22-62",
@@ -2847,7 +3089,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://leslyparaoregon.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd22-63",
@@ -2874,7 +3120,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://noemifororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=50",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd13-64",
@@ -2893,7 +3143,9 @@
       "raceDescription": "State Senate · District 13: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "sd13-65",
@@ -2949,7 +3201,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.CourtneyForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=38",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd13-66",
@@ -2968,7 +3224,11 @@
       "raceDescription": "State Senate · District 13: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://glennlancaster.com/",
+      "campaignSource": "https://glennlancaster.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd15-67",
@@ -3031,7 +3291,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://myrnaforsenate.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=39",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd15-68",
@@ -3048,7 +3312,11 @@
       "raceDescription": "State Senate · District 15: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.haroldhutchison.carrd.co",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=39",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd16-69",
@@ -3080,7 +3348,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.CourtneyBangs.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=40",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd16-70",
@@ -3121,7 +3393,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.SenateDistrict16.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=41",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd16-71",
@@ -3143,7 +3419,9 @@
       "raceDescription": "State Senate · District 16: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "sd17-72",
@@ -3161,7 +3439,11 @@
       "raceDescription": "State Senate · District 17: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.facebook.com/johncheefororegon/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Candidate page (Facebook)"
     },
     {
       "id": "sd17-73",
@@ -3216,7 +3498,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.LisaForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=42",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd19-74",
@@ -3272,7 +3558,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://RobWagnerForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=43",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd19-75",
@@ -3291,7 +3581,11 @@
       "raceDescription": "State Senate · District 19: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://marydirksen.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=43",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd25-76",
@@ -3345,7 +3639,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.BenForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd25-77",
@@ -3362,7 +3660,11 @@
       "raceDescription": "State House · District 25: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://bobniemeyer.com/",
+      "campaignSource": "https://bobniemeyer.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd26-78",
@@ -3381,7 +3683,11 @@
       "raceDescription": "State House · District 26: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.StephanieForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=46",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd26-79",
@@ -3400,7 +3706,11 @@
       "raceDescription": "State House · District 26: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.terrioforus.com/",
+      "campaignSource": "https://www.terrioforus.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd26-80",
@@ -3456,7 +3766,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.votesueriekesmith.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd27-81",
@@ -3510,7 +3824,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.TammyforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=48",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd27-82",
@@ -3527,7 +3845,11 @@
       "raceDescription": "State House · District 27: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.markfororegon.com/",
+      "campaignSource": "https://www.markfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd28-83",
@@ -3582,7 +3904,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.daciafororegon.com",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd28-84",
@@ -3600,7 +3926,11 @@
       "raceDescription": "State House · District 28: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.randallfororegon.com/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd29-85",
@@ -3617,7 +3947,11 @@
       "raceDescription": "State House · District 29: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://brianschimmel.org/",
+      "campaignSource": "https://brianschimmel.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd29-86",
@@ -3671,7 +4005,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.SusanMcLain.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=50",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd30-87",
@@ -3725,7 +4063,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.nathansosa.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=51",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd30-88",
@@ -3742,7 +4084,9 @@
       "raceDescription": "State House · District 30: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd31-89",
@@ -3772,7 +4116,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.DarceyForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=52",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd31-90",
@@ -3792,7 +4140,11 @@
       "raceDescription": "State House · District 31: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://GoingDeepForOregon.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=52",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd33-91",
@@ -3829,7 +4181,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.shannonjonesisadore.com/",
+      "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd33-92",
@@ -3847,7 +4203,11 @@
       "raceDescription": "State House · District 33: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ciattathompson.com/",
+      "campaignSource": "https://www.ciattathompson.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd34-93",
@@ -3902,7 +4262,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://mariwatanabe.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=54",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd34-94",
@@ -3920,7 +4284,11 @@
       "raceDescription": "State House · District 34: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.shaunie4oregon.com/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd35-95",
@@ -3965,7 +4333,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.ChaichiForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=54",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd35-96",
@@ -3982,7 +4354,9 @@
       "raceDescription": "State House · District 35: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd36-97",
@@ -4045,7 +4419,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.haifororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=55",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd36-98",
@@ -4062,7 +4440,11 @@
       "raceDescription": "State House · District 36: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://orthfororegon.com/",
+      "campaignSource": "https://orthfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd37-99",
@@ -4080,7 +4462,11 @@
       "raceDescription": "State House · District 37: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.voteforchadparker.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=56",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd37-100",
@@ -4135,7 +4521,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.votejules.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=56",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd24-101",
@@ -4190,7 +4580,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.kaysejama.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=44",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd26-102",
@@ -4238,7 +4632,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://bassettfororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=45",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "sd26-103",
@@ -4268,7 +4666,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.HelfrichforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=45",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd38-104",
@@ -4323,7 +4725,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.DanielForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=49",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd41-105",
@@ -4369,7 +4775,9 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd41-106",
@@ -4387,7 +4795,11 @@
       "raceDescription": "State House · District 41: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.emilwaukieor.org",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=50",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd42-107",
@@ -4404,7 +4816,11 @@
       "raceDescription": "State House · District 42: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://vote.stra.us",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=51",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd42-108",
@@ -4449,7 +4865,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.robnosse.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=51",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd43-109",
@@ -4485,7 +4905,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.tawnasanchez.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=52",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd43-110",
@@ -4502,7 +4926,11 @@
       "raceDescription": "State House · District 43: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.bringbackportland.com/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd44-111",
@@ -4556,7 +4984,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.NelsonForOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=53",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd44-112",
@@ -4573,7 +5005,9 @@
       "raceDescription": "State House · District 44: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd45-113",
@@ -4590,7 +5024,11 @@
       "raceDescription": "State House · District 45: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "http://www.jasonboyce4oregon.com/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd45-114",
@@ -4644,7 +5082,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.tranfororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=53",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd46-115",
@@ -4698,7 +5140,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://ChotzenforOregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=54",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd46-116",
@@ -4715,7 +5161,11 @@
       "raceDescription": "State House · District 46: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.facebook.com/leo.morley.12/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Candidate page (Facebook)"
     },
     {
       "id": "hd47-117",
@@ -4769,7 +5219,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.dreafororegon.com",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd48-118",
@@ -4824,7 +5278,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.wisefororegon.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd48-119",
@@ -4842,7 +5300,11 @@
       "raceDescription": "State House · District 48: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.andrewmorrisonfororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=55",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd49-120",
@@ -4859,7 +5321,11 @@
       "raceDescription": "State House · District 49: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://FriendsofAnnWalker.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=56",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd49-121",
@@ -4904,7 +5370,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://electzachhudson.com/",
+      "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd50-122",
@@ -4921,7 +5391,11 @@
       "raceDescription": "State House · District 50: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.facebook.com/votebriangray/",
+      "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Candidate page (Facebook)"
     },
     {
       "id": "hd50-123",
@@ -4975,7 +5449,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://ricki4oregon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=57",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd52-124",
@@ -5021,9 +5499,22 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.hankfororegon.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd52-125",
@@ -5053,7 +5544,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.hegefororegon.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=58",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd57-126",
@@ -5125,7 +5620,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://repgregsmith.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd57-127",
@@ -5151,7 +5650,11 @@
       "raceDescription": "State House · District 57: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.josiahdean.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.josiahdean.com/",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd58-128",
@@ -5171,7 +5674,9 @@
       "raceDescription": "State House · District 58: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "hd58-129",
@@ -5210,7 +5715,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://bobbylevyfororegon.com/",
+      "campaignSource": "https://bobbylevyfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "lane-east-130",
@@ -5246,7 +5755,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.HeatherBuch.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "lane-east-131",
@@ -5263,7 +5776,11 @@
       "raceDescription": "Lane County Commission · East Lane, Position 5: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.Pelroy.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "eugene5-132",
@@ -5280,7 +5797,11 @@
       "raceDescription": "Eugene City Council · Ward 5: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://electmikeclark.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "eugene5-133",
@@ -5307,11 +5828,15 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://www.athena4eugene.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "springfield4-134",
-      "name": "Jill Cuardros",
+      "name": "Jill Cuadros",
       "race": "springfield4",
       "raceName": "Springfield City Council · Ward 4",
       "level": "Local",
@@ -5320,11 +5845,15 @@
       ],
       "kind": "Candidate",
       "party": "Nonpartisan",
-      "description": "Listed for Springfield City Council · Ward 4 in the November 3, 2026 election. The candidate index spells the name Jill Cuadros; the roster prints Cuardros. See the source discrepancy.",
+      "description": "Listed for Springfield City Council · Ward 4 in the November 3, 2026 election.",
       "raceDescription": "Springfield City Council · Ward 4: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://jillcuadros.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://jillcuadros.com/",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "springfield4-135",
@@ -5351,7 +5880,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://CalleeAckland.com",
+      "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=50",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "union2-136",
@@ -5369,7 +5902,11 @@
       "raceDescription": "Union County Commission · Position 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": "https://scarfoforunioncounty.com/",
+      "campaignSource": "https://scarfoforunioncounty.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "union2-137",
@@ -5387,7 +5924,9 @@
       "raceDescription": "Union County Commission · Position 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=26",
       "endorsements": [],
-      "rosterStatus": "November election-office roster"
+      "rosterStatus": "November election-office roster",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "mult-chair-138",
@@ -5423,7 +5962,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.shannonsingleton.org/",
+      "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult-chair-139",
@@ -5468,7 +6011,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.juliabrim-edwards.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult-chair-140",
@@ -5485,7 +6032,11 @@
       "raceDescription": "Multnomah County Chair: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.sharonforchair.com/",
+      "campaignSource": "https://www.sharonforchair.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-141",
@@ -5502,7 +6053,9 @@
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
     },
     {
       "id": "mult2-142",
@@ -5519,7 +6072,11 @@
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.hermangreene.com/",
+      "campaignSource": "https://www.hermangreene.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-143",
@@ -5555,7 +6112,11 @@
           "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.serenacruz.com/",
+      "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-144",
@@ -5589,9 +6150,22 @@
           "position": "Endorses",
           "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://voteforbri.com/",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-145",
@@ -5608,7 +6182,11 @@
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://electnabil.com/",
+      "campaignSource": "https://electnabil.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-146",
@@ -5625,7 +6203,11 @@
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.nathanongnorris.com/",
+      "campaignSource": "https://www.nathanongnorris.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "mult2-147",
@@ -5642,7 +6224,11 @@
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
       "endorsements": [],
-      "rosterStatus": "November filing listed · final certification not checked"
+      "rosterStatus": "November filing listed · final certification not checked",
+      "campaignUrl": "https://www.tonyrobertson.org/",
+      "campaignSource": "https://www.tonyrobertson.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "m26-267",
