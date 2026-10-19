@@ -1,3 +1,13 @@
+## October 19, 2026 — Full-list review and source context
+
+- Expanded to 323 listings, 146 contests and 919 attributed claims across 42 entities.
+- Captured all 52 Sierra Club Oregon Chapter November positions; expanded AG-PAC, NFIB, OFS, firefighters, labor, education, party and editorial lists.
+- Added all 75 state legislative contest rosters and verified county overlap.
+- Added 304 Ballotpedia profile links; retained 189 official campaign/candidate links.
+- Title-cased the guide title and removed the candidate-recommendation tagline.
+- File links identify the document, source filename where available, and known PDF page. Repeat warnings use the original filename and plain language, with session-only memory.
+- Added a source review for every current entity, including conflicts and remaining gaps; no claim of exhaustive statewide endorsement coverage.
+
 # Changes
 
 ## October 19, 2026 — expanded primary-source review

@@ -31,7 +31,7 @@ Update data.js and data.json together, then run validation. Update the research 
 
 ## Current limits
 
-Partial research release: 250 listings, 119 contests, 390 claims, 40 entities. All federal House races, Senate and governor included; selective legislative/local coverage. Multnomah local candidate source is a November filing list rather than a final certified list. Some 2026 issuer pages do not specify stage. The methodology records these limitations and research gaps prominently.
+Partial research release: 323 listings, 146 contests, 919 claims, 42 entities. All federal, governor and 75 legislative contest rosters are included. Local/endorsement coverage remains partial. See source-audit.html for each entity’s captured slate and unresolved gaps.
 
 UI checks should include phone-width layout, keyboard navigation, Escape and focus return in dialogs, any/all entity matches, source/stage filters, no-match states, reset, shared links and a GitHub project subpath. No third-party scripts, cookies or tracking.
 
@@ -51,3 +51,6 @@ The source review expanded Merkley from 2 to 21 sourced records (including a rec
 
 ## Download behavior
 `downloads.js` labels direct downloads and linked files, and warns on repeat file requests using sessionStorage only. Run `node verify-downloads.cjs` for behavioral checks. No cookies or localStorage are used. Browser download completion and context-menu saves cannot be observed by this static site. `olcv-coverage.json` records the official slate-to-roster review.
+
+- `documents.js`, `downloads.js`: document descriptions, original filenames when supplied, PDF page hints and session-only repeat warnings.
+- `source-audit.html`, `source-audit.json`: issuer-by-issuer coverage and unresolved source/roster gaps.

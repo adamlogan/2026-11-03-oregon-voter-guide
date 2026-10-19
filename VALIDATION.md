@@ -1,6 +1,6 @@
 # Validation — October 19, 2026
 
-Passed JavaScript syntax, dataset parity, ID/source-reference integrity, source attribution fields, local asset links, and actual filter functions. Regression checks include Merkley’s 21 records, the OEA recommendation label, the primary-cycle label and the shared candidate-support filter.
+Passed JavaScript syntax, dataset parity, ID/source-reference integrity, source attribution fields, local asset links, and actual filter functions. Regression checks include Merkley’s expanded records, the OEA recommendation label, the primary-cycle label and the shared candidate-support filter.
 
 The first release was checked in the in-app browser for switches, search, measure evidence dialogs, combined filters, empty states, reset and Escape dismissal. The expanded dataset was checked with the included verification script. No physical-phone or assistive-technology audit has been performed.
 
@@ -9,3 +9,5 @@ Source URLs were reviewed via primary-source retrieval/indexed primary text, not
 The OLCV slate was read on its official website and matched to November election-office sources: 105 included positions, with one material Salem Ward 6 conflict withheld. Dataset checks confirm all 105 included claims are issuer-confirmed. New-race candidates were added from election-office lists, including alternatives with no verified claims.
 
 `node verify-downloads.cjs` checks first/repeat requests, confirmation accept/cancel, fragment-normalized PDF URLs, ordinary navigation, session persistence across reloads, fresh sessions and blocked storage. The guard tracks requests, not completed browser downloads. Browser context-menu saves are outside its event handling.
+
+This release passes all 75 legislative contest coverage, full checked Sierra Club Oregon Chapter (52), AG-PAC (42), NFIB Oregon (38), and fire fighters (57) slate counts; withheld Salem conflict; Ballotpedia non-redlinks; and per-entity source audit counts. Filename interpolation and catalog metadata are exercised without opening native browser confirmation prompts.

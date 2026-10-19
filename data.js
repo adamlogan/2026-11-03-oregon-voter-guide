@@ -28,7 +28,7 @@ window.GUIDE = {
       "name": "NFIB OR PAC",
       "kind": "PAC",
       "description": "Oregon political action committee of the National Federation of Independent Business, a small-business association.",
-      "source": "https://www.nfib.com/news/press-release/nfib-endorses-christine-drazan-for-oregon-governor/"
+      "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/"
     },
     {
       "id": "ucrp",
@@ -42,7 +42,7 @@ window.GUIDE = {
       "name": "Oregon Consumer League Action Fund",
       "kind": "Organization",
       "description": "Consumer advocacy organization supporting consumer protections and accountability.",
-      "source": "https://oclactionfund.org/"
+      "source": "https://oclactionfund.org/november-2026-endorsements/"
     },
     {
       "id": "pfa",
@@ -56,7 +56,7 @@ window.GUIDE = {
       "name": "Willamette Week editorial board",
       "kind": "Editorial",
       "description": "Portland newspaper publishing its own voting recommendations; opinions are attributed to the publisher.",
-      "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-measures/"
+      "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements/"
     },
     {
       "id": "olcv",
@@ -91,14 +91,14 @@ window.GUIDE = {
       "name": "The Mother PAC",
       "kind": "PAC",
       "description": "Political action committee focused on families and representation.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42"
+      "source": "https://motherpac.org/may-2026-voter-guide/"
     },
     {
       "id": "wfp",
       "name": "Oregon Working Families Party",
       "kind": "Party",
       "description": "Political party; an explicit endorsement is recorded separately from ballot nomination.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42"
+      "source": "https://workingfamilies.org/state/oregon/"
     },
     {
       "id": "orcops",
@@ -126,7 +126,7 @@ window.GUIDE = {
       "name": "Oregonians for Food & Shelter",
       "kind": "Organization",
       "description": "Agricultural and natural-resource advocacy organization.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37"
+      "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf"
     },
     {
       "id": "ucg",
@@ -182,7 +182,7 @@ window.GUIDE = {
       "name": "LCV Action Fund",
       "kind": "Organization",
       "description": "Federal electoral advocacy arm of the League of Conservation Voters, focused on environmental policy. Separate from Oregon League of Conservation Voters.",
-      "source": "https://www.lcv.org/endorsements/?cycle=general&office=senate&result_page=2"
+      "source": "https://www.lcv.org/endorsements/"
     },
     {
       "id": "nrdc",
@@ -252,7 +252,7 @@ window.GUIDE = {
       "name": "Lookout Eugene-Springfield editorial board",
       "kind": "Editorial",
       "description": "Local news outlet whose editorial board publishes its own voting recommendations.",
-      "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/15/lookout-editorial-board-endorsements-state-and-federal-races/"
+      "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/"
     },
     {
       "id": "ppaf",
@@ -273,14 +273,28 @@ window.GUIDE = {
       "name": "Oregon Labor Federation, AFL-CIO",
       "kind": "Organization",
       "description": "Oregon labor federation representing affiliated unions.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31"
+      "source": "https://www.oregonlabor.org/vote"
     },
     {
       "id": "fire",
       "name": "Oregon State Fire Fighters Council",
       "kind": "Organization",
       "description": "Labor organization representing affiliated professional firefighter locals.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31"
+      "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1"
+    },
+    {
+      "id": "sierra-or",
+      "name": "Sierra Club Oregon Chapter",
+      "kind": "Organization",
+      "description": "Oregon chapter of the national environmental organization. This slate is published by the chapter; campaign claims naming an unspecified Sierra Club committee are kept separate.",
+      "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements"
+    },
+    {
+      "id": "nfib-fed",
+      "name": "NFIB FedPAC",
+      "kind": "PAC",
+      "description": "Federal political action committee of the National Federation of Independent Business, a small-business advocacy organization. Separate from NFIB Oregon PAC.",
+      "source": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/"
     }
   ],
   "items": [
@@ -305,7 +319,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: US Senate · us-senate. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -322,7 +336,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.DavidBrockSmithforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=30",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/David_Brock_Smith_(Oregon_state_senator)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "us-senate-1",
@@ -345,16 +362,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: us-senate. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -363,7 +380,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Senate. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -372,16 +389,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Recommendation to NEA",
-          "note": "OEA explicitly says its federal recommendations are forwarded to NEA’s PAC Council and do not constitute endorsements. Recorded as a recommendation, not an NEA or OEA federal endorsement.",
+          "note": "Find in source: US Senate. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "lcv",
-          "source": "https://www.lcv.org/endorsements/?cycle=general&office=senate&result_page=2",
+          "source": "https://www.lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-senate/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Current 2026 issuer page names Jeff Merkley for U.S. Senate. The stage is unspecified unless explicitly labeled general.",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -498,25 +515,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Fall 2026 endorsements · Jeff Merkley. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "afl",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-          "confidence": "Campaign-reported",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Explicit endorsements in Jeff Merkley for Oregon’s submitted November statement. Government publication does not independently verify the campaign’s claims.",
+          "note": "Find in source: Federal endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "fire",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-          "confidence": "Campaign-reported",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Explicit endorsements in Jeff Merkley for Oregon’s submitted November statement. Government publication does not independently verify the campaign’s claims.",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -527,13 +544,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Federal Office · Jeff Merkley, Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · U.S. Senate. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://jeffmerkley.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=31",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jeff_Merkley",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "us-senate-2",
@@ -552,7 +590,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Gary_Dye",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "us-senate-3",
@@ -573,7 +614,10 @@ window.GUIDE = {
       "campaignUrl": "https://chrishenry.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=31",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Chris_Henry_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "governor-4",
@@ -594,7 +638,10 @@ window.GUIDE = {
       "campaignUrl": "https://brett-smith.us",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=34",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Brett_Smith_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "governor-5",
@@ -617,7 +664,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -626,16 +673,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: governor. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -658,11 +705,11 @@ window.GUIDE = {
         },
         {
           "entity": "wfp",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
-          "confidence": "Campaign-reported",
-          "cycle": "General",
-          "position": "Endorses",
-          "note": "Campaign-submitted voters’ pamphlet statement. Election office hosts but does not verify the endorsement.",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Governor. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
           "checked": "2026-10-19"
         },
         {
@@ -671,7 +718,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Governor. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -691,13 +738,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Governor · Tina Kotek. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Statewide endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: 2026 general-election endorsements · Tina Kotek. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-statewide/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Tina Kotek. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/15/lookout-editorial-board-endorsements-state-and-federal-races/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://TinaforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tina_Kotek",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "governor-6",
@@ -720,7 +824,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Governor · governor. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -770,11 +874,11 @@ window.GUIDE = {
         },
         {
           "entity": "ofs",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
-          "confidence": "Campaign-reported",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=1",
+          "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Campaign-submitted voters’ pamphlet statement. Election office hosts but does not verify the endorsement.",
+          "note": "Find in source: PDF page 1 · Oregon Governor. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -791,7 +895,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.ChristineForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Christine_Drazan",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd1-7",
@@ -802,8 +909,8 @@ window.GUIDE = {
       "geography": [
         "Clatsop",
         "Columbia",
-        "Tillamook",
         "Multnomah",
+        "Tillamook",
         "Washington"
       ],
       "kind": "Candidate",
@@ -816,7 +923,10 @@ window.GUIDE = {
       "campaignUrl": "https://Drkahlforcongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=34",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Barbara_Kahl",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd1-8",
@@ -827,8 +937,8 @@ window.GUIDE = {
       "geography": [
         "Clatsop",
         "Columbia",
-        "Tillamook",
         "Multnomah",
+        "Tillamook",
         "Washington"
       ],
       "kind": "Candidate",
@@ -843,16 +953,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD1. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -861,7 +971,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Congress District 1. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -870,7 +980,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Recommendation to NEA",
-          "note": "OEA explicitly says its federal recommendations are forwarded to NEA’s PAC Council and do not constitute endorsements. Recorded as a recommendation, not an NEA or OEA federal endorsement.",
+          "note": "Find in source: CD1. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -899,13 +1009,79 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Federal Office · Suzanne Bonamici, OR-1. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: CD 1. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lcv",
+          "source": "https://www.lcv.org/media-center/lcv-action-fund-announces-new-round-of-endorsements-for-u-s-house-of-representatives/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · U.S. House of Representatives, District 1. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Suzanne Bonamici. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "jstreet",
+          "source": "https://jstreetpac.org/candidate/suzanne-bonamici/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Current candidate profile · Endorsed. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.BonamiciForCongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=34",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Suzanne_Bonamici",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd2-9",
@@ -915,30 +1091,28 @@ window.GUIDE = {
       "level": "Federal",
       "geography": [
         "Baker",
+        "Clackamas",
         "Crook",
+        "Curry",
+        "Deschutes",
+        "Douglas",
         "Gilliam",
         "Grant",
         "Harney",
         "Jackson",
+        "Jefferson",
         "Josephine",
         "Klamath",
         "Lake",
         "Malheur",
+        "Marion",
         "Morrow",
         "Sherman",
         "Umatilla",
         "Union",
         "Wallowa",
         "Wasco",
-        "Wheeler",
-        "Clackamas",
-        "Curry",
-        "Deschutes",
-        "Douglas",
-        "Jefferson",
-        "Marion",
-        "Eastern Oregon",
-        "Southern Oregon"
+        "Wheeler"
       ],
       "kind": "Candidate",
       "party": "Democrat, Independent",
@@ -948,11 +1122,20 @@ window.GUIDE = {
       "endorsements": [
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Federal Office · Chris Beck, OR-2. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -960,7 +1143,10 @@ window.GUIDE = {
       "campaignUrl": "https://ChrisBeckforCongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=32",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Chris_Beck",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd2-10",
@@ -970,30 +1156,28 @@ window.GUIDE = {
       "level": "Federal",
       "geography": [
         "Baker",
+        "Clackamas",
         "Crook",
+        "Curry",
+        "Deschutes",
+        "Douglas",
         "Gilliam",
         "Grant",
         "Harney",
         "Jackson",
+        "Jefferson",
         "Josephine",
         "Klamath",
         "Lake",
         "Malheur",
+        "Marion",
         "Morrow",
         "Sherman",
         "Umatilla",
         "Union",
         "Wallowa",
         "Wasco",
-        "Wheeler",
-        "Clackamas",
-        "Curry",
-        "Deschutes",
-        "Douglas",
-        "Jefferson",
-        "Marion",
-        "Eastern Oregon",
-        "Southern Oregon"
+        "Wheeler"
       ],
       "kind": "Candidate",
       "party": "Republican",
@@ -1007,7 +1191,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: US Representative · cd2. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1018,13 +1202,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=3",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 3 · Federal endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib-fed",
+          "source": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: September 23, 2026 endorsement announcement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://cliffbentz.com/endorsements/",
       "campaignSource": "https://cliffbentz.com/endorsements/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Cliff_Bentz",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd3-11",
@@ -1033,8 +1238,8 @@ window.GUIDE = {
       "raceName": "U.S. House · District 3",
       "level": "Federal",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah"
       ],
       "kind": "Candidate",
@@ -1049,16 +1254,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD3. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1067,7 +1272,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Congress District 3. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1076,7 +1281,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Recommendation to NEA",
-          "note": "OEA explicitly says its federal recommendations are forwarded to NEA’s PAC Council and do not constitute endorsements. Recorded as a recommendation, not an NEA or OEA federal endorsement.",
+          "note": "Find in source: CD3. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1114,13 +1319,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Federal Office · Maxine Dexter, OR-3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: CD 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lcv",
+          "source": "https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.MaxineforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=35",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Maxine_Dexter",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd3-12",
@@ -1129,8 +1373,8 @@ window.GUIDE = {
       "raceName": "U.S. House · District 3",
       "level": "Federal",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah"
       ],
       "kind": "Candidate",
@@ -1143,7 +1387,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.facebook.com/profile.php?id=61575347597252",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/Loran_Ayles",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd4-13",
@@ -1152,12 +1399,12 @@ window.GUIDE = {
       "raceName": "U.S. House · District 4",
       "level": "Federal",
       "geography": [
-        "Lane",
         "Benton",
         "Coos",
-        "Lincoln",
         "Curry",
         "Douglas",
+        "Lane",
+        "Lincoln",
         "Linn"
       ],
       "kind": "Candidate",
@@ -1165,12 +1412,25 @@ window.GUIDE = {
       "description": "Listed for U.S. House · District 4 in the November 3, 2026 election.",
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib-fed",
+          "source": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: September 23, 2026 endorsement announcement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.moniqueforcongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=32",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Monique_DeSpain",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd4-14",
@@ -1179,12 +1439,12 @@ window.GUIDE = {
       "raceName": "U.S. House · District 4",
       "level": "Federal",
       "geography": [
-        "Lane",
         "Benton",
         "Coos",
-        "Lincoln",
         "Curry",
         "Douglas",
+        "Lane",
+        "Lincoln",
         "Linn"
       ],
       "kind": "Candidate",
@@ -1199,16 +1459,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD4. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1217,7 +1477,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Congress District 4. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1226,7 +1486,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Recommendation to NEA",
-          "note": "OEA explicitly says its federal recommendations are forwarded to NEA’s PAC Council and do not constitute endorsements. Recorded as a recommendation, not an NEA or OEA federal endorsement.",
+          "note": "Find in source: CD4. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1235,7 +1495,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: 2026 general-election endorsements · Val Hoyle. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1273,13 +1533,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: CD 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lcv",
+          "source": "https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · U.S. House of Representatives, District 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "jstreet",
+          "source": "https://jstreetpac.org/candidate/val-hoyle/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Current candidate profile · Endorsed. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.valhoyle.com/",
       "campaignSource": "https://www.valhoyle.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Val_Hoyle",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd4-15",
@@ -1288,12 +1596,12 @@ window.GUIDE = {
       "raceName": "U.S. House · District 4",
       "level": "Federal",
       "geography": [
-        "Lane",
         "Benton",
         "Coos",
-        "Lincoln",
         "Curry",
         "Douglas",
+        "Lane",
+        "Lincoln",
         "Linn"
       ],
       "kind": "Candidate",
@@ -1306,7 +1614,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.justin4congress.com/",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=33",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Justin_Filip",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd5-16",
@@ -1334,16 +1645,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD5. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1352,7 +1663,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Congressional District 5. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1381,13 +1692,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: CD 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lcv",
+          "source": "https://www.lcv.org/media-center/lcv-action-fund-announces-new-slate-of-endorsements-for-u-s-house-of-representatives-2/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Janelle Bynum. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.JanelleBynum.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=36",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Janelle_Bynum",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd5-17",
@@ -1411,7 +1761,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrea_Townsend_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd5-18",
@@ -1437,7 +1790,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.PattiForCongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=36",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Patti_Adair",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd6-19",
@@ -1446,11 +1802,11 @@ window.GUIDE = {
       "raceName": "U.S. House · District 6",
       "level": "Federal",
       "geography": [
-        "Polk",
-        "Yamhill",
         "Clackamas",
         "Marion",
-        "Washington"
+        "Polk",
+        "Washington",
+        "Yamhill"
       ],
       "kind": "Candidate",
       "party": "Democrat, Independent",
@@ -1464,16 +1820,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
           "entity": "ocl",
-          "source": "https://oclactionfund.org/",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Homepage summarizes the November 2026 slate; Merkley is misspelled Merkeley in source.",
+          "note": "Find in source: CD6. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1482,7 +1838,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: U.S. Congress District 6. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1491,7 +1847,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Recommendation to NEA",
-          "note": "OEA explicitly says its federal recommendations are forwarded to NEA’s PAC Council and do not constitute endorsements. Recorded as a recommendation, not an NEA or OEA federal endorsement.",
+          "note": "Find in source: CD6. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1520,13 +1876,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Federal Office · Andrea Salinas, OR-6. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: CD 6. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · Federal / Governor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lcv",
+          "source": "https://www.lcv.org/media-center/on-earth-week-lcv-action-fund-announces-first-round-of-endorsements-of-house-champions/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State filter: Oregon · 2026 General. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Andrea Salinas. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "jstreet",
+          "source": "https://jstreetpac.org/candidate/andrea-salinas/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Current candidate profile · Endorsed. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://AndreaSalinasForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=35",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrea_Salinas",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "cd6-20",
@@ -1535,11 +1948,11 @@ window.GUIDE = {
       "raceName": "U.S. House · District 6",
       "level": "Federal",
       "geography": [
-        "Polk",
-        "Yamhill",
         "Clackamas",
         "Marion",
-        "Washington"
+        "Polk",
+        "Washington",
+        "Yamhill"
       ],
       "kind": "Candidate",
       "party": "Republican",
@@ -1551,7 +1964,10 @@ window.GUIDE = {
       "campaignUrl": "https://RussIsForUS.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=35",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/David_Russ_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd4-21",
@@ -1574,7 +1990,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 4. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1583,7 +1999,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 4. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1592,7 +2008,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 04. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1603,13 +2019,43 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.facebook.com/senprozanski/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/Floyd_Prozanski",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd6-22",
@@ -1634,7 +2080,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 06. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 6. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
           "checked": "2026-10-19"
         }
       ],
@@ -1642,7 +2097,10 @@ window.GUIDE = {
       "campaignUrl": "https://SierrahWilliams.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=38",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sierrah_Williams",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd6-23",
@@ -1667,7 +2125,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Senators · sd6. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 6. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 06. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -1675,7 +2160,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.tibbettsfororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=39",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jack_Tibbetts",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd6-24",
@@ -1698,7 +2186,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.ticerfororegonsenate.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.ticerfororegonsenate.com/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Caleb_Ticer",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd7-25",
@@ -1721,7 +2212,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 7. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1730,7 +2221,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 07. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1739,7 +2230,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 07. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1750,13 +2241,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate, District 7. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://votejamesmanning.com/",
       "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/James_Manning_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd7-26",
@@ -1777,7 +2316,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.jake4senate-or7.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.jake4senate-or7.com/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jack_Huff",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd7-27",
@@ -1793,12 +2335,25 @@ window.GUIDE = {
       "description": "Listed for State House · District 7 in the November 3, 2026 election.",
       "raceDescription": "State House · District 7: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 07. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.WilsonForSpringfield.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=41",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Adam_Wilson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd7-28",
@@ -1821,7 +2376,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 7. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1830,7 +2385,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 7. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1839,7 +2394,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 07. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1848,7 +2403,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 07. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1859,13 +2414,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Kori Rodley, House District 7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 7. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 7. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://Kori-Rodley.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=41",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Kori_Rodley",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd8-29",
@@ -1886,7 +2498,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.BillVivianHD8.net",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Bill_Vivian",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd8-30",
@@ -1909,7 +2524,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 8. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1918,7 +2533,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 8. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1972,7 +2587,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 08. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -1981,7 +2596,43 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 08. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 8. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -1989,7 +2640,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.lisafragalafororegon.com",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Lisa_Fragala",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd9-31",
@@ -2010,7 +2664,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Scheirman",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd9-32",
@@ -2035,7 +2692,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd9. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 09. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 9. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2043,7 +2727,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.ClaireForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=43",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Claire_Lynn",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd10-33",
@@ -2052,9 +2739,9 @@ window.GUIDE = {
       "raceName": "State House · District 10",
       "level": "Legislative",
       "geography": [
-        "Lincoln",
         "Benton",
-        "Lane"
+        "Lane",
+        "Lincoln"
       ],
       "kind": "Candidate",
       "party": "Democrat, Independent, Republican",
@@ -2077,7 +2764,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2086,7 +2773,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2097,13 +2784,43 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · David Gomberg, House District 10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.ElectGomberg.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/David_Gomberg",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd12-34",
@@ -2123,7 +2840,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Amber_Smith",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd12-35",
@@ -2147,7 +2867,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd12. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 12. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 12. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2155,7 +2902,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.HarbickForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Darin_Harbick",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd13-36",
@@ -2178,7 +2928,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2187,7 +2937,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2196,7 +2946,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2205,7 +2955,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2216,13 +2966,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Nancy Nathanson, House District 13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.NancyNathanson.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=45",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Nancy_Nathanson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd13-37",
@@ -2241,7 +3039,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jonathan_Abrahamsen",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd14-38",
@@ -2262,7 +3063,10 @@ window.GUIDE = {
       "campaignUrl": "https://kevinburtonhousedi.wixsite.com/",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=46",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Kevin_Burton",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd14-39",
@@ -2285,7 +3089,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 14. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2294,7 +3098,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 14. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2303,7 +3107,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 14. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2312,7 +3116,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 14. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2323,13 +3127,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: District 14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.JulieFahey.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=46",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Julie_Fahey",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd8-40",
@@ -2354,7 +3197,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 8. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2363,7 +3206,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 8. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2372,7 +3215,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 08. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2381,7 +3224,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 08. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2392,13 +3235,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State Senate · Sara Gelser Blouin, Senate District 8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: 2026 general-election endorsements · Sara Gelser Blouin. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.saragelser.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=40",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sara_Gelser_Blouin",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd8-41",
@@ -2419,7 +3310,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Valerie_Draper_Woldeit",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd10-42",
@@ -2443,7 +3337,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2452,7 +3346,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2461,7 +3355,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2470,7 +3364,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 10. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2481,13 +3375,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State Senate · Deb Patterson, Senate District 10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 10. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.DebPattersonOR.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=41",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Deb_Patterson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd10-43",
@@ -2504,12 +3446,25 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 10 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 10: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 10. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://Angela4Oregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=41",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Angela_Plowhead",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd11-44",
@@ -2532,7 +3487,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2541,7 +3496,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2550,7 +3505,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2559,7 +3514,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2579,13 +3534,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State Senate · Virginia Stapleton, Senate District 11. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 11. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 11. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.ElectVirginiaStapleton.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Virginia_Stapleton",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd11-45",
@@ -2608,7 +3602,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Senators · sd11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2628,13 +3622,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Campaign-submitted voters’ pamphlet statement. Election office hosts but does not verify the endorsement.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 11. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.TracyForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tracy_Cramer",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd11-46",
@@ -2658,7 +3673,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2669,13 +3684,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Ivan Maluski, House District 11. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 11. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.ruralindependent.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=43",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ivan_Maluski",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd11-47",
@@ -2699,7 +3735,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd11. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 11. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2707,7 +3761,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.votekenjackola.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=43",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ken_Jackola",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd15-48",
@@ -2732,7 +3789,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2740,7 +3815,10 @@ window.GUIDE = {
       "campaignUrl": "https://shellyboshartdavis.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Shelly_Boshart_Davis",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd15-49",
@@ -2765,7 +3843,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2774,7 +3852,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2785,13 +3863,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Joanna Robinson, House District 15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 15. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.joannarobinsonfororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Joanna_Robinson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd17-50",
@@ -2813,7 +3930,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.linncodems.org/david-nelson-hd17.html",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=45",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/David_Nelson_(Oregon_state_representative_candidate)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd17-51",
@@ -2837,7 +3957,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd17. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 17. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2845,7 +3983,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.farringtonfororegon.com/",
       "campaignSource": "https://www.farringtonfororegon.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Dan_Farrington",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd18-52",
@@ -2869,7 +4010,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "note": "Find in source: State Representatives · hd18. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 18. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -2877,7 +4036,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.amandaforor.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=46",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Amanda_Staehely",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd18-53",
@@ -2903,13 +4065,25 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 18. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.KaufmannforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=46",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Roy_Kaufmann",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd18-54",
@@ -2929,7 +4103,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Patrick_Marnell",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd19-55",
@@ -2945,12 +4122,25 @@ window.GUIDE = {
       "description": "Listed for State House · District 19 in the November 3, 2026 election.",
       "raceDescription": "State House · District 19: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://vote-annamunson.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=47",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Anna_Munson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd19-56",
@@ -2973,7 +4163,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2982,7 +4172,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -2991,7 +4181,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3000,7 +4190,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3011,13 +4201,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Tom Andersen, House District 19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 19. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://electtomandersen.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=47",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tom_Andersen",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd20-57",
@@ -3050,7 +4288,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 20. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3059,7 +4297,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 20. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3068,7 +4306,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 20. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3079,13 +4317,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD20. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 20. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 20. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.PaulEvans.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=48",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Paul_Evans_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd20-58",
@@ -3107,7 +4384,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.fudge4oregon.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=48",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrew_Fudge",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd20-59",
@@ -3127,7 +4407,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Taylor_Rickey",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd21-60",
@@ -3150,7 +4433,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 21. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3159,7 +4442,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 21. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3168,7 +4451,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 21. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3177,7 +4460,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 21. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3188,13 +4471,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 21. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 21. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://WelshForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=49",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Michael_Welsh",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd21-61",
@@ -3217,7 +4521,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd21. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 21. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -3225,7 +4556,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.MannixForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=49",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Kevin_Mannix",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd22-62",
@@ -3248,7 +4582,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 22. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3257,7 +4591,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 22. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3266,7 +4600,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 22. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3286,13 +4620,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD22. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 22. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 22. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://leslyparaoregon.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Lesly_Mu%C3%B1oz",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd22-63",
@@ -3315,7 +4688,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd22. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 22. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -3323,7 +4714,10 @@ window.GUIDE = {
       "campaignUrl": "https://noemifororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=50",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Noemi_Legaspi",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd13-64",
@@ -3344,7 +4738,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Tim_Nelson_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd13-65",
@@ -3369,7 +4766,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3378,7 +4775,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3387,7 +4784,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3396,7 +4793,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 13. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3407,13 +4804,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State Senate · Courtney Neron Misslin, Senate District 13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 13. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 13. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 13 (Tigard, Sherwood, Wilsonville). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.CourtneyForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=38",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Courtney_Neron",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd13-66",
@@ -3436,7 +4881,10 @@ window.GUIDE = {
       "campaignUrl": "https://glennlancaster.com/",
       "campaignSource": "https://glennlancaster.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Glenn_Lancaster",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd15-67",
@@ -3459,7 +4907,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3468,7 +4916,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3477,7 +4925,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3486,7 +4934,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 15. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3506,13 +4954,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State Senate · Myrna Munoz, Senate District 15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "mother",
+          "source": "https://motherpac.org/may-2026-voter-guide/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: May 2026 voter guide · Senate District 15. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 15. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 15 (Hillsboro). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://myrnaforsenate.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=39",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Myrna_Munoz",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd15-68",
@@ -3533,7 +5038,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.haroldhutchison.carrd.co",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=39",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Harold_Hutchison",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd16-69",
@@ -3544,8 +5052,8 @@ window.GUIDE = {
       "geography": [
         "Clatsop",
         "Columbia",
-        "Tillamook",
         "Multnomah",
+        "Tillamook",
         "Washington",
         "Yamhill"
       ],
@@ -3561,7 +5069,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Senators · sd16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 16. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -3569,7 +5095,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.CourtneyBangs.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=40",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Courtney_Bangs",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd16-70",
@@ -3580,8 +5109,8 @@ window.GUIDE = {
       "geography": [
         "Clatsop",
         "Columbia",
-        "Tillamook",
         "Multnomah",
+        "Tillamook",
         "Washington",
         "Yamhill"
       ],
@@ -3597,7 +5126,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 16. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3606,7 +5135,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 16. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3617,13 +5146,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 16 (Scappoose, Astoria, Tillamook). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.SenateDistrict16.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=41",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Rachel_Armitage",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd16-71",
@@ -3634,8 +5184,8 @@ window.GUIDE = {
       "geography": [
         "Clatsop",
         "Columbia",
-        "Tillamook",
         "Multnomah",
+        "Tillamook",
         "Washington",
         "Yamhill"
       ],
@@ -3647,7 +5197,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Melisa_Finkle",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd17-72",
@@ -3669,7 +5222,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.facebook.com/johncheefororegon/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Chee",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd17-73",
@@ -3693,7 +5249,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 17. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3702,7 +5258,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 17. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3711,7 +5267,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 17. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3720,7 +5276,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 17. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3731,13 +5287,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD17. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 17. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 17 (Northwest Portland, Bethany). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.LisaForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=42",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Lisa_Reynolds",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd19-74",
@@ -3762,7 +5357,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3771,7 +5366,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3780,7 +5375,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3789,7 +5384,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 19. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3800,13 +5395,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 19. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 19 (Lake Oswego, West Linn, Tualatin). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://RobWagnerForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=43",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Rob_Wagner_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd19-75",
@@ -3829,7 +5463,10 @@ window.GUIDE = {
       "campaignUrl": "https://marydirksen.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=43",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Mary_Dirksen",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd25-76",
@@ -3852,7 +5489,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 25. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3861,7 +5498,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 25. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3870,7 +5507,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 25. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3879,7 +5516,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 25. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -3890,13 +5527,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD25. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 25. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 25. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 25 (Tigard, Metzger, South Beaverton). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.BenForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ben_Bowman",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd25-77",
@@ -3917,7 +5602,10 @@ window.GUIDE = {
       "campaignUrl": "https://bobniemeyer.com/",
       "campaignSource": "https://bobniemeyer.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Bob_Niemeyer",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd26-78",
@@ -3935,12 +5623,25 @@ window.GUIDE = {
       "description": "Listed for State House · District 26 in the November 3, 2026 election.",
       "raceDescription": "State House · District 26: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 26. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.StephanieForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=46",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Stephanie_Carkin",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd26-79",
@@ -3963,7 +5664,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.terrioforus.com/",
       "campaignSource": "https://www.terrioforus.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Steph_Terrio",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd26-80",
@@ -3997,7 +5701,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 26. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4006,7 +5710,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 26. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4015,7 +5719,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 26. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4026,13 +5730,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 26. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.votesueriekesmith.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sue_Rieke_Smith",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd27-81",
@@ -4055,7 +5780,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 27. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4064,7 +5789,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 27. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4073,7 +5798,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 27. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4082,7 +5807,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 27. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4093,13 +5818,88 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Tammy Carpenter, House District 27. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD27. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 27. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ourrev",
+          "source": "https://ourrevolution.com/revolution-report-april-11th-2026/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: OREGON SLATE · April 11, 2026 primary report. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "mother",
+          "source": "https://motherpac.org/may-2026-voter-guide/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: May 2026 voter guide · House District 27. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 27. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 27 (Beaverton). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.TammyforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=48",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tammy_Carpenter_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd27-82",
@@ -4144,7 +5944,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 28. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4153,7 +5953,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 28. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4162,7 +5962,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 28. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4171,7 +5971,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 28. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4182,13 +5982,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD28. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 28. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 28. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 28 (Southwest Portland, Beaverton). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.daciafororegon.com",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Dacia_Grayber",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd28-84",
@@ -4210,7 +6058,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.randallfororegon.com/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Randall_Fryer",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd29-85",
@@ -4226,12 +6077,34 @@ window.GUIDE = {
       "description": "Listed for State House · District 29 in the November 3, 2026 election.",
       "raceDescription": "State House · District 29: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 29. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 29 (Hillsboro, Cornelius, Forest Grove). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://brianschimmel.org/",
       "campaignSource": "https://brianschimmel.org/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Brian_Schimmel",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd29-86",
@@ -4254,7 +6127,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 29. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4263,7 +6136,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 29. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4272,7 +6145,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 29. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4281,7 +6154,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 29. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4292,13 +6165,43 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD29. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.SusanMcLain.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=50",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Susan_McLain",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd30-87",
@@ -4321,7 +6224,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 30. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4330,7 +6233,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 30. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4339,7 +6242,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 30. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4348,7 +6251,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 30. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4359,13 +6262,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD30. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 30. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 30. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.nathansosa.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=51",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Nathan_Sosa_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd30-88",
@@ -4384,7 +6326,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Charles_Ross_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd31-89",
@@ -4410,7 +6355,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd31. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 31. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -4418,7 +6381,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.DarceyForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=52",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Darcey_Edwards",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd31-90",
@@ -4446,13 +6412,25 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 31 (Scappoose, St. Helens, Banks). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://GoingDeepForOregon.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=52",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tom_Forest",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd33-91",
@@ -4476,7 +6454,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd33. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4485,7 +6463,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 33. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 33 (Northwest and Southwest Portland). Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -4493,7 +6480,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.shannonjonesisadore.com/",
       "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Shannon_Isadore",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd33-92",
@@ -4515,7 +6505,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.ciattathompson.com/",
       "campaignSource": "https://www.ciattathompson.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ciatta_Thompson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd34-93",
@@ -4539,7 +6532,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd34. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4548,7 +6541,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 34. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4557,7 +6550,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 34. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4566,7 +6559,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 34. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4583,7 +6576,10 @@ window.GUIDE = {
       "campaignUrl": "https://mariwatanabe.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=54",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Mari_Watanabe",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd34-94",
@@ -4605,7 +6601,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.shaunie4oregon.com/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Shaunie_Cousins",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd35-95",
@@ -4628,7 +6627,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 35. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4637,7 +6636,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 35. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4646,7 +6645,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 35. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4657,13 +6656,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Farrah Chaichi, House District 35. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD35. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 35. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 35. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.ChaichiForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=54",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Farrah_Chaichi",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd35-96",
@@ -4682,7 +6729,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Dan_Martin",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd36-97",
@@ -4705,7 +6755,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd36. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4714,7 +6764,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 36. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4723,7 +6773,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 36. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4732,7 +6782,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 36. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4741,7 +6791,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 36. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4752,13 +6802,43 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 36. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 36 (Hillsboro, Beaverton). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.haifororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=55",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Hai_Pham",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd36-98",
@@ -4779,7 +6859,10 @@ window.GUIDE = {
       "campaignUrl": "https://orthfororegon.com/",
       "campaignSource": "https://orthfororegon.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Michael_Orth",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd37-99",
@@ -4801,7 +6884,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.voteforchadparker.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=56",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Chad_Parker",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd37-100",
@@ -4825,7 +6911,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 37. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4834,7 +6920,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 37. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4843,7 +6929,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 37. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4852,7 +6938,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 37. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4863,13 +6949,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Jules Walters, House District 37. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD37. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 37. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 37. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 37 (Tualatin, West Linn). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.votejules.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=56",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jules_Walters",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd24-101",
@@ -4893,7 +7036,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: SD 24. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4902,7 +7045,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 24. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4911,7 +7054,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 24. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4920,7 +7063,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: SD 24. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4931,13 +7074,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD24. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 24. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 24. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.kaysejama.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=44",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Kayse_Jama",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd26-102",
@@ -4946,8 +7128,8 @@ window.GUIDE = {
       "raceName": "State Senate · District 26",
       "level": "Legislative",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah",
         "Wasco"
       ],
@@ -4963,7 +7145,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · SD 26. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4972,7 +7154,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: Senate District 26. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -4992,13 +7174,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD26. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State Senate District 26. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://bassettfororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=45",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Nicole_Bassett",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd26-103",
@@ -5007,8 +7210,8 @@ window.GUIDE = {
       "raceName": "State Senate · District 26",
       "level": "Legislative",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah",
         "Wasco"
       ],
@@ -5024,7 +7227,43 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Senators · sd26. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 26. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 26 (Canby, Sandy, Hood River, The Dalles). Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -5032,7 +7271,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.HelfrichforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=45",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jeffrey_Helfrich",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd38-104",
@@ -5056,7 +7298,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd38. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5065,7 +7307,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 38. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5074,7 +7316,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 38. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5083,7 +7325,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 38. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 38. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -5091,7 +7360,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.DanielForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=49",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Daniel_Nguyen",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd41-105",
@@ -5115,7 +7387,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 41. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5124,7 +7396,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 41. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5133,7 +7405,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 41. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5144,13 +7416,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Mark Gamba, House District 41. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD41. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 41. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 41. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 41 (Milwaukie). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "http://markgamba.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Mark_Gamba",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd41-106",
@@ -5172,7 +7501,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.emilwaukieor.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=50",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Elvis_Clark",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd42-107",
@@ -5193,7 +7525,10 @@ window.GUIDE = {
       "campaignUrl": "https://vote.stra.us",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=51",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Morey_Straus",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd42-108",
@@ -5216,7 +7551,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 42. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5225,7 +7560,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 42. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5234,7 +7569,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 42. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5245,13 +7580,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD42. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 42. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 42 (Southeast Portland). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.robnosse.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=51",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Rob_Nosse",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd43-109",
@@ -5274,7 +7648,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 43. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5283,7 +7657,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 43. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5294,13 +7668,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD43. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 43. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 43 (Northeast Portland). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.tawnasanchez.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=52",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tawna_Sanchez",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd43-110",
@@ -5321,7 +7734,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.bringbackportland.com/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Tim_LeMaster",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd44-111",
@@ -5344,7 +7760,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 44. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5353,7 +7769,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 44. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5362,7 +7778,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 44. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5371,7 +7787,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 44. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5382,13 +7798,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Travis Nelson, House District 44. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD44. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 44. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ourrev",
+          "source": "https://ourrevolution.com/revolution-report-april-11th-2026/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: OREGON SLATE · April 11, 2026 primary report. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 44. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.NelsonForOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=53",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Travis_Nelson_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd44-112",
@@ -5407,7 +7880,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Margo_Logan",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd45-113",
@@ -5428,7 +7904,10 @@ window.GUIDE = {
       "campaignUrl": "http://www.jasonboyce4oregon.com/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jason_Boyce_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd45-114",
@@ -5451,7 +7930,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 45. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5460,7 +7939,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 45. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5469,7 +7948,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 45. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5478,7 +7957,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 45. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5489,13 +7968,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD45. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 45. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 45. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.tranfororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=53",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Thuy_Tran",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd46-115",
@@ -5518,7 +8036,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 46. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5527,7 +8045,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 46. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5536,7 +8054,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 46. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5545,7 +8063,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 46. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5556,13 +8074,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Willy Chotzen, House District 46. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD46. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 46. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 46. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://ChotzenforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=54",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Willy_Chotzen",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd46-116",
@@ -5583,7 +8149,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.facebook.com/leo.morley.12/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/Leo_Morley",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd47-117",
@@ -5606,7 +8175,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 47. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5615,7 +8184,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 47. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5624,7 +8193,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 47. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5633,7 +8202,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 47. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5644,13 +8213,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Andrea Valderrama, House District 47. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD47. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 47. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.dreafororegon.com",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrea_Valderrama",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd48-118",
@@ -5674,7 +8282,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 48. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5683,7 +8291,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 48. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5692,7 +8300,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 48. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5701,7 +8309,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 48. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5712,13 +8320,79 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Lamar Wise, House District 48. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD48. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 48. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "mother",
+          "source": "https://motherpac.org/may-2026-voter-guide/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: May 2026 voter guide · House District 48. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 48. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 48 (East Portland, Happy Valley). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.wisefororegon.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Lamar_Wise",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd48-119",
@@ -5735,12 +8409,25 @@ window.GUIDE = {
       "description": "Listed for State House · District 48 in the November 3, 2026 election.",
       "raceDescription": "State House · District 48: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 48. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.andrewmorrisonfororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=55",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrew_Morrison_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd49-120",
@@ -5761,7 +8448,10 @@ window.GUIDE = {
       "campaignUrl": "https://FriendsofAnnWalker.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=56",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ann_Walker",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd49-121",
@@ -5784,7 +8474,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 49. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5793,7 +8483,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 49. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5802,7 +8492,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 49. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5813,13 +8503,70 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Zach Hudson, House District 49. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD49. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 49. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 49. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 49 (Troutdale, Parkrose, Gresham). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://electzachhudson.com/",
       "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Zach_Hudson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd50-122",
@@ -5840,7 +8587,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.facebook.com/votebriangray/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/Brian_Gray",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd50-123",
@@ -5863,7 +8613,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd50. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5872,7 +8622,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 50. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5881,7 +8631,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 50. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5890,7 +8640,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 50. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD50. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 50. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -5898,7 +8675,10 @@ window.GUIDE = {
       "campaignUrl": "https://ricki4oregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=57",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ricki_Ruiz",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd52-124",
@@ -5907,8 +8687,8 @@ window.GUIDE = {
       "raceName": "State House · District 52",
       "level": "Legislative",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah",
         "Wasco"
       ],
@@ -5924,7 +8704,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 52. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5933,7 +8713,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: House District 52. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5942,7 +8722,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 52. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -5962,13 +8742,25 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.hankfororegon.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Hank_Sanders_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd52-125",
@@ -5977,8 +8769,8 @@ window.GUIDE = {
       "raceName": "State House · District 52",
       "level": "Legislative",
       "geography": [
-        "Hood River",
         "Clackamas",
+        "Hood River",
         "Multnomah",
         "Wasco"
       ],
@@ -5994,7 +8786,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd52. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 52. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 52 (Hood River, The Dalles, Government Camp). Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6002,7 +8821,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.hegefororegon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=58",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Scott_Hege",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd57-126",
@@ -6011,16 +8833,15 @@ window.GUIDE = {
       "raceName": "State House · District 57",
       "level": "Legislative",
       "geography": [
-        "Gilliam",
-        "Morrow",
-        "Sherman",
-        "Wheeler",
         "Clackamas",
+        "Gilliam",
         "Jefferson",
         "Marion",
+        "Morrow",
+        "Sherman",
         "Umatilla",
         "Wasco",
-        "Eastern Oregon"
+        "Wheeler"
       ],
       "kind": "Candidate",
       "party": "Republican",
@@ -6034,7 +8855,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd57. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6043,7 +8864,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: HD 57. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6052,7 +8873,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: Regional district endorsements · HD 57. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6070,7 +8891,43 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "note": "Find in source: HD 57. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD57. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 57. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6078,7 +8935,10 @@ window.GUIDE = {
       "campaignUrl": "https://repgregsmith.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Greg_Smith_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd57-127",
@@ -6087,16 +8947,15 @@ window.GUIDE = {
       "raceName": "State House · District 57",
       "level": "Legislative",
       "geography": [
-        "Gilliam",
-        "Morrow",
-        "Sherman",
-        "Wheeler",
         "Clackamas",
+        "Gilliam",
         "Jefferson",
         "Marion",
+        "Morrow",
+        "Sherman",
         "Umatilla",
         "Wasco",
-        "Eastern Oregon"
+        "Wheeler"
       ],
       "kind": "Candidate",
       "party": "Pacific Green",
@@ -6108,7 +8967,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.josiahdean.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.josiahdean.com/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Josiah_Dean",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd58-128",
@@ -6117,10 +8979,9 @@ window.GUIDE = {
       "raceName": "State House · District 58",
       "level": "Legislative",
       "geography": [
-        "Union",
-        "Wallowa",
         "Umatilla",
-        "Eastern Oregon"
+        "Union",
+        "Wallowa"
       ],
       "kind": "Candidate",
       "party": "Democrat",
@@ -6130,7 +8991,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Brian_Campbell_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd58-129",
@@ -6139,10 +9003,9 @@ window.GUIDE = {
       "raceName": "State House · District 58",
       "level": "Legislative",
       "geography": [
-        "Union",
-        "Wallowa",
         "Umatilla",
-        "Eastern Oregon"
+        "Union",
+        "Wallowa"
       ],
       "kind": "Candidate",
       "party": "Republican",
@@ -6156,7 +9019,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "",
+          "note": "Find in source: State Representatives · hd58. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6167,13 +9030,34 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 58. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://bobbylevyfororegon.com/",
       "campaignSource": "https://bobbylevyfororegon.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Bobby_Levy",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lane-east-130",
@@ -6196,7 +9080,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Lane County Commission District 5. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6216,13 +9100,61 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Lane County · Heather Buch, Commission District 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Lane County Commissioner, Position 5. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/16/lookout-editorial-board-endorsements-city-and-county-races/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City and county races. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.HeatherBuch.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Heather_Buch_(Lane_County_Commissioner_Board_Position_5_(East_Lane_County),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lane-east-131",
@@ -6243,7 +9175,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.Pelroy.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jake_Pelroy_(Lane_County_Commissioner_Board_Position_5_(East_Lane_County),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "eugene5-132",
@@ -6259,12 +9194,25 @@ window.GUIDE = {
       "description": "Listed for Eugene City Council · Ward 5 in the November 3, 2026 election.",
       "raceDescription": "Eugene City Council · Ward 5: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/16/lookout-editorial-board-endorsements-city-and-county-races/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City and county races. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://electmikeclark.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=53",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Mike_Clark_(Eugene_City_Council_District_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "eugene5-133",
@@ -6298,13 +9246,52 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Eugene City Council · Athena Aguiar, Ward 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Eugene City Council, Ward 5. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.athena4eugene.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Athena_Aguiar_(Eugene_City_Council_District_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "springfield4-134",
@@ -6325,7 +9312,10 @@ window.GUIDE = {
       "campaignUrl": "https://jillcuadros.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://jillcuadros.com/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jill_Cuadros_(Springfield_City_Council_Ward_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "springfield4-135",
@@ -6348,7 +9338,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Springfield City Council. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6359,13 +9349,43 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Springfield City Council, Ward 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/16/lookout-editorial-board-endorsements-city-and-county-races/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City and county races. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://CalleeAckland.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=50",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Callee_Ackland_(Springfield_City_Council_Ward_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "union2-136",
@@ -6387,7 +9407,10 @@ window.GUIDE = {
       "campaignUrl": "https://scarfoforunioncounty.com/",
       "campaignSource": "https://scarfoforunioncounty.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Matt_Scarfo_(Union_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "union2-137",
@@ -6407,7 +9430,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Donna_Beverage_(Union_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "mult-chair-138",
@@ -6430,7 +9456,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Recommends ranking",
-          "note": "",
+          "note": "Find in source: 2026 Voter Guide · Shannon Singleton. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6439,7 +9465,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Multnomah County Commission Chair. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Multnomah County · Shannon Singleton, Chair. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Multnomah County Chair. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Chair · first choice. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6447,7 +9500,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.shannonsingleton.org/",
       "campaignSource": "https://seiu-oregon.org/2026-general-election-endorsements/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Shannon_Singleton",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "mult-chair-139",
@@ -6470,7 +9526,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Source uses abbreviated or variant names for some candidates; matched by name and office. This page covers 2026 without consistently specifying primary/general stage.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6488,7 +9544,25 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Multnomah County Commission Chair. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Chair · second choice. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6496,7 +9570,10 @@ window.GUIDE = {
       "campaignUrl": "https://www.juliabrim-edwards.com/",
       "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Julia_Brim-Edwards",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "mult-chair-140",
@@ -6512,12 +9589,25 @@ window.GUIDE = {
       "description": "November candidate filing listed for Multnomah County Chair. The source was last updated August 21, 2026; final certified ballot status has not been independently checked.",
       "raceDescription": "Multnomah County Chair: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Chair · third choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November filing listed · final certification not checked",
       "campaignUrl": "https://www.sharonforchair.com/",
       "campaignSource": "https://www.sharonforchair.com/",
       "campaignChecked": "2026-10-19",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sharon_Meieran",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "mult2-141",
@@ -6536,7 +9626,10 @@ window.GUIDE = {
       "endorsements": [],
       "rosterStatus": "November filing listed · final certification not checked",
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Bruce_Broussard",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "mult2-142",
@@ -6580,7 +9673,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Recommends ranking",
-          "note": "",
+          "note": "Find in source: 2026 Voter Guide · Serena Cruz. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6589,7 +9682,16 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Multnomah County Commission District 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 2 · second choice. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6620,7 +9722,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Recommends ranking",
-          "note": "",
+          "note": "Find in source: 2026 Voter Guide · Bri Williams. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6629,7 +9731,7 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "note": "Find in source: City, County, Local · Multnomah County Commission District 2. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         },
         {
@@ -6638,7 +9740,34 @@ window.GUIDE = {
           "confidence": "Issuer-confirmed",
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
-          "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "note": "Find in source: Statewide / congressional / county endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Multnomah County Commissioner, District 2. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-multnomah-county/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 2 · first choice. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ],
@@ -6691,6 +9820,24 @@ window.GUIDE = {
           "cycle": "General",
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Multnomah County · Nathan Ong Norris, District 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Multnomah County Commission, District 2. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
           "checked": "2026-10-19"
         }
       ],
@@ -6753,6 +9900,24 @@ window.GUIDE = {
           "cycle": "General",
           "position": "No",
           "note": "",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Local Measures. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Ballot measures. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
           "checked": "2026-10-19"
         }
       ],
@@ -6852,12 +10017,60 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 03. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 03. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · SD 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: SD 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.denisekrause.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Denise_Krause",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd3claybearnson",
@@ -6876,7 +10089,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Clay_Bearnson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "sd3bradhicks",
@@ -6893,9 +10109,40 @@ window.GUIDE = {
       "raceDescription": "Elects a member of the Oregon Legislature for this district.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Senators · sd3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 03. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Brad_Hicks",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd5pammarsh",
@@ -6921,12 +10168,69 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 05. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 05. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Pam Marsh, House District 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://representativepammarsh.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Pam_Marsh",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd5alexanderkrigsvold",
@@ -6945,7 +10249,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Alexander_Krigsvold",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd16sarahfingermcdonald",
@@ -6971,12 +10278,87 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 16. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://sarah-finger-mcdonald.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sarah_McDonald",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd23krisswright",
@@ -6985,7 +10367,8 @@ window.GUIDE = {
       "raceName": "Oregon House District 23",
       "level": "Legislative",
       "geography": [
-        "Polk"
+        "Polk",
+        "Yamhill"
       ],
       "kind": "Candidate",
       "party": "Democrat",
@@ -7002,12 +10385,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Kriss Wright, House District 23. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "https://www.facebook.com/p/KrissWright4StateRep-100079034983517/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/Kriss_Wright",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd23annamscharf",
@@ -7016,7 +10411,8 @@ window.GUIDE = {
       "raceName": "Oregon House District 23",
       "level": "Legislative",
       "geography": [
-        "Polk"
+        "Polk",
+        "Yamhill"
       ],
       "kind": "Candidate",
       "party": "Republican",
@@ -7024,9 +10420,40 @@ window.GUIDE = {
       "raceDescription": "Elects a member of the Oregon Legislature for this district.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd23. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 23. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Anna_Scharf",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd39aprildobson",
@@ -7052,12 +10479,69 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 39. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 39. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD39. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 39. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.aprildobson.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/April_Dobson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd40michaelwsugar",
@@ -7083,12 +10567,123 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: State House of Representatives · Michael W Sugar, House District 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 40. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 40 (Gladstone, Johnson City, Oregon City). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.sugarfororegon.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Michael_Sugar",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd40adambaker",
@@ -7105,9 +10700,22 @@ window.GUIDE = {
       "raceDescription": "Elects a member of the Oregon Legislature for this district.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 40. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Adam_Baker",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd40pathubbell",
@@ -7126,7 +10734,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Pat_Hubbell",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd51darlamead",
@@ -7152,12 +10763,69 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "oea",
+          "source": "https://oregoned.org/2026recommendations",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 51. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 51 (Canby, Estacada, Sandy). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.darlameadfororegon.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Darla_Mead",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd51mattbunch",
@@ -7174,9 +10842,49 @@ window.GUIDE = {
       "raceDescription": "Elects a member of the Oregon Legislature for this district.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 51. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Matt_Bunch",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd53emersonlevy",
@@ -7202,12 +10910,78 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://emersonvotes.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Emerson_Levy",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd53michaelsummers",
@@ -7224,9 +10998,22 @@ window.GUIDE = {
       "raceDescription": "Elects a member of the Oregon Legislature for this district.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 53. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Michael_Summers_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hd54jasonkropf",
@@ -7252,12 +11039,60 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 54. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD54. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 54. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 54. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://jasonkropfforbend.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jason_Kropf",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "marioncommission1saraduncan",
@@ -7283,12 +11118,51 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Marion County Commission Position 1. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Marion County · Sara Duncan, Position 1. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Marion County Commissioner, Position 1. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://duncan4marioncounty.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Sara_Duncan_(Marion_County_Commissioner_Board_Position_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "marioncommission1kevincameron",
@@ -7307,7 +11181,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kevin_Cameron_(Marion_County_Commissioner_Board_Position_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "marioncommission2mariahinojospressey",
@@ -7333,12 +11210,51 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Marion County Commission Position 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Marion County · Maria Hinojos Pressey, Position 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Marion County Commissioner, Position 2. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.maria4oregon.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Maria_Hinojos_Pressey_(Marion_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "marioncommission2colmwillis",
@@ -7357,7 +11273,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Colm_Willis_(Marion_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemmayorvanessanordyke",
@@ -7384,12 +11303,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://electvanessanordyke.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Vanessa_Nordyke",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemward2lindanishioka",
@@ -7415,12 +11355,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://lindanishiokaforsalem.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Linda_Nishioka",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemward4daveinbody",
@@ -7446,12 +11398,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "https://www.facebook.com/daveforsalem/?ref=PROFILE_EDIT_xav_ig_profile_page_web#",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Candidate page (Facebook)"
+      "campaignLabel": "Candidate page (Facebook)",
+      "ballotpediaUrl": "https://ballotpedia.org/David_Inbody",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemward6betsyvega",
@@ -7470,7 +11434,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Betsy_Vega",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemward8mickivarney",
@@ -7497,12 +11464,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Salem City Council Ward 8. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.mickiforsalem.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Micki_Varney",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "salemward8chriscummings",
@@ -7522,7 +11510,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Chris_Cummings_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "washingtonchairnafisafai",
@@ -7548,12 +11539,51 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Washington County Commission Chair. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "mother",
+          "source": "https://motherpac.org/may-2026-voter-guide/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "position": "Endorses",
+          "note": "Find in source: May 2026 voter guide · Washington County Chair. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Washington County Commission, Chair. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.nafisaforwashingtoncounty.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Nafisa_Fai_(Washington_County_Commissioner_Board_At-large_(Chair),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "washingtonchairpamtreece",
@@ -7572,7 +11602,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Pam_Treece_(Washington_County_Commissioner_Board_At-large_(Chair),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "beaverton1evelynkocher",
@@ -7598,12 +11631,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Beaverton City Council · Evelyn Kocher. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Beaverton City Council, Position 1. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://evelynforbeaverton.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Evelyn_Kocher_(Beaverton_City_Council_Position_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "beaverton1rachelphilip",
@@ -7622,7 +11676,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Rachel_Philip_(Beaverton_City_Council_Position_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hillsboroward2ivettepantoja",
@@ -7641,7 +11698,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Ivette_Pantoja_(Hillsboro_City_Council_Ward_2_Position_A,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hillsboroward2karimdelgado",
@@ -7667,12 +11727,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Hillsboro City Council. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Hillsboro City Council, Ward 2. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://karimdelgado.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Karim_Delgado_(Hillsboro_City_Council_Ward_2_Position_A,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hillsboroward3titonianwallacesr",
@@ -7691,7 +11772,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Titonian_Wallace_Sr._(Hillsboro_City_Council_Ward_3_Position_A,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hillsboroward3dorianrussell",
@@ -7717,12 +11801,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Hillsboro City Council, Ward 3. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://votedorianrussell.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Dorian_Russell_(Hillsboro_City_Council_Ward_3_Position_A,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "hillsboroward3kimberlyculbertson",
@@ -7741,7 +11837,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kimberly_Culbertson_(Hillsboro_City_Council_Ward_3_Position_A,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilperentiemann",
@@ -7774,7 +11873,10 @@ window.GUIDE = {
       "campaignUrl": "http://www.perentiemann.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Peren_Tiemann_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilbryanguiney",
@@ -7805,7 +11907,10 @@ window.GUIDE = {
         }
       ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Bryan_Guiney_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilpatrickwalsh",
@@ -7838,7 +11943,10 @@ window.GUIDE = {
       "campaignUrl": "http://walsh4lo.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Patrick_Walsh_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilheatherramsey",
@@ -7859,7 +11967,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Heather_Ramsey_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilneiltunmore",
@@ -7880,7 +11991,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Neil_Tunmore_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lakeoswegocouncilsuzannemiles",
@@ -7901,7 +12015,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Suzanne_Miles_(Lake_Oswego_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardmayoryikanghu",
@@ -7932,7 +12049,10 @@ window.GUIDE = {
       "campaignUrl": "http://www.yikanghu.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Yi-Kang_Hu_(Mayor_of_Tigard,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardmayorbillmonahan",
@@ -7951,7 +12071,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Bill_Monahan_(Mayor_of_Tigard,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcouncilgabrielelijiovelasquez",
@@ -7982,7 +12105,10 @@ window.GUIDE = {
       "campaignUrl": "http://gabevelasquez.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Gabriel_Elijio_Velasquez_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcouncilyousefkallouzi",
@@ -8013,7 +12139,10 @@ window.GUIDE = {
       "campaignUrl": "http://yousefallouzi.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Yousef_K._Allouzi_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcouncilkateristau",
@@ -8044,7 +12173,10 @@ window.GUIDE = {
       "campaignUrl": "http://katefortigard.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Kate_Ristau_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcounciljeffdarland",
@@ -8063,7 +12195,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jeff_Darland_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcouncilsuegarino",
@@ -8082,7 +12217,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Sue_Garino_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcounciltomanderson",
@@ -8101,7 +12239,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Tom_Anderson_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcounciljohngoodhouse",
@@ -8120,7 +12261,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Goodhouse_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "tigardcouncilshawnemartinez",
@@ -8139,7 +12283,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Shawne_Martinez_(Tigard_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallismayorcharlesmaughan",
@@ -8165,12 +12312,42 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Corvallis Mayor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Corvallis Mayor. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Mayor · second choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.maughanformayor.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Charles_Maughan_(Mayor_of_Corvallis,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallismayorkimigatherum",
@@ -8189,7 +12366,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kimi_Gatherum_(Mayor_of_Corvallis,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallismayorandrewstruthers",
@@ -8206,9 +12386,33 @@ window.GUIDE = {
       "raceDescription": "Elects the Corvallis Mayor to serve the local jurisdiction.",
       "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
-      "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Corvallis Mayor. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Mayor · first choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.struthersformayor.com/#new_tab",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Andrew_Struthers_(Mayor_of_Corvallis,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallismayorkaseyhaxton",
@@ -8227,7 +12431,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kasey_Haxton_(Mayor_of_Corvallis,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward1steveclark",
@@ -8246,7 +12453,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Steve_Clark_(Corvallis_City_Council_Ward_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward1breirish",
@@ -8272,12 +12482,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Corvallis City Council, Ward 1. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.breirish.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Bre_Irish_(Corvallis_City_Council_Ward_1,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward2tarsaweikert",
@@ -8294,9 +12516,22 @@ window.GUIDE = {
       "raceDescription": "Elects the Corvallis City Council, Ward 2 to serve the local jurisdiction.",
       "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: 2026 general-election endorsements · Tarsa Weikert. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Tarsa_Weikert_(Corvallis_City_Council_Ward_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward2briaelewis",
@@ -8327,7 +12562,10 @@ window.GUIDE = {
       "campaignUrl": "http://briaelewis.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Briae_Lewis_(Corvallis_City_Council_Ward_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward5christinedashiell",
@@ -8356,7 +12594,10 @@ window.GUIDE = {
         }
       ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Christine_Dashiell_(Corvallis_City_Council_Ward_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward6brennancolberg",
@@ -8375,7 +12616,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Brennan_Colberg_(Corvallis_City_Council_Ward_6,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward6gregshiffer",
@@ -8401,12 +12645,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: 2026 general-election endorsements · Greg Shiffer. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://gregforcorvallis.org/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Greg_Shiffer_(Corvallis_City_Council_Ward_6,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward7jerryingersoll",
@@ -8423,9 +12679,22 @@ window.GUIDE = {
       "raceDescription": "Elects the Corvallis City Council, Ward 7 to serve the local jurisdiction.",
       "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Ward 7 · first choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jerry_Ingersoll_(Corvallis_City_Council_Ward_7,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward7daniellechambers",
@@ -8451,12 +12720,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: Ward 7 · second choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://chambersforcorvallis.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Danielle_Chambers_(Corvallis_City_Council_Ward_7,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward7asajorg",
@@ -8475,7 +12756,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Asa_Jorg_(Corvallis_City_Council_Ward_7,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "corvallisward9alexishammer",
@@ -8506,7 +12790,10 @@ window.GUIDE = {
       "campaignUrl": "http://www.alexishammer.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Alexis_Hammer_(Corvallis_City_Council_Ward_9,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "deschutescommission3laurenconnally",
@@ -8525,7 +12812,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Lauren_Connally_(Deschutes_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "deschutescommission3amysabbadini",
@@ -8551,12 +12841,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Deschutes Commission Position 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.vote4sabbadini.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Amy_Sabbadini_(Deschutes_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "deschutescommission5robimhoff",
@@ -8575,7 +12877,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Rob_Imhoff_(Deschutes_County_Commissioner_Board_Position_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "deschutescommission5morganschmidt",
@@ -8601,12 +12906,51 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Deschutes Commission Position 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Deschutes County Commission · Morgan Schmidt, Position 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Chapter endorsements · local labor chapter endorsement. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Deschutes County Commission, Position 5. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.morganlovesoregon.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Morgan_Schmidt_(Deschutes_County_Commissioner_Board_Position_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "bendmayormelaniekebler",
@@ -8632,12 +12976,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Bend Mayor · Melanie Kebler. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://melaniekebler.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Melanie_Kebler_(Bend_City_Council_Position_7_(Mayor),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "bendmayorbernadettestrome",
@@ -8656,7 +13012,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Bernadette_Strome_(Bend_City_Council_Position_7_(Mayor),_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "bend5arielmendez",
@@ -8682,12 +13041,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Bend City Council · Ariel Mendez, Position 5. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.arielforbend.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Ariel_Mendez_(Bend_City_Council_Position_5,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "bend6elanareinholtz",
@@ -8713,12 +13084,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Bend City Council. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.elanaforbend.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Elana_Reinholtz_(Bend_City_Council_Position_6,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lincolncommission2cristendon",
@@ -8749,7 +13132,10 @@ window.GUIDE = {
       "campaignUrl": "https://electcristendon.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Cristen_Don_(Lincoln_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "lincolncommission2joedsteere",
@@ -8768,7 +13154,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Joe_D._Steere_(Lincoln_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "newportcouncilrobertemond",
@@ -8787,7 +13176,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Robert_Emond_(Newport_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "newportcouncilcmhall",
@@ -8818,7 +13210,10 @@ window.GUIDE = {
       "campaignUrl": "http://cmhallforcityhall.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/CM_Hall_(Newport_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "newportcouncilangelaparicioreyes",
@@ -8837,7 +13232,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Angel_Aparicio-Reyees_(Newport_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "newportcouncildavidnallen",
@@ -8856,7 +13254,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/David_N._Allen_(Newport_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "eugene3jennifersmith",
@@ -8882,12 +13283,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Eugene City Council · Jennifer Smith, Ward 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Eugene City Council, Ward 3. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://electjennifersmith.org/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jennifer_Smith_(Eugene_City_Council_District_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "eugene4jenniferyeh",
@@ -8913,12 +13335,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Eugene City Council · Jennifer Yeh, Ward 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://electjenniferyeh.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Jennifer_Yeh_(Eugene_City_Council_District_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "greshammayortravisstovall",
@@ -8949,7 +13392,10 @@ window.GUIDE = {
       "campaignUrl": "http://www.greshamtogether.org/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Travis_Stovall_(Mayor_of_Gresham,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "greshammayorsuepiazza",
@@ -8968,7 +13414,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Sue_Piazza_(Mayor_of_Gresham,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham2willdelplato",
@@ -8987,7 +13436,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Will_DelPlato_(Gresham_City_Council_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham2heathercolemancox",
@@ -9013,12 +13465,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Gresham City Council. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Gresham City Council, Position 2. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "https://togetherwithheather.org/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Heather_Coleman-Cox_(Gresham_City_Council_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham4joshuaaljaouni",
@@ -9037,7 +13510,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Joshua_Al-jaouni_(Gresham_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham4teoramirez",
@@ -9063,12 +13539,42 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Gresham City Council. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Gresham City Council, Position 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://teoforgresham.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Teo_Ramirez_(Gresham_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham4krestinaaziz",
@@ -9087,7 +13593,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Krestina_Aziz_(Gresham_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "gresham4gregoryschroeder",
@@ -9106,7 +13615,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Gregory_Schroeder_(Gresham_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "milwaukiemayorwillanderson",
@@ -9132,12 +13644,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Milwaukie Mayor. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
         }
       ],
       "campaignUrl": "http://www.willformilwaukie.com/",
       "campaignChecked": "2026-10-19",
       "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
-      "campaignLabel": "Official campaign page"
+      "campaignLabel": "Official campaign page",
+      "ballotpediaUrl": "https://ballotpedia.org/Will_Anderson_(Mayor_of_Milwaukie,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "milwaukiemayorlisabatey",
@@ -9156,7 +13680,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Lisa_Batey_(Mayor_of_Milwaukie,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "milwaukiemayorcsmlesliewright",
@@ -9175,7 +13702,10 @@ window.GUIDE = {
       "rosterStatus": "November election-office roster",
       "endorsements": [],
       "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Leslie_Wright_(Mayor_of_Milwaukie,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     },
     {
       "id": "measure9185",
@@ -9200,6 +13730,24 @@ window.GUIDE = {
           "cycle": "General",
           "position": "No",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "No",
+          "note": "Find in source: Local Measures. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "No",
+          "note": "Find in source: Ballot Measures. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ]
@@ -9227,6 +13775,33 @@ window.GUIDE = {
           "cycle": "General",
           "position": "Yes",
           "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Local Measures. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Ballot measures. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/17/lookout-editorial-board-endorsements-lane-county-ballot-measures/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Eugene Clean Energy Fund · support with conditions explained in editorial. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
         }
       ]
@@ -9257,6 +13832,2688 @@ window.GUIDE = {
           "checked": "2026-10-19"
         }
       ]
+    },
+    {
+      "id": "hd60-bethspell",
+      "name": "Beth Spell",
+      "race": "hd60",
+      "raceName": "State House · District 60",
+      "level": "Legislative",
+      "geography": [
+        "Baker",
+        "Deschutes",
+        "Grant",
+        "Harney",
+        "Lake",
+        "Malheur"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 60 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book19_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Beth_Spell",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd60-markowens",
+      "name": "Mark Owens",
+      "race": "hd60",
+      "raceName": "State House · District 60",
+      "level": "Legislative",
+      "geography": [
+        "Baker",
+        "Deschutes",
+        "Grant",
+        "Harney",
+        "Lake",
+        "Malheur"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 60 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book19_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd60. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 60. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Mark_Owens_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "sd20-michelestroh",
+      "name": "Michele Stroh",
+      "race": "sd20",
+      "raceName": "State Senate · District 20",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State Senate · District 20 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Michele_Stroh",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "sd20-markmeek",
+      "name": "Mark Meek",
+      "race": "sd20",
+      "raceName": "State Senate · District 20",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State Senate · District 20 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Senators · sd20. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=4",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 4 · State Senate. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ona",
+          "source": "https://www.oregonrn.org/page/2026Endorse",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: SD 20. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-oregon-legislature/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Senate District 20 (Happy Valley, GLADSTONE, Oregon City). Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Mark_Meek",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd32-maxsherman",
+      "name": "Max Sherman",
+      "race": "hd32",
+      "raceName": "State House · District 32",
+      "level": "Legislative",
+      "geography": [
+        "Clatsop",
+        "Columbia",
+        "Tillamook"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 32 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book11_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Max_Sherman",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd32-cyrusjavadi",
+      "name": "Cyrus Javadi",
+      "race": "hd32",
+      "raceName": "State House · District 32",
+      "level": "Legislative",
+      "geography": [
+        "Clatsop",
+        "Columbia",
+        "Tillamook"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Independent",
+      "description": "Listed for State House · District 32 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book11_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: House District 32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ocl",
+          "source": "https://oclactionfund.org/november-2026-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Regional district endorsements · HD 32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: HD 32. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · State House District 32. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://seiu-oregon.org/candidate/cyrus-javadi/",
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Cyrus_Javadi",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list"
+    },
+    {
+      "id": "hd1-courtboice",
+      "name": "Court Boice",
+      "race": "hd1",
+      "raceName": "State House · District 1",
+      "level": "Legislative",
+      "geography": [
+        "Coos",
+        "Curry",
+        "Douglas"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd1. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "fire",
+          "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 1 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 01. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Court_Boice",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd1-bretcecil",
+      "name": "Bret Cecil",
+      "race": "hd1",
+      "raceName": "State House · District 1",
+      "level": "Legislative",
+      "geography": [
+        "Coos",
+        "Curry",
+        "Douglas"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Bret_Cecil",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd2-virglejosborne",
+      "name": "Virgle J Osborne",
+      "race": "hd2",
+      "raceName": "State House · District 2",
+      "level": "Legislative",
+      "geography": [
+        "Douglas",
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Republican, Democrat",
+      "description": "Listed for State House · District 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 02. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Virgle_Osborne",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd4-alekskarlatos",
+      "name": "Alek Skarlatos",
+      "race": "hd4",
+      "raceName": "State House · District 4",
+      "level": "Legislative",
+      "geography": [
+        "Douglas",
+        "Jackson",
+        "Josephine"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 04. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Alek_Skarlatos",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd59-vikkibreeseiverson",
+      "name": "Vikki Breese-Iverson",
+      "race": "hd59",
+      "raceName": "State House · District 59",
+      "level": "Legislative",
+      "geography": [
+        "Crook",
+        "Deschutes",
+        "Jefferson"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 59 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book15_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd59. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 59. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Vikki_Breese-Iverson",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd59-lawrencejones",
+      "name": "Lawrence Jones",
+      "race": "hd59",
+      "raceName": "State House · District 59",
+      "level": "Legislative",
+      "geography": [
+        "Crook",
+        "Deschutes",
+        "Jefferson"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 59 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book15_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Lawrence_Jones_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd55-colbymsimmons",
+      "name": "Colby M Simmons",
+      "race": "hd55",
+      "raceName": "State House · District 55",
+      "level": "Legislative",
+      "geography": [
+        "Deschutes",
+        "Klamath"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 55 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Colby_Simmons",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd55-ewernerreschke",
+      "name": "E Werner Reschke",
+      "race": "hd55",
+      "raceName": "State House · District 55",
+      "level": "Legislative",
+      "geography": [
+        "Deschutes",
+        "Klamath"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 55 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd55. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 55. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/E._Werner_Reschke",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd6-kimwallan",
+      "name": "Kim Wallan",
+      "race": "hd6",
+      "raceName": "State House · District 6",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd6. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 06. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kim_Wallan",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd6-johnpholm",
+      "name": "John P Holm",
+      "race": "hd6",
+      "raceName": "State House · District 6",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Holm",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd56-emilygmcintire",
+      "name": "Emily G McIntire",
+      "race": "hd56",
+      "raceName": "State House · District 56",
+      "level": "Legislative",
+      "geography": [
+        "Jackson",
+        "Klamath"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 56 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd56. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 56. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Emily_McIntire",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd3-dwayneyunker",
+      "name": "Dwayne Yunker",
+      "race": "hd3",
+      "raceName": "State House · District 3",
+      "level": "Legislative",
+      "geography": [
+        "Josephine"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book2_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=5",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 5 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 03. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Dwayne_Yunker",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd3-susanfischermaki",
+      "name": "Susan Fischer-Maki",
+      "race": "hd3",
+      "raceName": "State House · District 3",
+      "level": "Legislative",
+      "geography": [
+        "Josephine"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Listed for State House · District 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book2_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Susan_Fischer-Maki",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "hd24-lucettaaelmer",
+      "name": "Lucetta A Elmer",
+      "race": "hd24",
+      "raceName": "State House · District 24",
+      "level": "Legislative",
+      "geography": [
+        "Polk",
+        "Yamhill"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Listed for State House · District 24 in the November 3, 2026 election.",
+      "raceDescription": "Elects a state legislator for the named district. Only voters in this district vote in this contest.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
+      "sourceDetail": "Candidate and measure list",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "ag",
+          "source": "https://www.agpacoregon.org/endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: State Representatives · hd24. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ofs",
+          "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf#page=6",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "nfib",
+          "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: HD 24. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Lucetta_Elmer",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "washington4kipperlynsinclair",
+      "name": "Kipperlyn Sinclair",
+      "race": "washington4",
+      "raceName": "Washington County Commission · District 4",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Runoff for Washington County commissioner, District 4.",
+      "raceDescription": "Runoff for Washington County commissioner, District 4.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · Washington County Commission District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Washington County · Kipperlyn Sinclair, Commision D4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Washington County Commissioner, District 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.kipperlynsinclair.com/",
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kipperlyn_Sinclair_(Washington_County_Commissioner_Board_District_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list"
+    },
+    {
+      "id": "washington4stevecallaway",
+      "name": "Steve Callaway",
+      "race": "washington4",
+      "raceName": "Washington County Commission · District 4",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Runoff for Washington County commissioner, District 4.",
+      "raceDescription": "Runoff for Washington County commissioner, District 4.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Steve_Callaway_(Washington_County_Commissioner_Board_District_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "ewebatlargealeximiller",
+      "name": "Alexi Miller",
+      "race": "eweb-atlarge",
+      "raceName": "Eugene Water & Electric Board · At large",
+      "level": "Local",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "At-large member of the board governing Eugene’s public water and electric utility.",
+      "raceDescription": "At-large member of the board governing Eugene’s public water and electric utility.",
+      "source": "https://www.eugene-or.gov/518/Elections",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Eugene Water & Electric Board · Alexi Miller, At Large Member. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://friendsofaleximiller.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Alexi_Miller_(Eugene_Water_and_Electric_Commissioner_Board_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3alibeaudoin",
+      "name": "Ali Beaudoin",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Ali_Beaudoin",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3joelcorcoran",
+      "name": "Joel Corcoran",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Joel_Corcoran",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3guyfrankenstein",
+      "name": "Guy Frankenstein",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Guy_Frankenstein",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3matthiashallett",
+      "name": "Matthias Hallett",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Matthias_Hallett",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3patrickhilton",
+      "name": "Patrick Hilton",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Patrick_Hilton",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3larrykelly",
+      "name": "Larry Kelly",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Larry_Kelly",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3kennethkentrlandgraveriii",
+      "name": "Kenneth (Kent) R Landgraver III",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kenneth_Landgraver",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3tiffanykoyamalane",
+      "name": "Tiffany Koyama Lane",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Tiffany Koyama Lane, District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Tiffany Koyama Lane. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Portland City Council, District 3. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 3 · second choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://teachertiffanyforthepeople.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Tiffany_Koyama_Lane",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3keirlegree",
+      "name": "Keir Legree",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Keir_Legree",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3estherlen",
+      "name": "Esther León",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Esther Leon, District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Esther León. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.estherforportland.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Esther_Le%C3%B3n",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3darrenmccormick",
+      "name": "Darren McCormick",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Darren_McCormick",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3angelitamorillo",
+      "name": "Angelita Morillo",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Angelita Morrillo, District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Angelita Morillo. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Portland City Council, District 3. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.angelitaforportland.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Angelita_Morillo",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3stevenovick",
+      "name": "Steve Novick",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 3 · first choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.novickforportland.com/#new_tab",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Steve_Novick",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3cristalotero",
+      "name": "Cristal Otero",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Cristal Otero, District 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.cristalforportland.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Cristal_Otero",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3terryparker",
+      "name": "Terry Parker",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Terry_Parker_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3heartfreepham",
+      "name": "Heart Free Pham",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Heart_Free_Pham",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3tomsollitt",
+      "name": "Tom Sollitt",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Tom_Sollitt",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3johnsweeney",
+      "name": "John Sweeney",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Sweeney_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3kellietorres",
+      "name": "Kellie Torres",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 3 · third choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kellie_Torres",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3kimberlytucker",
+      "name": "Kimberly Tucker",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Kimberly_Tucker_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland3martinward",
+      "name": "Martin Ward",
+      "race": "portland3",
+      "raceName": "Portland City Council · District 3",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 3. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Martin_Ward",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4timothytjanderson",
+      "name": "Timothy (TJ) Anderson",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Timothy_Anderson_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4eliarnold",
+      "name": "Eli Arnold",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Eli_Arnold",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4oliviaclark",
+      "name": "Olivia Clark",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 4 · first choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.oliviaforportland.com/#new_tab",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Olivia_Clark",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4jaynecronlund",
+      "name": "Jayne Cronlund",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 4 · third choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jayne_Cronlund",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4jameyevenstar",
+      "name": "Jamey Evenstar",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Jamey Evenstar, District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Jamey Evenstar. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Portland City Council, District 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.evenstarforportland.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Jamey_Evenstar",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4johnjgoldsmith",
+      "name": "John J Goldsmith",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_Goldsmith",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4mitchgreen",
+      "name": "Mitch Green",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "sierra-or",
+          "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Portland City Council · Mitch Green, District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Mitch Green. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Portland City Council, District 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.mitch4portland.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Mitch_Green",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4joshleake",
+      "name": "Josh Leake",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Josh_Leake",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4johnmcdonald",
+      "name": "John McDonald",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/John_McDonald_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4mattschulte",
+      "name": "Matt Schulte",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Matt_Schulte_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4jeremybeausoleilsmith",
+      "name": "Jeremy Beausoleil Smith",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: 2026 Voter Guide · Jeremy Beausoleil Smith. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Our Candidates · Portland City Council, District 4. Published on the entity’s 2026 list. This is the party’s own supported-candidate list. Ballot cross-nominations are shown separately and are not inferred as endorsements.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jeremy_Beausoleil_Smith_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portland4ericzimmerman",
+      "name": "Eric Zimmerman",
+      "race": "portland4",
+      "raceName": "Portland City Council · District 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "raceDescription": "Three council seats elected by ranked-choice voting in Portland District 4. County overlap may be partial.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=3",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: City, County, Local · PDX City Council District 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-portland-city-council/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Recommends ranking",
+          "note": "Find in source: District 4 · second choice. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://ez4pdx.com/#new_tab",
+      "campaignChecked": "2026-10-19",
+      "campaignLabel": "Official campaign page",
+      "campaignSource": "Linked from the endorsing organization’s candidate list",
+      "ballotpediaUrl": "https://ballotpedia.org/Eric_Zimmerman_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "portlandauditorsimonerede",
+      "name": "Simone Rede",
+      "race": "portland-auditor",
+      "raceName": "Portland City Auditor",
+      "level": "Local",
+      "geography": [
+        "Multnomah",
+        "Clackamas",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Citywide auditor, elected on a nonpartisan ballot.",
+      "raceDescription": "Citywide auditor, elected on a nonpartisan ballot.",
+      "source": "https://multco.us/file/portland_certified_candidates.pdf/download#page=2",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Candidate Endorsements. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: 2026 Voter Guide · Simone Rede. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Simone_Rede",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "keizer4tammykunz",
+      "name": "Tammy Kunz",
+      "race": "keizer4",
+      "raceName": "Keizer City Council · Position 4",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Four-year city council position in Keizer.",
+      "raceDescription": "Four-year city council position in Keizer.",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=16",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Tammy_Kunz_(Keizer_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "keizer4chelseaalionar",
+      "name": "Chelsea Alionar",
+      "race": "keizer4",
+      "raceName": "Keizer City Council · Position 4",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Four-year city council position in Keizer.",
+      "raceDescription": "Four-year city council position in Keizer.",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=16",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "seiu",
+          "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Local endorsements · Keizer Position 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Local endorsements · Keizer Position 4. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Chelsea_Alionar_(Keizer_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "keizer4maraleefletchall",
+      "name": "Maralee Fletchall",
+      "race": "keizer4",
+      "raceName": "Keizer City Council · Position 4",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Four-year city council position in Keizer.",
+      "raceDescription": "Four-year city council position in Keizer.",
+      "source": "https://co.marion.or.us/CO/elections/Documents/VoterRegistrationNumbers/2026/November%203%202026%20General%20Election%20VP_FINAL_ONLINEVER.pdf#page=16",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Maralee_Fletchall_(Keizer_City_Council_Position_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "polk3jeremygordon",
+      "name": "Jeremy Gordon",
+      "race": "polk3",
+      "raceName": "Polk County Commission · Position 3",
+      "level": "Local",
+      "geography": [
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan county commission election.",
+      "raceDescription": "Nonpartisan county commission election.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "afl",
+          "source": "https://www.oregonlabor.org/vote",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Polk County Position 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Polk County Position 3. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Jeremy_Gordon_(Polk_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "polk3stevemilligan",
+      "name": "Steve Milligan",
+      "race": "polk3",
+      "raceName": "Polk County Commission · Position 3",
+      "level": "Local",
+      "geography": [
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan county commission election.",
+      "raceDescription": "Nonpartisan county commission election.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Steve_Milligan_(Polk_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "circuit42dianessykes",
+      "name": "Diane S Sykes",
+      "race": "circuit4-2",
+      "raceName": "Multnomah County Circuit Court · Position 2",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "raceDescription": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Multnomah County Circuit Court Position 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Party-listed support",
+          "note": "Find in source: Multnomah County Circuit Court Position 2. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Diane_Sykes_(Oregon)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "circuit42lauramaurerrowan",
+      "name": "Laura Maurer Rowan",
+      "race": "circuit4-2",
+      "raceName": "Multnomah County Circuit Court · Position 2",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "raceDescription": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-circuit-judges/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Laura Maurer Rowan. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Laura_Rowan",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "circuit414elizabethsavage",
+      "name": "Elizabeth Savage",
+      "race": "circuit4-14",
+      "raceName": "Multnomah County Circuit Court · Position 14",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "raceDescription": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "ww",
+          "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-circuit-judges/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Fall 2026 endorsements · Elizabeth Savage. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Elizabeth_Savage",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "circuit414josephhagedorn",
+      "name": "Joseph Hagedorn",
+      "race": "circuit4-14",
+      "raceName": "Multnomah County Circuit Court · Position 14",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "raceDescription": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "pfa",
+          "source": "https://www.portlandforall.org/voterguide",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Multnomah County Circuit Court Position 14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "wfp",
+          "source": "https://workingfamilies.org/state/oregon/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Party-listed support",
+          "note": "Find in source: Multnomah County Circuit Court Position 14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "2026 · stage unspecified",
+          "position": "Endorses",
+          "note": "Find in source: Multnomah County Circuit Court Position 14. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Joseph_Hagedorn",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "circuit46soniaamontalbano",
+      "name": "Sonia A Montalbano",
+      "race": "circuit4-6",
+      "raceName": "Multnomah County Circuit Court · Position 6",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "raceDescription": "Nonpartisan election for Oregon’s Fourth Judicial District circuit court. Judicial races do not use Portland’s city-council ranked-choice system.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19",
+      "ballotpediaUrl": "https://ballotpedia.org/Sonia_Montalbano",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "m20-386",
+      "name": "Measure 20-386",
+      "race": "m20-386",
+      "raceName": "Dunes City · short-term rental rules",
+      "level": "Measures",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Prohibits new short-term rentals and changes regulation of existing short-term rentals.",
+      "raceDescription": "Prohibits new short-term rentals and changes regulation of existing short-term rentals.",
+      "source": "https://www.lanecountyor.gov/cms/one.aspx?pageId=4081147",
+      "rosterStatus": "November election-office listing",
+      "endorsements": [
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/17/lookout-editorial-board-endorsements-lane-county-ballot-measures/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "No",
+          "note": "Find in source: Lane County ballot measures · Measure 20-386. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "m-oakridge-ambulance",
+      "name": "Oakridge ambulance levy",
+      "race": "m-oakridge-ambulance",
+      "raceName": "Oakridge · ambulance operations levy",
+      "level": "Measures",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Five-year local option tax for ambulance service operations. Listed by its title; see the election office for the ballot measure number.",
+      "raceDescription": "Five-year local option tax for ambulance service operations. Listed by its title; see the election office for the ballot measure number.",
+      "source": "https://www.lanecountyor.gov/cms/one.aspx?pageId=4081147",
+      "rosterStatus": "November election-office listing",
+      "endorsements": [
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/17/lookout-editorial-board-endorsements-lane-county-ballot-measures/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Lane County ballot measures · Oakridge ambulance levy. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "m-western-lane-ambulance",
+      "name": "Western Lane ambulance levy",
+      "race": "m-western-lane-ambulance",
+      "raceName": "Western Lane Ambulance District · levy renewal",
+      "level": "Measures",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Renews a five-year local option levy for emergency medical and ambulance services. Listed by its title; see the election office for the ballot measure number.",
+      "raceDescription": "Renews a five-year local option levy for emergency medical and ambulance services. Listed by its title; see the election office for the ballot measure number.",
+      "source": "https://www.lanecountyor.gov/cms/one.aspx?pageId=4081147",
+      "rosterStatus": "November election-office listing",
+      "endorsements": [
+        {
+          "entity": "lookout",
+          "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/17/lookout-editorial-board-endorsements-lane-county-ballot-measures/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Lane County ballot measures · Western Lane ambulance levy. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "m2-160",
+      "name": "Measure 2-160",
+      "race": "m2-160",
+      "raceName": "Corvallis School District · operating levy renewal",
+      "level": "Measures",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Renewal of the current five-year local option tax for Corvallis School District 509J operations.",
+      "raceDescription": "Renewal of the current five-year local option tax for Corvallis School District 509J operations.",
+      "source": "https://re.bentoncountyor.gov/current-election/",
+      "rosterStatus": "November election-office listing",
+      "endorsements": [
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Find in source: Yes to the Corvallis School District Operating Levy. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "corvallis4paulberg",
+      "name": "Paul Berg",
+      "race": "corvallis-ward4",
+      "raceName": "Corvallis City Council · Ward 4",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 4.",
+      "raceDescription": "Nonpartisan city council election in Corvallis Ward 4.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November certified roster",
+      "endorsements": [
+        {
+          "entity": "advocate",
+          "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Find in source: Ward 4 · Paul Berg. Published on the entity’s 2026 list.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Paul_Berg_(Corvallis_City_Council_Ward_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "corvallis4evreksmith",
+      "name": "Evrek Smith",
+      "race": "corvallis-ward4",
+      "raceName": "Corvallis City Council · Ward 4",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 4.",
+      "raceDescription": "Nonpartisan city council election in Corvallis Ward 4.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November certified roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Evrek_Smith_(Corvallis_City_Council_Ward_4,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     }
   ],
   "sources": {
@@ -9268,17 +16525,17 @@ window.GUIDE = {
     "ag": "https://www.agpacoregon.org/endorsements",
     "ona": "https://www.oregonrn.org/page/2026Endorse",
     "af": "https://www.politicalaction.oregonafscme.org/elections2026",
-    "nfib": "https://www.nfib.com/news/press-release/nfib-endorses-christine-drazan-for-oregon-governor/",
+    "nfib": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
     "ucrp": "https://www.umatillarepublicanparty.com/endorsements",
-    "ocl": "https://oclactionfund.org/",
+    "ocl": "https://oclactionfund.org/november-2026-endorsements/",
     "pfa": "https://www.portlandforall.org/voterguide",
-    "ww": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-measures/",
+    "ww": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements/",
     "measures": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
     "local": "https://multco.us/info/candidate-filings-november-2026-election",
     "lisa": "https://www.lisafragalafororegon.com/endorsements",
     "seiu": "https://seiu-oregon.org/2026-general-election-endorsements/",
     "oea": "https://oregoned.org/2026recommendations",
-    "lcv": "https://www.lcv.org/endorsements/?cycle=general&office=senate&result_page=2",
+    "lcv": "https://www.lcv.org/endorsements/",
     "nrdc": "https://www.nrdcactionfund.org/nrdc-action-fund-endorsements",
     "population": "https://www.populationconnectionaction.org/vote/2026-endorsements/",
     "foodwater": "https://www.foodandwateraction.org/endorsements/",
@@ -9288,12 +16545,30 @@ window.GUIDE = {
     "ourrev": "https://ourrevolution.com/revolution-report-april-11th-2026/",
     "awa": "https://animalwellnessaction.org/2026-election-endorsements/",
     "advocate": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
-    "lookout": "https://lookouteugene-springfield.com/story/editorials/2026/10/15/lookout-editorial-board-endorsements-state-and-federal-races/",
+    "lookout": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
     "ppaf": "https://www.plannedparenthoodaction.org/endorsements",
     "wwf": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
     "civpac": "https://centristindependentvoter.com/oregon-senate-2026-jeff-merkley-endorsement/",
-    "olcv": "https://www.olcv.org/2026-general-endorsements/"
+    "olcv": "https://www.olcv.org/2026-general-endorsements/",
+    "sierra": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
+    "mother": "https://motherpac.org/may-2026-voter-guide/",
+    "wfp": "https://workingfamilies.org/state/oregon/",
+    "orcops": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+    "farm": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+    "agc": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+    "ofs": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf",
+    "ucg": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+    "pp": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
+    "hoyle": "https://www.lisafragalafororegon.com/endorsements",
+    "piercy": "https://www.lisafragalafororegon.com/endorsements",
+    "knudson": "https://www.lisafragalafororegon.com/endorsements",
+    "thatcher": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+    "mannix": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+    "afl": "https://www.oregonlabor.org/vote",
+    "fire": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+    "sierra-or": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+    "nfib-fed": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/"
   },
-  "coverage": "Partial research release. Federal and governor rosters included; legislative and local coverage remains selective. Endorsement research is expanding; no candidate or entity has an asserted complete endorsement list.",
-  "researchRevision": "2026-10-19 expanded source review"
+  "coverage": "Federal, governor and all 75 legislative contest rosters are included. Local coverage and endorsement coverage remain partial. Source-specific review results and unresolved gaps are recorded in source-audit.html.",
+  "researchRevision": "2026-10-19 expanded source audit and download context"
 };

@@ -1,0 +1,300 @@
+{
+  "checked": "2026-10-19",
+  "scope": "Every entity currently in this dataset was reviewed. This is a source review, not a claim that all Oregon endorsers or all of their endorsements are captured.",
+  "entities": [
+    {
+      "id": "ag",
+      "name": "AG-PAC",
+      "claims": 42,
+      "source": "https://www.agpacoregon.org/endorsements",
+      "review": "All 42 candidates on the checked 2026 list included. Source does not specify primary versus general stage."
+    },
+    {
+      "id": "awa",
+      "name": "Animal Wellness Action",
+      "claims": 7,
+      "source": "https://animalwellnessaction.org/2026-election-endorsements/",
+      "review": "All seven Oregon candidates in the checked 2026 national list included."
+    },
+    {
+      "id": "agc",
+      "name": "Associated General Contractors Oregon-Columbia Chapter",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "review": "Official advocacy source/search reviewed; no current public candidate slate located. Existing campaign-reported claim retained."
+    },
+    {
+      "id": "civpac",
+      "name": "Centrist Independent Voter / CIVPAC",
+      "claims": 1,
+      "source": "https://centristindependentvoter.com/oregon-senate-2026-jeff-merkley-endorsement/",
+      "review": "The Oregon Senate endorsement article is included. It establishes that article’s position, not an exhaustive national PAC slate."
+    },
+    {
+      "id": "foodwater",
+      "name": "Food & Water Action",
+      "claims": 1,
+      "source": "https://www.foodandwateraction.org/endorsements/",
+      "review": "The checked current page lists Jeff Merkley for Oregon; included."
+    },
+    {
+      "id": "jstreet",
+      "name": "JStreetPAC",
+      "claims": 4,
+      "source": "https://jstreetpac.org/candidate/jeff-merkley/",
+      "review": "Merkley and three linked Oregon profiles explicitly labeled Endorsed checked. Profiles do not specify the election stage; no general-election stage inferred. National directory coverage is not established."
+    },
+    {
+      "id": "jane",
+      "name": "Jane Fonda Climate PAC / JanePAC",
+      "claims": 7,
+      "source": "https://www.janepac.com/endorsements",
+      "review": "Current 2026 Oregon entries captured where matched to November candidates. Tonia Moro is outside the checked November SD3 roster. Older 2022/2024/2025 entries excluded."
+    },
+    {
+      "id": "knudson",
+      "name": "Kaarin Knudson",
+      "claims": 1,
+      "source": "https://www.lisafragalafororegon.com/endorsements",
+      "review": "Campaign-listed personal endorsement retained with its source. No full list of this person’s other endorsements was verified."
+    },
+    {
+      "id": "mannix",
+      "name": "Kevin Mannix",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+      "review": "Campaign-listed personal endorsement retained with its source. No full list of this person’s other endorsements was verified."
+    },
+    {
+      "id": "thatcher",
+      "name": "Kim Thatcher",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+      "review": "Campaign-listed personal endorsement retained with its source. No full list of this person’s other endorsements was verified."
+    },
+    {
+      "id": "piercy",
+      "name": "Kitty Piercy",
+      "claims": 1,
+      "source": "https://www.lisafragalafororegon.com/endorsements",
+      "review": "Campaign-listed personal endorsement retained with its source. No full list of this person’s other endorsements was verified."
+    },
+    {
+      "id": "lcv",
+      "name": "LCV Action Fund",
+      "claims": 6,
+      "source": "https://www.lcv.org/endorsements/",
+      "review": "All six Oregon candidates returned by the current 2026 General state filter included."
+    },
+    {
+      "id": "lookout",
+      "name": "Lookout Eugene-Springfield editorial board",
+      "claims": 18,
+      "source": "https://lookouteugene-springfield.com/story/editorials/2026/10/14/lookout-editorial-board-endorsements-oregon-legislature/",
+      "review": "Reviewed the four October 14–17 general-election editorials: legislative, federal/governor, city/county and measures. Conditional clean-energy support is described in the card."
+    },
+    {
+      "id": "nfib-fed",
+      "name": "NFIB FedPAC",
+      "claims": 2,
+      "source": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/",
+      "review": "Both Oregon candidates in the September 23 announcement included."
+    },
+    {
+      "id": "nfib",
+      "name": "NFIB OR PAC",
+      "claims": 38,
+      "source": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+      "review": "All 37 candidates in the August 3 legislative announcement included, plus the separately sourced Drazan endorsement. State committee kept separate from FedPAC."
+    },
+    {
+      "id": "nrdc",
+      "name": "NRDC Action Fund",
+      "claims": 2,
+      "source": "https://www.nrdcactionfund.org/nrdc-action-fund-endorsements",
+      "review": "Current 2026 Oregon panel checked: Maxine Dexter and Jeff Merkley. Prior-year panels were excluded."
+    },
+    {
+      "id": "af",
+      "name": "Oregon AFSCME",
+      "claims": 67,
+      "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "review": "State and local page expanded. Remaining local entries need roster checks: Metro candidates, Paul Savas, Catherine McMullen and Sean Van Gordon. Jasmine Hatmaker and Tai Pruce-Zimmerman are not on the checked November Eugene roster. Mai Vang / Salem Ward 6 conflicts with it."
+    },
+    {
+      "id": "orcops",
+      "name": "Oregon Coalition of Police & Sheriffs",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "review": "Official homepage and linked PAC page checked; no current candidate slate found there. Existing campaign-reported claim retained. Broader campaign claims remain a gap."
+    },
+    {
+      "id": "ocl",
+      "name": "Oregon Consumer League Action Fund",
+      "claims": 52,
+      "source": "https://oclactionfund.org/november-2026-endorsements/",
+      "review": "Full general-election list reviewed. Teresa Alonso Leon / SD11 withheld because the November roster names Virginia Stapleton; Christina Stephenson was elected in the primary and is outside this November guide."
+    },
+    {
+      "id": "oea",
+      "name": "Oregon Education Association PAC",
+      "claims": 51,
+      "source": "https://oregoned.org/2026recommendations",
+      "review": "All 51 names in the checked tables included. The five federal entries are recommendations to NEA, not endorsements."
+    },
+    {
+      "id": "farm",
+      "name": "Oregon Farm Bureau",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "review": "Official homepage and advocacy page checked; no current public endorsement slate located. Existing campaign-reported claim retained."
+    },
+    {
+      "id": "afl",
+      "name": "Oregon Labor Federation, AFL-CIO",
+      "claims": 61,
+      "source": "https://www.oregonlabor.org/vote",
+      "review": "Full page reviewed; statewide/federal/legislative slate and verified local entries added. Remaining local roster checks include John Wilson, Sean VanGordon, Victoria Slaboda, Cathie Rigby, Isabella Lee Tibbetts, Thaddeus Betz and Jack Buckley. Chapter recommendations are identified in claim notes."
+    },
+    {
+      "id": "olcv",
+      "name": "Oregon League of Conservation Voters",
+      "claims": 105,
+      "source": "https://www.olcv.org/2026-general-endorsements/",
+      "review": "105 of 106 published positions included. Mai Vang / Salem Ward 6 withheld because the certified November roster lists Betsy Vega."
+    },
+    {
+      "id": "ona",
+      "name": "Oregon Nurses Association PAC",
+      "claims": 59,
+      "source": "https://www.oregonrn.org/page/2026Endorse",
+      "review": "Full source reviewed and expanded. Roseburg council candidate Samuel Denney still needs an election-office roster check."
+    },
+    {
+      "id": "fire",
+      "name": "Oregon State Fire Fighters Council",
+      "claims": 57,
+      "source": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
+      "review": "All 57 candidates on the official one-page general-election poster included."
+    },
+    {
+      "id": "wfp",
+      "name": "Oregon Working Families Party",
+      "claims": 65,
+      "source": "https://workingfamilies.org/state/oregon/",
+      "review": "Expanded the full Our Candidates table. Party-listed support is distinguished from a ballot cross-nomination. Remaining local names need roster checks: Sean Davis, Michelle Valigura, Steph Routh, Mallory Hiefield, Marchelle Paholsky, Diana Jackson, Shannon Corr, Richard Smith Savage, Allie Ball and Isabella Lee Tibbetts. Christina Stephenson was elected in the primary. Additional supported local measures need ballot-identity checks."
+    },
+    {
+      "id": "ofs",
+      "name": "Oregonians for Food & Shelter",
+      "claims": 39,
+      "source": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf",
+      "review": "All 39 candidates in the guide’s own endorsement panels included. Comparisons of other organizations are not treated as primary confirmation of those organizations."
+    },
+    {
+      "id": "ourrev",
+      "name": "Our Revolution",
+      "claims": 3,
+      "source": "https://ourrevolution.com/revolution-report-april-11th-2026/",
+      "review": "April 11 primary report: Merkley, Carpenter and Nelson included as primary-cycle claims. Wasielewski and Osborne are outside the checked November races."
+    },
+    {
+      "id": "peace",
+      "name": "Peace Action",
+      "claims": 1,
+      "source": "https://www.peaceaction.org/endorsements/",
+      "review": "The checked current Oregon section lists Jeff Merkley; included."
+    },
+    {
+      "id": "ppaf",
+      "name": "Planned Parenthood Action Fund",
+      "claims": 6,
+      "source": "https://www.plannedparenthoodaction.org/endorsements",
+      "review": "Current Oregon congressional panel checked: all six candidates included. This is separate from Oregon’s state PAC."
+    },
+    {
+      "id": "pp",
+      "name": "Planned Parenthood Action Oregon",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
+      "review": "Existing campaign-submitted pamphlet claim checked. No full current Oregon state PAC slate verified; distinct from national Action Fund."
+    },
+    {
+      "id": "population",
+      "name": "Population Connection Action Fund",
+      "claims": 1,
+      "source": "https://www.populationconnectionaction.org/vote/2026-endorsements/",
+      "review": "The checked 2026 page lists Jeff Merkley for Oregon; included."
+    },
+    {
+      "id": "pfa",
+      "name": "Portland for All voter guide",
+      "claims": 14,
+      "source": "https://www.portlandforall.org/voterguide",
+      "review": "City, county and judicial recommendations captured. Page also refers readers to WFP for other races; those are not automatically attributed to Portland for All. Christina Stephenson is not a November contest; Steph Routh still needs a roster check."
+    },
+    {
+      "id": "seiu",
+      "name": "SEIU Oregon State Council",
+      "claims": 84,
+      "source": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "review": "Full general-election page reviewed; 84 claims included. R W Smith withheld: source says Clackamas City Council, creating an office conflict with the county commission race."
+    },
+    {
+      "id": "sierra",
+      "name": "Sierra Club",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
+      "review": "Existing Fragala campaign claim names Sierra Club without identifying its committee. It is not assigned to the Oregon Chapter, whose published slate is separately included."
+    },
+    {
+      "id": "sierra-or",
+      "name": "Sierra Club Oregon Chapter",
+      "claims": 52,
+      "source": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
+      "review": "All 52 November positions included: 49 candidates and three measures. Generic campaign claims naming Sierra Club are kept separate."
+    },
+    {
+      "id": "advocate",
+      "name": "The Corvallis Advocate",
+      "claims": 12,
+      "source": "https://corvallisadvocate.com/vote-at-the-top-of-your-lungs-the-advocates-2026-general-election-endorsements/",
+      "review": "Expanded the candidate and school-levy editorial, with first/second ranking choices identified. Its Ward 1 discussion explicitly declines an endorsement. The separate charter-measure editorial remains a source to review."
+    },
+    {
+      "id": "mother",
+      "name": "The Mother PAC",
+      "claims": 5,
+      "source": "https://motherpac.org/may-2026-voter-guide/",
+      "review": "May primary guide reviewed. Matching November candidates retain Primary labels. Wasielewski and Blayne Soleymani-Pearson are outside the checked November races. No general slate verified."
+    },
+    {
+      "id": "ucrp",
+      "name": "Umatilla County Republican Central Committee",
+      "claims": 4,
+      "source": "https://www.umatillarepublicanparty.com/endorsements",
+      "review": "Seven-name general slate reviewed. Four roster-matched claims included. Cliff Bentz entry says District 1 rather than District 2 and is withheld; Celinda Timmons and John Shafer need November roster checks."
+    },
+    {
+      "id": "ucg",
+      "name": "Union Contractor Group",
+      "claims": 1,
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=37",
+      "review": "Existing campaign-submitted pamphlet claim checked. No separate current issuer list verified."
+    },
+    {
+      "id": "hoyle",
+      "name": "Val Hoyle",
+      "claims": 1,
+      "source": "https://www.lisafragalafororegon.com/endorsements",
+      "review": "Campaign-listed personal endorsement retained with its source. No full list of this person’s other endorsements was verified."
+    },
+    {
+      "id": "ww",
+      "name": "Willamette Week editorial board",
+      "claims": 42,
+      "source": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements/",
+      "review": "Reviewed all seven linked fall sections, including legislative, city, county and judicial choices. Ranking order is explained in the cards. No endorsement is inferred from a person merely being discussed."
+    }
+  ]
+}
