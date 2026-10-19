@@ -63,7 +63,7 @@
       "name": "Oregon League of Conservation Voters",
       "kind": "Organization",
       "description": "Environmental advocacy and candidate accountability organization.",
-      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42"
+      "source": "https://www.olcv.org/2026-general-endorsements/"
     },
     {
       "id": "seiu",
@@ -521,11 +521,11 @@
         },
         {
           "entity": "olcv",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=31",
-          "confidence": "Campaign-reported",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Explicit endorsements in Jeff Merkley for Oregon’s submitted November statement. Government publication does not independently verify the campaign’s claims.",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -681,6 +681,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -880,6 +889,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -1087,6 +1105,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1237,6 +1264,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1335,6 +1371,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -1466,6 +1511,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 Oregon federal slate includes candidates from both major parties. No general/primary stage is specified for this entry.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1539,6 +1593,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -1678,6 +1741,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1778,6 +1850,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1842,11 +1923,11 @@
         },
         {
           "entity": "olcv",
-          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=42",
-          "confidence": "Campaign-reported",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
           "cycle": "General",
           "position": "Endorses",
-          "note": "Campaign-submitted voters’ pamphlet statement. Election office hosts but does not verify the endorsement.",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         },
         {
@@ -2007,6 +2088,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2117,6 +2207,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2215,6 +2314,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2274,6 +2382,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -2354,6 +2471,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -2444,6 +2570,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2524,6 +2659,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -2631,6 +2775,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -2741,7 +2894,17 @@
       "description": "Listed for State House · District 18 in the November 3, 2026 election.",
       "raceDescription": "State House · District 18: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.KaufmannforOregon.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=46",
@@ -2839,6 +3002,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2897,6 +3069,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -2998,6 +3179,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3086,6 +3276,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3199,6 +3398,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3288,6 +3496,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3390,6 +3607,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3496,6 +3722,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3555,6 +3790,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3636,6 +3880,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3764,6 +4017,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3821,6 +4083,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -3901,6 +4172,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4003,6 +4283,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4060,6 +4349,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4139,7 +4437,17 @@
       "description": "Listed for State House · District 31 in the November 3, 2026 election.",
       "raceDescription": "State House · District 31: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://GoingDeepForOregon.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=52",
@@ -4260,6 +4568,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4330,6 +4647,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4416,6 +4742,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4519,6 +4854,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4578,6 +4922,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4629,6 +4982,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4773,11 +5135,22 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
-      "campaignUrl": null,
-      "campaignChecked": "2026-10-19"
+      "campaignUrl": "http://markgamba.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
     },
     {
       "id": "hd41-106",
@@ -4863,6 +5236,15 @@
           "position": "Endorses",
           "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4902,6 +5284,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -4981,6 +5372,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -5080,6 +5480,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5137,6 +5546,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -5217,6 +5635,15 @@
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5275,6 +5702,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -5367,6 +5803,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Listed in the issuer’s 2026 state candidate endorsement table. Election stage is not specified consistently.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -5507,6 +5952,15 @@
           "cycle": "2026 · stage unspecified",
           "position": "Endorses",
           "note": "Matched to the candidate using the name and office on the issuer’s 2026 list.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -5753,6 +6207,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5826,6 +6289,15 @@
           "position": "Endorses",
           "note": "Issuer’s 2026 endorsement list. Other names on its page are not included without matching the November roster.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5877,6 +6349,15 @@
           "cycle": "General",
           "position": "Endorses",
           "note": "Published on the SEIU Oregon State Council general-election slate. Abbreviated names matched by office; multiple candidates are supported in some ranked-choice races.",
+          "checked": "2026-10-19"
+        },
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
           "checked": "2026-10-19"
         }
       ],
@@ -6202,7 +6683,17 @@
       "description": "November candidate filing listed for Multnomah County Commission · District 2. The source was last updated August 21, 2026; final certified ballot status has not been independently checked.",
       "raceDescription": "Multnomah County Commission · District 2: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://multco.us/info/candidate-filings-november-2026-election",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
       "rosterStatus": "November filing listed · final certification not checked",
       "campaignUrl": "https://www.nathanongnorris.com/",
       "campaignSource": "https://www.nathanongnorris.com/",
@@ -6336,6 +6827,2436 @@
       "source": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
       "endorsements": [],
       "rosterStatus": "November election-office roster"
+    },
+    {
+      "id": "sd3denisedkrause",
+      "name": "Denise D Krause",
+      "race": "sd3",
+      "raceName": "Oregon Senate District 3",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Candidate for Oregon Senate District 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.denisekrause.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "sd3claybearnson",
+      "name": "Clay Bearnson",
+      "race": "sd3",
+      "raceName": "Oregon Senate District 3",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Independent, Pacific Green",
+      "description": "Candidate for Oregon Senate District 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "sd3bradhicks",
+      "name": "Brad Hicks",
+      "race": "sd3",
+      "raceName": "Oregon Senate District 3",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Republican, Libertarian",
+      "description": "Candidate for Oregon Senate District 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd5pammarsh",
+      "name": "Pam Marsh",
+      "race": "hd5",
+      "raceName": "Oregon House District 5",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Independent",
+      "description": "Candidate for Oregon House District 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://representativepammarsh.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd5alexanderkrigsvold",
+      "name": "Alexander Krigsvold",
+      "race": "hd5",
+      "raceName": "Oregon House District 5",
+      "level": "Legislative",
+      "geography": [
+        "Jackson"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Candidate for Oregon House District 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd16sarahfingermcdonald",
+      "name": "Sarah Finger McDonald",
+      "race": "hd16",
+      "raceName": "Oregon House District 16",
+      "level": "Legislative",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Republican",
+      "description": "Candidate for Oregon House District 16 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://sarah-finger-mcdonald.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd23krisswright",
+      "name": "Kriss Wright",
+      "race": "hd23",
+      "raceName": "Oregon House District 23",
+      "level": "Legislative",
+      "geography": [
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Candidate for Oregon House District 23 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.facebook.com/p/KrissWright4StateRep-100079034983517/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Candidate page (Facebook)"
+    },
+    {
+      "id": "hd23annamscharf",
+      "name": "Anna M Scharf",
+      "race": "hd23",
+      "raceName": "Oregon House District 23",
+      "level": "Legislative",
+      "geography": [
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Candidate for Oregon House District 23 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd39aprildobson",
+      "name": "April Dobson",
+      "race": "hd39",
+      "raceName": "Oregon House District 39",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Republican, Independent",
+      "description": "Candidate for Oregon House District 39 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.aprildobson.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd40michaelwsugar",
+      "name": "Michael W Sugar",
+      "race": "hd40",
+      "raceName": "Oregon House District 40",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Working Families",
+      "description": "Candidate for Oregon House District 40 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.sugarfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd40adambaker",
+      "name": "Adam Baker",
+      "race": "hd40",
+      "raceName": "Oregon House District 40",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Candidate for Oregon House District 40 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd40pathubbell",
+      "name": "Pat Hubbell",
+      "race": "hd40",
+      "raceName": "Oregon House District 40",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Independent",
+      "description": "Candidate for Oregon House District 40 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd51darlamead",
+      "name": "Darla Mead",
+      "race": "hd51",
+      "raceName": "Oregon House District 51",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Working Families",
+      "description": "Candidate for Oregon House District 51 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.darlameadfororegon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd51mattbunch",
+      "name": "Matt Bunch",
+      "race": "hd51",
+      "raceName": "Oregon House District 51",
+      "level": "Legislative",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Republican",
+      "description": "Candidate for Oregon House District 51 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd53emersonlevy",
+      "name": "Emerson Levy",
+      "race": "hd53",
+      "raceName": "Oregon House District 53",
+      "level": "Legislative",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat, Independent",
+      "description": "Candidate for Oregon House District 53 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://emersonvotes.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hd53michaelsummers",
+      "name": "Michael Summers",
+      "race": "hd53",
+      "raceName": "Oregon House District 53",
+      "level": "Legislative",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Republican, Libertarian",
+      "description": "Candidate for Oregon House District 53 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hd54jasonkropf",
+      "name": "Jason Kropf",
+      "race": "hd54",
+      "raceName": "Oregon House District 54",
+      "level": "Legislative",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Democrat",
+      "description": "Candidate for Oregon House District 54 in the November 3, 2026 election.",
+      "raceDescription": "Elects a member of the Oregon Legislature for this district.",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://jasonkropfforbend.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "marioncommission1saraduncan",
+      "name": "Sara Duncan",
+      "race": "marion-commission1",
+      "raceName": "Marion County Commissioner, Position 1",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Marion County Commissioner, Position 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Marion County Commissioner, Position 1 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://duncan4marioncounty.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "marioncommission1kevincameron",
+      "name": "Kevin Cameron",
+      "race": "marion-commission1",
+      "raceName": "Marion County Commissioner, Position 1",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Marion County Commissioner, Position 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Marion County Commissioner, Position 1 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "marioncommission2mariahinojospressey",
+      "name": "Maria Hinojos Pressey",
+      "race": "marion-commission2",
+      "raceName": "Marion County Commissioner, Position 2",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Marion County Commissioner, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Marion County Commissioner, Position 2 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.maria4oregon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "marioncommission2colmwillis",
+      "name": "Colm Willis",
+      "race": "marion-commission2",
+      "raceName": "Marion County Commissioner, Position 2",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Marion County Commissioner, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Marion County Commissioner, Position 2 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "salemmayorvanessanordyke",
+      "name": "Vanessa Nordyke",
+      "race": "salem-mayor",
+      "raceName": "Salem Mayor",
+      "level": "Local",
+      "geography": [
+        "Marion",
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem Mayor to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://electvanessanordyke.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "salemward2lindanishioka",
+      "name": "Linda Nishioka",
+      "race": "salem-ward2",
+      "raceName": "Salem City Council, Ward 2",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem City Council, Ward 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem City Council, Ward 2 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://lindanishiokaforsalem.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "salemward4daveinbody",
+      "name": "Dave Inbody",
+      "race": "salem-ward4",
+      "raceName": "Salem City Council, Ward 4",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem City Council, Ward 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem City Council, Ward 4 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://www.facebook.com/daveforsalem/?ref=PROFILE_EDIT_xav_ig_profile_page_web#",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Candidate page (Facebook)"
+    },
+    {
+      "id": "salemward6betsyvega",
+      "name": "Betsy Vega",
+      "race": "salem-ward6",
+      "raceName": "Salem City Council, Ward 6",
+      "level": "Local",
+      "geography": [
+        "Marion"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem City Council, Ward 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem City Council, Ward 6 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "salemward8mickivarney",
+      "name": "Micki Varney",
+      "race": "salem-ward8",
+      "raceName": "Salem City Council, Ward 8",
+      "level": "Local",
+      "geography": [
+        "Marion",
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem City Council, Ward 8 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem City Council, Ward 8 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.mickiforsalem.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "salemward8chriscummings",
+      "name": "Chris Cummings",
+      "race": "salem-ward8",
+      "raceName": "Salem City Council, Ward 8",
+      "level": "Local",
+      "geography": [
+        "Marion",
+        "Polk"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Salem City Council, Ward 8 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Salem City Council, Ward 8 to serve the local jurisdiction.",
+      "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "washingtonchairnafisafai",
+      "name": "Nafisa Fai",
+      "race": "washington-chair",
+      "raceName": "Washington County Commission Chair",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Washington County Commission Chair in the November 3, 2026 election.",
+      "raceDescription": "Elects the Washington County Commission Chair to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.nafisaforwashingtoncounty.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "washingtonchairpamtreece",
+      "name": "Pam Treece",
+      "race": "washington-chair",
+      "raceName": "Washington County Commission Chair",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Washington County Commission Chair in the November 3, 2026 election.",
+      "raceDescription": "Elects the Washington County Commission Chair to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "beaverton1evelynkocher",
+      "name": "Evelyn Kocher",
+      "race": "beaverton-1",
+      "raceName": "Beaverton City Council, Position 1",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Beaverton City Council, Position 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Beaverton City Council, Position 1 to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://evelynforbeaverton.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "beaverton1rachelphilip",
+      "name": "Rachel Philip",
+      "race": "beaverton-1",
+      "raceName": "Beaverton City Council, Position 1",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Beaverton City Council, Position 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Beaverton City Council, Position 1 to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/current-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hillsboroward2ivettepantoja",
+      "name": "Ivette Pantoja",
+      "race": "hillsboro-ward2",
+      "raceName": "Hillsboro City Council, Ward 2, Position A",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Hillsboro City Council, Ward 2, Position A in the November 3, 2026 election.",
+      "raceDescription": "Elects the Hillsboro City Council, Ward 2, Position A to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hillsboroward2karimdelgado",
+      "name": "Karim Delgado",
+      "race": "hillsboro-ward2",
+      "raceName": "Hillsboro City Council, Ward 2, Position A",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Hillsboro City Council, Ward 2, Position A in the November 3, 2026 election.",
+      "raceDescription": "Elects the Hillsboro City Council, Ward 2, Position A to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://karimdelgado.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hillsboroward3titonianwallacesr",
+      "name": "Titonian Wallace Sr.",
+      "race": "hillsboro-ward3",
+      "raceName": "Hillsboro City Council, Ward 3, Position A",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Hillsboro City Council, Ward 3, Position A in the November 3, 2026 election.",
+      "raceDescription": "Elects the Hillsboro City Council, Ward 3, Position A to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "hillsboroward3dorianrussell",
+      "name": "Dorian Russell",
+      "race": "hillsboro-ward3",
+      "raceName": "Hillsboro City Council, Ward 3, Position A",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Hillsboro City Council, Ward 3, Position A in the November 3, 2026 election.",
+      "raceDescription": "Elects the Hillsboro City Council, Ward 3, Position A to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://votedorianrussell.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "hillsboroward3kimberlyculbertson",
+      "name": "Kimberly Culbertson",
+      "race": "hillsboro-ward3",
+      "raceName": "Hillsboro City Council, Ward 3, Position A",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Hillsboro City Council, Ward 3, Position A in the November 3, 2026 election.",
+      "raceDescription": "Elects the Hillsboro City Council, Ward 3, Position A to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "lakeoswegocouncilperentiemann",
+      "name": "Peren Tiemann",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.perentiemann.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "lakeoswegocouncilbryanguiney",
+      "name": "Bryan Guiney",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "lakeoswegocouncilpatrickwalsh",
+      "name": "Patrick Walsh",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://walsh4lo.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "lakeoswegocouncilheatherramsey",
+      "name": "Heather Ramsey",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "lakeoswegocouncilneiltunmore",
+      "name": "Neil Tunmore",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "lakeoswegocouncilsuzannemiles",
+      "name": "Suzanne Miles",
+      "race": "lake-oswego-council",
+      "raceName": "Lake Oswego City Council",
+      "level": "Local",
+      "geography": [
+        "Clackamas",
+        "Multnomah",
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lake Oswego City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select four at-large councilors. The top three receive four-year terms; the fourth receives a two-year term.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardmayoryikanghu",
+      "name": "Yi-Kang Hu",
+      "race": "tigard-mayor",
+      "raceName": "Tigard Mayor",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Tigard Mayor to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.yikanghu.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "tigardmayorbillmonahan",
+      "name": "Bill Monahan",
+      "race": "tigard-mayor",
+      "raceName": "Tigard Mayor",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Tigard Mayor to serve the local jurisdiction.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardcouncilgabrielelijiovelasquez",
+      "name": "Gabriel Elijio Velasquez",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://gabevelasquez.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "tigardcouncilyousefkallouzi",
+      "name": "Yousef K Allouzi",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://yousefallouzi.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "tigardcouncilkateristau",
+      "name": "Kate Ristau",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://katefortigard.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "tigardcounciljeffdarland",
+      "name": "Jeff Darland",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardcouncilsuegarino",
+      "name": "Sue Garino",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardcounciltomanderson",
+      "name": "Tom Anderson",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardcounciljohngoodhouse",
+      "name": "John Goodhouse",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "tigardcouncilshawnemartinez",
+      "name": "Shawne Martinez",
+      "race": "tigard-council",
+      "raceName": "Tigard City Council",
+      "level": "Local",
+      "geography": [
+        "Washington"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Tigard City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three city councilors for four-year terms.",
+      "source": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline=",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallismayorcharlesmaughan",
+      "name": "Charles Maughan",
+      "race": "corvallis-mayor",
+      "raceName": "Corvallis Mayor",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis Mayor to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.maughanformayor.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "corvallismayorkimigatherum",
+      "name": "Kimi Gatherum",
+      "race": "corvallis-mayor",
+      "raceName": "Corvallis Mayor",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis Mayor to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallismayorandrewstruthers",
+      "name": "Andrew Struthers",
+      "race": "corvallis-mayor",
+      "raceName": "Corvallis Mayor",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis Mayor to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallismayorkaseyhaxton",
+      "name": "Kasey Haxton",
+      "race": "corvallis-mayor",
+      "raceName": "Corvallis Mayor",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis Mayor to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward1steveclark",
+      "name": "Steve Clark",
+      "race": "corvallis-ward1",
+      "raceName": "Corvallis City Council, Ward 1",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 1 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward1breirish",
+      "name": "Bre Irish",
+      "race": "corvallis-ward1",
+      "raceName": "Corvallis City Council, Ward 1",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 1 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 1 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.breirish.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "corvallisward2tarsaweikert",
+      "name": "Tarsa Weikert",
+      "race": "corvallis-ward2",
+      "raceName": "Corvallis City Council, Ward 2",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 2 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward2briaelewis",
+      "name": "Briae Lewis",
+      "race": "corvallis-ward2",
+      "raceName": "Corvallis City Council, Ward 2",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 2 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://briaelewis.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "corvallisward5christinedashiell",
+      "name": "Christine Dashiell",
+      "race": "corvallis-ward5",
+      "raceName": "Corvallis City Council, Ward 5",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 5 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward6brennancolberg",
+      "name": "Brennan Colberg",
+      "race": "corvallis-ward6",
+      "raceName": "Corvallis City Council, Ward 6",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 6 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward6gregshiffer",
+      "name": "Greg Shiffer",
+      "race": "corvallis-ward6",
+      "raceName": "Corvallis City Council, Ward 6",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 6 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://gregforcorvallis.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "corvallisward7jerryingersoll",
+      "name": "Jerry Ingersoll",
+      "race": "corvallis-ward7",
+      "raceName": "Corvallis City Council, Ward 7",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 7 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 7 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward7daniellechambers",
+      "name": "Danielle Chambers",
+      "race": "corvallis-ward7",
+      "raceName": "Corvallis City Council, Ward 7",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 7 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 7 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://chambersforcorvallis.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "corvallisward7asajorg",
+      "name": "Asa Jorg",
+      "race": "corvallis-ward7",
+      "raceName": "Corvallis City Council, Ward 7",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 7 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 7 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "corvallisward9alexishammer",
+      "name": "Alexis Hammer",
+      "race": "corvallis-ward9",
+      "raceName": "Corvallis City Council, Ward 9",
+      "level": "Local",
+      "geography": [
+        "Benton"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Corvallis City Council, Ward 9 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Corvallis City Council, Ward 9 to serve the local jurisdiction.",
+      "source": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.alexishammer.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "deschutescommission3laurenconnally",
+      "name": "Lauren Connally",
+      "race": "deschutes-commission3",
+      "raceName": "Deschutes County Commissioner, Position 3",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Commissioner, Position 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Deschutes County Commissioner, Position 3 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "deschutescommission3amysabbadini",
+      "name": "Amy Sabbadini",
+      "race": "deschutes-commission3",
+      "raceName": "Deschutes County Commissioner, Position 3",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Commissioner, Position 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Deschutes County Commissioner, Position 3 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.vote4sabbadini.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "deschutescommission5robimhoff",
+      "name": "Rob Imhoff",
+      "race": "deschutes-commission5",
+      "raceName": "Deschutes County Commissioner, Position 5",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Commissioner, Position 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Deschutes County Commissioner, Position 5 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "deschutescommission5morganschmidt",
+      "name": "Morgan Schmidt",
+      "race": "deschutes-commission5",
+      "raceName": "Deschutes County Commissioner, Position 5",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Commissioner, Position 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Deschutes County Commissioner, Position 5 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.morganlovesoregon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "bendmayormelaniekebler",
+      "name": "Melanie Kebler",
+      "race": "bend-mayor",
+      "raceName": "Bend Mayor, Position 7",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Bend Mayor, Position 7 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Bend Mayor, Position 7 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=44",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://melaniekebler.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "bendmayorbernadettestrome",
+      "name": "Bernadette Strome",
+      "race": "bend-mayor",
+      "raceName": "Bend Mayor, Position 7",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Bend Mayor, Position 7 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Bend Mayor, Position 7 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=44",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "bend5arielmendez",
+      "name": "Ariel Méndez",
+      "race": "bend-5",
+      "raceName": "Bend City Council, Position 5",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Bend City Council, Position 5 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Bend City Council, Position 5 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=43",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.arielforbend.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "bend6elanareinholtz",
+      "name": "Elana Reinholtz",
+      "race": "bend-6",
+      "raceName": "Bend City Council, Position 6",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Bend City Council, Position 6 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Bend City Council, Position 6 to serve the local jurisdiction.",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=43",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.elanaforbend.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "lincolncommission2cristendon",
+      "name": "Cristen Don",
+      "race": "lincoln-commission2",
+      "raceName": "Lincoln County Commissioner, Position 2",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lincoln County Commissioner, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects a county commissioner for a two-year unexpired term.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://electcristendon.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "lincolncommission2joedsteere",
+      "name": "Joe D Steere",
+      "race": "lincoln-commission2",
+      "raceName": "Lincoln County Commissioner, Position 2",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Lincoln County Commissioner, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects a county commissioner for a two-year unexpired term.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "newportcouncilrobertemond",
+      "name": "Robert Emond",
+      "race": "newport-council",
+      "raceName": "Newport City Council",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Newport City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three at-large council members for four-year terms.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "newportcouncilcmhall",
+      "name": "CM Hall",
+      "race": "newport-council",
+      "raceName": "Newport City Council",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Newport City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three at-large council members for four-year terms.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://cmhallforcityhall.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "newportcouncilangelaparicioreyes",
+      "name": "Angel Aparicio-Reyes",
+      "race": "newport-council",
+      "raceName": "Newport City Council",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Newport City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three at-large council members for four-year terms.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "newportcouncildavidnallen",
+      "name": "David N Allen",
+      "race": "newport-council",
+      "raceName": "Newport City Council",
+      "level": "Local",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Newport City Council in the November 3, 2026 election.",
+      "raceDescription": "Voters select three at-large council members for four-year terms.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "eugene3jennifersmith",
+      "name": "Jennifer Smith",
+      "race": "eugene-3",
+      "raceName": "Eugene City Council, Ward 3",
+      "level": "Local",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Eugene City Council, Ward 3 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Eugene City Council, Ward 3 to serve the local jurisdiction.",
+      "source": "https://www.eugene-or.gov/518/Elections",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://electjennifersmith.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "eugene4jenniferyeh",
+      "name": "Jennifer Yeh",
+      "race": "eugene-4",
+      "raceName": "Eugene City Council, Ward 4",
+      "level": "Local",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Eugene City Council, Ward 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Eugene City Council, Ward 4 to serve the local jurisdiction.",
+      "source": "https://www.eugene-or.gov/518/Elections",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://electjenniferyeh.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "greshammayortravisstovall",
+      "name": "Travis Stovall",
+      "race": "gresham-mayor",
+      "raceName": "Gresham Mayor",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham Mayor to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.greshamtogether.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "greshammayorsuepiazza",
+      "name": "Sue Piazza",
+      "race": "gresham-mayor",
+      "raceName": "Gresham Mayor",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham Mayor to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "gresham2willdelplato",
+      "name": "Will DelPlato",
+      "race": "gresham-2",
+      "raceName": "Gresham City Council, Position 2",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 2 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "gresham2heathercolemancox",
+      "name": "Heather Coleman-Cox",
+      "race": "gresham-2",
+      "raceName": "Gresham City Council, Position 2",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 2 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 2 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "https://togetherwithheather.org/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "gresham4joshuaaljaouni",
+      "name": "Joshua Al-Jaouni",
+      "race": "gresham-4",
+      "raceName": "Gresham City Council, Position 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 4 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "gresham4teoramirez",
+      "name": "Teo Ramirez",
+      "race": "gresham-4",
+      "raceName": "Gresham City Council, Position 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 4 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://teoforgresham.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "gresham4krestinaaziz",
+      "name": "Krestina Aziz",
+      "race": "gresham-4",
+      "raceName": "Gresham City Council, Position 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 4 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "gresham4gregoryschroeder",
+      "name": "Gregory Schroeder",
+      "race": "gresham-4",
+      "raceName": "Gresham City Council, Position 4",
+      "level": "Local",
+      "geography": [
+        "Multnomah"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Gresham City Council, Position 4 in the November 3, 2026 election.",
+      "raceDescription": "Elects the Gresham City Council, Position 4 to serve the local jurisdiction.",
+      "source": "https://multco.us/file/gresham_certified_candidates.pdf/download",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "milwaukiemayorwillanderson",
+      "name": "Will Anderson",
+      "race": "milwaukie-mayor",
+      "raceName": "Milwaukie Mayor",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Milwaukie Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Milwaukie Mayor to serve the local jurisdiction.",
+      "source": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836#page=2",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Endorses",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ],
+      "campaignUrl": "http://www.willformilwaukie.com/",
+      "campaignChecked": "2026-10-19",
+      "campaignSource": "https://www.olcv.org/2026-general-endorsements/",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "milwaukiemayorlisabatey",
+      "name": "Lisa Batey",
+      "race": "milwaukie-mayor",
+      "raceName": "Milwaukie Mayor",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Milwaukie Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Milwaukie Mayor to serve the local jurisdiction.",
+      "source": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836#page=2",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "milwaukiemayorcsmlesliewright",
+      "name": "CSM Leslie Wright",
+      "race": "milwaukie-mayor",
+      "raceName": "Milwaukie Mayor",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "kind": "Candidate",
+      "party": "Nonpartisan",
+      "description": "Candidate for Milwaukie Mayor in the November 3, 2026 election.",
+      "raceDescription": "Elects the Milwaukie Mayor to serve the local jurisdiction.",
+      "source": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836#page=2",
+      "rosterStatus": "November election-office roster",
+      "endorsements": [],
+      "campaignUrl": null,
+      "campaignChecked": "2026-10-19"
+    },
+    {
+      "id": "measure9185",
+      "name": "Measure 9-185",
+      "race": "m9-185",
+      "raceName": "Deschutes County commissioner districts",
+      "level": "Measures",
+      "geography": [
+        "Deschutes"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Establishes five Deschutes County Commissioner districts.",
+      "raceDescription": "Establishes five Deschutes County Commissioner districts.",
+      "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
+      "rosterStatus": "November election-office measure listing",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "No",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "measure20388",
+      "name": "Measure 20-388",
+      "race": "m20-388",
+      "raceName": "Eugene Clean Energy Fund",
+      "level": "Measures",
+      "geography": [
+        "Lane"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Licenses large retailers and creates a fee to finance a clean energy fund. Read the official ballot title for the eligibility rules and uses of revenue.",
+      "raceDescription": "Licenses large retailers and creates a fee to finance a clean energy fund. Read the official ballot title for the eligibility rules and uses of revenue.",
+      "source": "https://www.eugene-or.gov/518/Elections",
+      "rosterStatus": "November election-office measure listing",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "id": "measure21244",
+      "name": "Measure 21-244",
+      "race": "m21-244",
+      "raceName": "Newport infrastructure bond",
+      "level": "Measures",
+      "geography": [
+        "Lincoln"
+      ],
+      "kind": "Measure",
+      "party": "",
+      "description": "Authorizes $38.425 million in general obligation bonds to repair critical facilities, wastewater treatment and drinking-water infrastructure.",
+      "raceDescription": "Authorizes $38.425 million in general obligation bonds to repair critical facilities, wastewater treatment and drinking-water infrastructure.",
+      "source": "https://www.co.lincoln.or.us/DocumentCenter/View/8747#page=9",
+      "rosterStatus": "November election-office measure listing",
+      "endorsements": [
+        {
+          "entity": "olcv",
+          "source": "https://www.olcv.org/2026-general-endorsements/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "position": "Yes",
+          "note": "Published in OLCV’s official 2026 general-election slate. Matched to this candidate or measure using the office and November election source.",
+          "checked": "2026-10-19"
+        }
+      ]
     }
   ],
   "sources": {
@@ -6370,7 +9291,8 @@
     "lookout": "https://lookouteugene-springfield.com/story/editorials/2026/10/15/lookout-editorial-board-endorsements-state-and-federal-races/",
     "ppaf": "https://www.plannedparenthoodaction.org/endorsements",
     "wwf": "https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-federal/",
-    "civpac": "https://centristindependentvoter.com/oregon-senate-2026-jeff-merkley-endorsement/"
+    "civpac": "https://centristindependentvoter.com/oregon-senate-2026-jeff-merkley-endorsement/",
+    "olcv": "https://www.olcv.org/2026-general-endorsements/"
   },
   "coverage": "Partial research release. Federal and governor rosters included; legislative and local coverage remains selective. Endorsement research is expanding; no candidate or entity has an asserted complete endorsement list.",
   "researchRevision": "2026-10-19 expanded source review"

@@ -1,0 +1,637 @@
+[
+  {
+    "entry": "US Senator - Jeff Merkley",
+    "status": "Included",
+    "candidate": "Jeff Merkley",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Congressional District 1 - Suzanne Bonamici",
+    "status": "Included",
+    "candidate": "Suzanne Bonamici",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "Congressional District 3 - Maxine Dexter",
+    "status": "Included",
+    "candidate": "Maxine E Dexter",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "Congressional District 4 - Val Hoyle",
+    "status": "Included",
+    "candidate": "Val Hoyle",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Congressional District 5 - Janelle Bynum",
+    "status": "Included",
+    "candidate": "Janelle S Bynum",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Congressional District 6 - Andrea Salinas",
+    "status": "Included",
+    "candidate": "Andrea Salinas",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Governor - Tina Kotek",
+    "status": "Included",
+    "candidate": "Tina Kotek",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 3 - Denise Krause",
+    "status": "Included",
+    "candidate": "Denise D Krause",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 4 - Floyd Prozanski",
+    "status": "Included",
+    "candidate": "Floyd Prozanski",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 7 - James Manning Jr",
+    "status": "Included",
+    "candidate": "James I Manning Jr",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 8 - Sara Gelser Blouin",
+    "status": "Included",
+    "candidate": "Sara Gelser Blouin",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 10 - Deb Patterson",
+    "status": "Included",
+    "candidate": "Deb Patterson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 11 - Virginia Stapleton",
+    "status": "Included",
+    "candidate": "Virginia Stapleton",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 13 - Courtney Neron Misslin",
+    "status": "Included",
+    "candidate": "Courtney Neron Misslin",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 15 - Myrna Muñoz",
+    "status": "Included",
+    "candidate": "Myrna A Munoz",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 16 - Rachel Armitage",
+    "status": "Included",
+    "candidate": "Rachel Armitage",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 17 - Lisa Reynolds",
+    "status": "Included",
+    "candidate": "Lisa Reynolds",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 19 - Rob Wagner",
+    "status": "Included",
+    "candidate": "Rob Wagner",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 24 - Kayse Jama",
+    "status": "Included",
+    "candidate": "Kayse Jama",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "Senate District 26 - Nicole Bassett",
+    "status": "Included",
+    "candidate": "Nicole Bassett",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 5 - Pam Marsh",
+    "status": "Included",
+    "candidate": "Pam Marsh",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 7 - Kori Rodley",
+    "status": "Included",
+    "candidate": "Kori Rodley",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 8 - Lisa Fragala",
+    "status": "Included",
+    "candidate": "Lisa Fragala",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 10 - David Gomberg",
+    "status": "Included",
+    "candidate": "David Gomberg",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 11 - Ivan Maluski",
+    "status": "Included",
+    "candidate": "Ivan Maluski",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 13 - Nancy Nathanson",
+    "status": "Included",
+    "candidate": "Nancy Nathanson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 14 - Julie Fahey",
+    "status": "Included",
+    "candidate": "Julie Fahey",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 15 - Joanna Robinson",
+    "status": "Included",
+    "candidate": "Joanna Robinson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 16 - Sarah Finger McDonald",
+    "status": "Included",
+    "candidate": "Sarah Finger McDonald",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 18 - Roy Kaufmann",
+    "status": "Included",
+    "candidate": "Roy Kaufmann",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 19 - Tom Andersen",
+    "status": "Included",
+    "candidate": "Tom Andersen",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 20 - Paul Evans",
+    "status": "Included",
+    "candidate": "Paul Evans",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 21 - Michael Welsh",
+    "status": "Included",
+    "candidate": "Michael Welsh",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 22 - Lesly Muñoz",
+    "status": "Included",
+    "candidate": "Lesly M Munoz",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 23 - Kriss Wright",
+    "status": "Included",
+    "candidate": "Kriss Wright",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 25 - Ben Bowman",
+    "status": "Included",
+    "candidate": "Ben Bowman",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 26 - Sue Rieke Smith",
+    "status": "Included",
+    "candidate": "Sue R Rieke Smith",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 27 - Tammy Carpenter",
+    "status": "Included",
+    "candidate": "Tammy Carpenter",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 28 - Dacia Grayber",
+    "status": "Included",
+    "candidate": "Dacia Grayber",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 29 - Susan McLain",
+    "status": "Included",
+    "candidate": "Susan McLain",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 30 - Nathan Sosa",
+    "status": "Included",
+    "candidate": "Nathan Sosa",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 31 - Tom Forest",
+    "status": "Included",
+    "candidate": "Tom L Forest",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 34 - Mari Watanabe",
+    "status": "Included",
+    "candidate": "Mari Watanabe",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 35 - Farrah Chaichi",
+    "status": "Included",
+    "candidate": "Farrah Chaichi",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 36 - Hai Pham",
+    "status": "Included",
+    "candidate": "Hai Pham",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 37 - Jules Walters",
+    "status": "Included",
+    "candidate": "Jules Walters",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 39 - April Dobson",
+    "status": "Included",
+    "candidate": "April Dobson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 40 - Michael Sugar",
+    "status": "Included",
+    "candidate": "Michael W Sugar",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 41 - Mark Gamba",
+    "status": "Included",
+    "candidate": "Mark Gamba",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 42 - Rob Nosse",
+    "status": "Included",
+    "candidate": "Rob Nosse",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 43 - Tawna Sanchez",
+    "status": "Included",
+    "candidate": "Tawna Sanchez",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 44 - Travis Nelson",
+    "status": "Included",
+    "candidate": "Travis Nelson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 45 - Thuy Tran",
+    "status": "Included",
+    "candidate": "Thuy Tran",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 46 - Willy Chotzen",
+    "status": "Included",
+    "candidate": "Willy Chotzen",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 47 - Andrea Valderrama",
+    "status": "Included",
+    "candidate": "Andrea Valderrama",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 48 - Lamar Wise",
+    "status": "Included",
+    "candidate": "Lamar Wise",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 49 - Zach Hudson",
+    "status": "Included",
+    "candidate": "Zach Hudson",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 51 - Darla Mead",
+    "status": "Included",
+    "candidate": "Darla Mead",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 52 - Hank Sanders",
+    "status": "Included",
+    "candidate": "Hank Sanders",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=27"
+  },
+  {
+    "entry": "House District 53 - Emerson Levy",
+    "status": "Included",
+    "candidate": "Emerson Levy",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26"
+  },
+  {
+    "entry": "House District 54 - Jason Kropf",
+    "status": "Included",
+    "candidate": "Jason Kropf",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=26"
+  },
+  {
+    "entry": "Deschutes County Commission Position 3 - Amy Sabbadini",
+    "status": "Included",
+    "candidate": "Amy Sabbadini",
+    "roster": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+  },
+  {
+    "entry": "Deschutes County Commission Position 5 - Morgan Schmidt",
+    "status": "Included",
+    "candidate": "Morgan Schmidt",
+    "roster": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+  },
+  {
+    "entry": "Lane County Commission Position 5 - Heather Buch",
+    "status": "Included",
+    "candidate": "Heather Buch",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Lincoln County Commission Position 2 - Cristen Don",
+    "status": "Included",
+    "candidate": "Cristen Don",
+    "roster": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election"
+  },
+  {
+    "entry": "Marion County Commission District 1 - Sara Duncan",
+    "status": "Included",
+    "candidate": "Sara Duncan",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Marion County Commission District 2 - Maria Hinojos Pressey",
+    "status": "Included",
+    "candidate": "Maria Hinojos Pressey",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Multnomah County Commission District 2 - Nathan Ong Norris",
+    "status": "Included",
+    "candidate": "Nathan Ong Norris",
+    "roster": "https://multco.us/info/candidate-filings-november-2026-election"
+  },
+  {
+    "entry": "Washington County Chair - Nafisa Fai",
+    "status": "Included",
+    "candidate": "Nafisa Fai",
+    "roster": "https://www.washingtoncountyor.gov/elections/current-election"
+  },
+  {
+    "entry": "Beaverton City Council District 1 - Evelyn Kocher",
+    "status": "Included",
+    "candidate": "Evelyn Kocher",
+    "roster": "https://www.washingtoncountyor.gov/elections/current-election"
+  },
+  {
+    "entry": "Bend City Council Mayor - Melanie Kebler",
+    "status": "Included",
+    "candidate": "Melanie Kebler",
+    "roster": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=44"
+  },
+  {
+    "entry": "Bend City Council Seat 5 - Ariel Mendez",
+    "status": "Included",
+    "candidate": "Ariel Méndez",
+    "roster": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=43"
+  },
+  {
+    "entry": "Bend City Council Seat 6 - Elana Reinholtz",
+    "status": "Included",
+    "candidate": "Elana Reinholtz",
+    "roster": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=43"
+  },
+  {
+    "entry": "Corvallis City Council Mayor - Charles Maughan",
+    "status": "Included",
+    "candidate": "Charles Maughan",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 1 - Bre Irish",
+    "status": "Included",
+    "candidate": "Bre Irish",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 2 - Briae Lewis",
+    "status": "Included",
+    "candidate": "Briae Lewis",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 5 - Christine Dashiell",
+    "status": "Included",
+    "candidate": "Christine Dashiell",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 6 - Greg Shiffer",
+    "status": "Included",
+    "candidate": "Greg Shiffer",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 7 - Danielle Chambers",
+    "status": "Included",
+    "candidate": "Danielle Chambers",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Corvallis City Council Ward 9 - Alexis Hammer",
+    "status": "Included",
+    "candidate": "Alexis Hammer",
+    "roster": "https://www.corvallisoregon.gov/cm/page/november-2026-mayor-and-councilor-election"
+  },
+  {
+    "entry": "Eugene City Council Ward 3 - Jennifer Smith",
+    "status": "Included",
+    "candidate": "Jennifer Smith",
+    "roster": "https://www.eugene-or.gov/518/Elections"
+  },
+  {
+    "entry": "Eugene City Council Ward 4 - Jennifer Yeh",
+    "status": "Included",
+    "candidate": "Jennifer Yeh",
+    "roster": "https://www.eugene-or.gov/518/Elections"
+  },
+  {
+    "entry": "Eugene City Council Ward 5 - Athena Aguiar",
+    "status": "Included",
+    "candidate": "Athena Aguiar",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Gresham Mayor - Travis Stovall",
+    "status": "Included",
+    "candidate": "Travis Stovall",
+    "roster": "https://multco.us/file/gresham_certified_candidates.pdf/download"
+  },
+  {
+    "entry": "Gresham City Council Position 2 - Heather Coleman-Cox",
+    "status": "Included",
+    "candidate": "Heather Coleman-Cox",
+    "roster": "https://multco.us/file/gresham_certified_candidates.pdf/download"
+  },
+  {
+    "entry": "Gresham City Council Position 4 - Teo Ramirez",
+    "status": "Included",
+    "candidate": "Teo Ramirez",
+    "roster": "https://multco.us/file/gresham_certified_candidates.pdf/download"
+  },
+  {
+    "entry": "Hillsboro City Council Ward 2 Position A - Karim Delgado",
+    "status": "Included",
+    "candidate": "Karim Delgado",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Hillsboro City Council Ward 3 Position A - Dorian Russell",
+    "status": "Included",
+    "candidate": "Dorian Russell",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-hillsboro-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Lake Oswego City Council - Peren Tiemann",
+    "status": "Included",
+    "candidate": "Peren Tiemann",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Lake Oswego City Council - Bryan Guiney",
+    "status": "Included",
+    "candidate": "Bryan Guiney",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Lake Oswego City Council - Patrick Walsh",
+    "status": "Included",
+    "candidate": "Patrick Walsh",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-lake-oswego-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Milwaukie Mayor - Will Anderson",
+    "status": "Included",
+    "candidate": "Will Anderson",
+    "roster": "https://docs.clackamas.us/documents/drupal/e42e308d-9498-4bd0-91ba-bf526e929836#page=2"
+  },
+  {
+    "entry": "Newport City Council - CM Hall",
+    "status": "Included",
+    "candidate": "CM Hall",
+    "roster": "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election"
+  },
+  {
+    "entry": "Salem Mayor - Vanessa Nordyke",
+    "status": "Included",
+    "candidate": "Vanessa Nordyke",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Salem City Council Ward 2 - Linda Nishioka",
+    "status": "Included",
+    "candidate": "Linda Nishioka",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Salem City Council Ward 4 - Dave Inbody",
+    "status": "Included",
+    "candidate": "Dave Inbody",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Salem City Council Ward 6 - Mai Vang",
+    "status": "Withheld: certified Salem November roster lists Betsy Vega for Ward 6, not Mai Vang.",
+    "source": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Salem City Council Ward 8 - Micki Varney",
+    "status": "Included",
+    "candidate": "Micki Varney",
+    "roster": "https://co.marion.or.us/CO/elections/Results/Pages/November-3-2026-Gubernatorial-General-Election.aspx"
+  },
+  {
+    "entry": "Springfield City Council Ward 4 - Callee Ackland",
+    "status": "Included",
+    "candidate": "Callee Ackland",
+    "roster": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26"
+  },
+  {
+    "entry": "Tigard Mayor - Yi-Kang Hu",
+    "status": "Included",
+    "candidate": "Yi-Kang Hu",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Tigard City Council - Yousef Allouzi",
+    "status": "Included",
+    "candidate": "Yousef K Allouzi",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Tigard City Council - Gabriel Elijio Velásquez",
+    "status": "Included",
+    "candidate": "Gabriel Elijio Velasquez",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "Tigard City Council - Kate Ristau",
+    "status": "Included",
+    "candidate": "Kate Ristau",
+    "roster": "https://www.washingtoncountyor.gov/elections/documents/city-tigard-certified-candidates-nov-2026/download?inline="
+  },
+  {
+    "entry": "NO on Deschutes County Maps (Measure 9-185)",
+    "status": "Included",
+    "candidate": "Measure 9-185",
+    "roster": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election"
+  },
+  {
+    "entry": "YES on the Eugene Clean Energy Fund (Measure 20-388)",
+    "status": "Included",
+    "candidate": "Measure 20-388",
+    "roster": "https://www.eugene-or.gov/518/Elections"
+  },
+  {
+    "entry": "YES on the Newport Infrastructure Bond (Measure 21-244)",
+    "status": "Included",
+    "candidate": "Measure 21-244",
+    "roster": "https://www.co.lincoln.or.us/DocumentCenter/View/8747#page=9"
+  }
+]

@@ -31,7 +31,7 @@ Update data.js and data.json together, then run validation. Update the research 
 
 ## Current limits
 
-Partial research release: 153 listings, 73 contests, 287 claims, 40 entities. All federal House races, Senate and governor included; selective legislative/local coverage. Multnomah local candidate source is a November filing list rather than a final certified list. Some 2026 issuer pages do not specify stage. The methodology records these limitations and research gaps prominently.
+Partial research release: 250 listings, 119 contests, 390 claims, 40 entities. All federal House races, Senate and governor included; selective legislative/local coverage. Multnomah local candidate source is a November filing list rather than a final certified list. Some 2026 issuer pages do not specify stage. The methodology records these limitations and research gaps prominently.
 
 UI checks should include phone-width layout, keyboard navigation, Escape and focus return in dialogs, any/all entity matches, source/stage filters, no-match states, reset, shared links and a GitHub project subpath. No third-party scripts, cookies or tracking.
 
@@ -48,3 +48,6 @@ For the simplest publishing setup: **Settings → Pages → Deploy from a branch
 ## Expanded research revision
 
 The source review expanded Merkley from 2 to 21 sourced records (including a recommendation to NEA and one explicitly labeled primary-cycle record), and added SEIU/OEA slate coverage for roster-backed candidates already present. Recommendations use the same simple candidate support view; their exact nature is explained in the info cards.
+
+## Download behavior
+`downloads.js` labels direct downloads and linked files, and warns on repeat file requests using sessionStorage only. Run `node verify-downloads.cjs` for behavioral checks. No cookies or localStorage are used. Browser download completion and context-menu saves cannot be observed by this static site. `olcv-coverage.json` records the official slate-to-roster review.
