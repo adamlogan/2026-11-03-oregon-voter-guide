@@ -1,3 +1,13 @@
+## October 19, 2026 — reconciliation checks
+
+Dataset: 382 listings, 164 contests, 1,108 attributed claims, 42 distinct entities.
+
+Passed dataset parity, unique identities, source protocols, one claim per entity/candidate, geography/search/any-all/confidence/stage filters, all 75 legislative contests, retained ballot conflicts, and per-entity source-audit totals. Regressions verify PPAO 65; Sierra Oregon 52; Sierra National 5; ORCOPS 36; Farm Bureau 20; Umatilla Republicans 7; historical-list exclusions; and additional evidence fields.
+
+Download checks passed first/repeat requests, cancellation, same file with different page fragments, original filename/title interpolation, reload persistence, a fresh visit and unavailable browser storage. Native repeat prompts were tested through the behavioral harness to avoid blocking the live browser.
+
+A source match verifies attribution in the linked source, not that an issuer independently confirms a campaign claim. This release does not claim exhaustive coverage of all Oregon organizations or local ballot items.
+
 # Validation — October 19, 2026
 
 Passed JavaScript syntax, dataset parity, ID/source-reference integrity, source attribution fields, local asset links, and actual filter functions. Regression checks include Merkley’s expanded records, the OEA recommendation label, the primary-cycle label and the shared candidate-support filter.

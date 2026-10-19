@@ -91,5 +91,29 @@ window.GUIDE_DOCUMENTS = {
   "https://multco.us/file/portland_certified_candidates.pdf/download": {
     "filename": "portland_certified_candidates.pdf",
     "title": "Portland · certified November candidate list"
+  },
+  "https://www.plannedparenthoodaction.org/uploads/filer_public/60/40/6040d95a-2ed7-4204-8609-bc934abaefbe/ppao_election_endorsement_list_2026.pdf": {
+    "filename": "ppao_election_endorsement_list_2026.pdf",
+    "title": "Planned Parenthood Action Oregon · 2026 general-election endorsements"
+  },
+  "https://multco.us/file/east_multnomah_swcd_certified_candidates.pdf/download": {
+    "filename": "east_multnomah_swcd_certified_candidates.pdf",
+    "title": "East Multnomah Soil & Water Conservation District · certified November 2026 candidates"
+  },
+  "https://www.washingtoncountyor.gov/elections/documents/city-forest-grove-certified-candidates-nov-2026/download?inline=": {
+    "filename": "Certified List of Candidates_Redacted.pdf",
+    "title": "Forest Grove · certified November 2026 candidates"
+  },
+  "https://www.ci.cannon-beach.or.us/media/52341": {
+    "filename": "notice_of_candidate_filing_.pdf",
+    "title": "Cannon Beach · November 2026 candidate filing notice, updated July 8"
+  },
+  "https://re.bentoncountyor.gov/wp-content/uploads/2026/09/2026Nov03-Benton-County-Voters-Pamphlet.pdf": {
+    "filename": "2026Nov03-Benton-County-Voters-Pamphlet.pdf",
+    "title": "Benton County · November 2026 voters’ pamphlet"
+  },
+  "https://jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203%2C%202026/Jackson%20County%20Voters%27%20Pamphlet%20%28November%203%2C%202026%29.pdf": {
+    "filename": "Jackson County Voters' Pamphlet (November 3, 2026).pdf",
+    "title": "Jackson County · November 2026 voters’ pamphlet"
   }
 };

@@ -1,3 +1,12 @@
+## October 19, 2026 — full-slate and campaign reconciliation
+
+- Expanded from 919 to 1,108 attributed records and from 323 to 382 listings across 164 contests.
+- Reconciled the Planned Parenthood Action Oregon web and PDF lists (65), expanded ORCOPS (36), Farm Bureau (20) and personal endorsement evidence.
+- Added the five-candidate national Sierra Club directory separately from all 52 Oregon Chapter positions; removed the ambiguous generic entity without inventing a committee attribution.
+- Added ten missing WFP local names, completed the checked AFL-CIO candidate list, and retained source-specific election-stage labels and additional evidence.
+- Added coverage summaries and totals to entity cards and the legend. Reviewed all 22 state November pamphlets, 189 campaign homepages and 148 linked endorsement pages. Historical lists and local-only affiliate claims were excluded from statewide attribution.
+- Known unresolved ballot/source conflicts remain disclosed in the source review; no claim of universal completeness.
+
 ## October 19, 2026 — Full-list review and source context
 
 - Expanded to 323 listings, 146 contests and 919 attributed claims across 42 entities.

@@ -31,7 +31,7 @@ Update data.js and data.json together, then run validation. Update the research 
 
 ## Current limits
 
-Partial research release: 323 listings, 146 contests, 919 claims, 42 entities. All federal, governor and 75 legislative contest rosters are included. Local/endorsement coverage remains partial. See source-audit.html for each entity’s captured slate and unresolved gaps.
+Partial research release: 382 listings, 164 contests, 1,108 claims, 42 entities. All federal, governor and 75 legislative contest rosters are included. Local/endorsement coverage remains partial. See source-audit.html for each entity’s captured slate and unresolved gaps.
 
 UI checks should include phone-width layout, keyboard navigation, Escape and focus return in dialogs, any/all entity matches, source/stage filters, no-match states, reset, shared links and a GitHub project subpath. No third-party scripts, cookies or tracking.
 
