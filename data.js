@@ -1,5 +1,5 @@
 window.GUIDE = {
-  "updated": "2026-10-19",
+  "updated": "2026-10-21",
   "election": "2026-11-03",
   "entities": [
     {
@@ -26,8 +26,8 @@ window.GUIDE = {
       "kind": "Organization",
       "description": "Labor union representing public service and other workers. Publishes member-selected endorsements.",
       "source": "https://www.politicalaction.oregonafscme.org/elections2026",
-      "coverageReview": "State and local issuer page reviewed; added Sean VanGordon after a November roster check and two additional explicit November campaign claims (Mark Gamba and Jason Kropf). Metro, Paul Savas and Catherine McMullen still require November roster resolution. Jasmine Hatmaker and Tai Pruce-Zimmerman are absent from the checked November Eugene roster. Mai Vang / Salem Ward 6 conflicts with it. Local-union-only claims were not assigned to the statewide council.",
-      "includedClaims": 70
+      "coverageReview": "State and local issuer page reviewed; added Sean VanGordon after a November roster check and two additional explicit November campaign claims (Mark Gamba and Jason Kropf). Metro entries still require November roster resolution. Paul Savas and Catherine McMullen were matched to the official November county list on October 21. Jasmine Hatmaker and Tai Pruce-Zimmerman are absent from the checked November Eugene roster. Mai Vang / Salem Ward 6 conflicts with it. Local-union-only claims were not assigned to the statewide council.",
+      "includedClaims": 72
     },
     {
       "id": "nfib",
@@ -379,6 +379,55 @@ window.GUIDE = {
       "source": "https://www.sierraclubindependentaction.org/endorsements#OR",
       "coverageReview": "All five Oregon candidates in the checked 2026 national federal directory included: Merkley, Bonamici, Beck, Dexter and Salinas. The directory does not list Hoyle or Bynum for Oregon. Election stage is unspecified. This is a separate published directory; it does not imply five independent decisions in addition to chapter decisions.",
       "includedClaims": 5
+    },
+    {
+      "id": "ortl",
+      "name": "Oregon Right to Life PAC",
+      "kind": "PAC",
+      "description": "Statewide political action committee opposing abortion and assisted suicide and supporting candidates who share those positions. Kept separate from National Right to Life.",
+      "source": "https://ortlpac.org/vote/",
+      "coverageReview": "Reviewed the issuer’s 2026 primary-winners article, all 22 state November pamphlets and current campaign endorsement pages. Primary claims remain labeled Primary; a November campaign statement does not become issuer confirmation. The full current LifeVote guide requires an address and does not offer a public statewide export in the pages checked. May-elected county candidates are not imported as November contests.",
+      "guideUrl": "https://ortlpac.org/voterguide",
+      "includedClaims": 30
+    },
+    {
+      "id": "tao",
+      "name": "Taxpayers Association of Oregon",
+      "kind": "Organization",
+      "description": "Fiscal-policy advocacy organization promoting lower taxes, limited government spending and taxpayer oversight. Campaign references may name the association without specifying its PAC.",
+      "source": "https://www.oregonwatchdog.com/",
+      "coverageReview": "Captured explicit November pamphlet and current campaign claims plus the association’s bylined No on Hillsboro Measure 34-355 statement, linked from its official news site. No complete current public candidate slate was found. Campaign claims are labeled Campaign-reported; older taxpayer guides are excluded.",
+      "includedClaims": 20
+    },
+    {
+      "id": "offpac",
+      "name": "Oregon Firearms Federation PAC",
+      "kind": "PAC",
+      "description": "Gun-rights political action committee also called OFFPAC. Records here identify the PAC rather than assuming every reference to its parent organization is a PAC endorsement.",
+      "source": "https://www.oregonfirearms.org/oregon-firearms-federation-political-action-committee",
+      "coverageReview": "The June 1, 2026 issuer report explicitly identifies PAC endorsements of Jack Tibbetts and Ken Jackola. Dwayne Yunker’s November statement explicitly names the PAC. These three are included, with primary and general evidence distinguished. Glenn Lancaster’s generic parent-organization reference is not assigned to the PAC. No complete November issuer slate was located.",
+      "guideUrl": "https://www.oregonfirearms.org/primary-wrap-up",
+      "includedClaims": 3
+    },
+    {
+      "id": "shf",
+      "name": "Stand for Health Freedom",
+      "kind": "Organization",
+      "description": "Advocacy organization opposing vaccine mandates and promoting informed consent, parental rights, religious freedom and medical privacy. Its guide distinguishes formal endorsements from recommendations.",
+      "source": "https://standforhealthfreedom.com/guides/orvotes/",
+      "coverageReview": "All 22 rows in the issuer’s October 20 general-election PDF were reconciled: 21 November candidates included, with G Mark Norman labeled Recommended. Jason Fields’s county commission race was decided in May; the official November Yamhill county-candidate table lists only clerk candidates. That row is excluded from November listings. Candidate names are matched using their current official November races.",
+      "guideUrl": "https://standforhealthfreedom.com/guides/orvotes/",
+      "includedClaims": 21
+    },
+    {
+      "id": "deschutes-gop",
+      "name": "Deschutes County Republican Party",
+      "kind": "Party",
+      "description": "County Republican Party organization, also called Deschutes Republicans. Its candidate guide lists candidates and a ballot-measure position; a listing is kept distinct from a formal endorsement or party nomination.",
+      "source": "https://www.deschutesrepublicans.org/2026_candidates",
+      "coverageReview": "Reviewed the full October 17 general-election page, including its linked candidate cards. Fifteen clearly featured candidate listings and the Yes on Measure 9-185 position are included. Raun Atkinson appears only below Do your research, so that mention is not counted as support. Raven Hanson in the party page is matched to Raven Hansen in the county pamphlet using the same Redmond council contest and campaign context.",
+      "guideUrl": "https://www.deschutesrepublicans.org/2026_candidates",
+      "includedClaims": 16
     }
   ],
   "items": [
@@ -432,6 +481,42 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · David Brock Smith. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.davidbrocksmithfororegon.com/copy-of-meet-david",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "tao",
+          "source": "https://www.davidbrocksmithfororegon.com/copy-of-meet-david",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1054,6 +1139,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Campaign-submitted voters’ pamphlet statement. Election office hosts but does not verify the endorsement.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Christine Drazan. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -1083,7 +1186,26 @@ window.GUIDE = {
       "description": "Listed for U.S. House · District 1 in the November 3, 2026 election.",
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://www.drkahlforcongress.com/endorsements",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · US House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://Drkahlforcongress.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=34",
@@ -1430,6 +1552,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "The party explicitly endorses Cliff Bentz but mislabels the district as 1. The election-office roster places Bentz in District 2; the guide uses that official race. The name and county context identify the candidate unambiguously.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book19_web.pdf#page=32",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Cliff Bentz · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Cliff Bentz. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2058,6 +2207,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Patti Adair. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2251,7 +2418,26 @@ window.GUIDE = {
       "description": "Listed for U.S. House · District 6 in the November 3, 2026 election.",
       "raceDescription": "Federal House seat. County overlap is a discovery aid; only voters within the district vote in this race.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://RussIsForUS.com",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · US House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://RussIsForUS.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=35",
@@ -2482,6 +2668,60 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Jack Tibbetts · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Jack Tibbetts. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.tibbettsfororegon.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=39",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Jack Tibbetts · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.tibbettsfororegon.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "offpac",
+          "source": "https://www.oregonfirearms.org/primary-wrap-up",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "June 1, 2026 primary report explicitly says the PAC endorsed and supported this candidate. No new November PAC decision is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -2666,7 +2906,17 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 7 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 7: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.jake4senate-or7.com/",
       "campaignChecked": "2026-10-19",
@@ -2708,6 +2958,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Adam Wilson · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=41",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Adam Wilson · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3157,6 +3416,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Claire Lynn · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Claire Lynn. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3350,6 +3618,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Darin Harbick · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Darin Harbick · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=44",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Darin Harbick · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -3530,7 +3816,17 @@ window.GUIDE = {
       "description": "Listed for State House · District 14 in the November 3, 2026 election.",
       "raceDescription": "State House · District 14: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://kevinburtonhousedi.wixsite.com/",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=46",
@@ -3797,7 +4093,17 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 8 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 8: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": null,
       "campaignChecked": "2026-10-19",
@@ -3981,6 +4287,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://Angela4Oregon.com",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4202,6 +4526,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Tracy M Cramer · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=42",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Tracy M Cramer · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4335,6 +4677,40 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf#page=41",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Ken Jackola · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Ken Jackola. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            },
+            {
+              "source": "https://www.votekenjackola.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "offpac",
+          "source": "https://www.oregonfirearms.org/primary-wrap-up",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "June 1, 2026 primary report explicitly says the PAC endorsed and supported this candidate. No new November PAC decision is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4407,6 +4783,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Shelly Boshart Davis · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf#page=40",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Shelly Boshart Davis · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.shellyboshartdavis.com/supporters",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4593,6 +4987,31 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Dan Farrington · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf#page=44",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Dan Farrington · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Dan Farrington. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            },
+            {
+              "source": "https://www.farringtonfororegon.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4664,6 +5083,40 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=45",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Amanda Staehely · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Amanda Staehely. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            },
+            {
+              "source": "https://amandaforor.com/endorsements/",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -4783,6 +5236,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Anna Munson · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5049,7 +5511,17 @@ window.GUIDE = {
       "description": "Listed for State House · District 20 in the November 3, 2026 election.",
       "raceDescription": "State House · District 20: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://www.fudge4oregon.org/view-endorsements",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.fudge4oregon.org",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=48",
@@ -5247,6 +5719,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Kevin L Mannix · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Kevin L Mannix. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf#page=49",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Kevin L Mannix · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5423,6 +5913,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Noemi Legaspi · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://www.noemifororegon.com/endorsements",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5609,7 +6108,44 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 13 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 13: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://glennlancaster.com/",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://glennlancaster.com/communitysupport/",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "tao",
+          "source": "https://glennlancaster.com/",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://glennlancaster.com/communitysupport/",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://glennlancaster.com/",
       "campaignSource": "https://glennlancaster.com/",
@@ -5775,7 +6311,17 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 15 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 15: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.haroldhutchison.carrd.co",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=39",
@@ -5849,6 +6395,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Courtney Bangs · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Courtney Bangs. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.CourtneyBangs.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book11_web.pdf#page=36",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Courtney Bangs · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -5986,7 +6559,17 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 17 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 17: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.facebook.com/johncheefororegon/",
       "campaignSource": "https://multco.gop/candidate-measure-guide-for-general-election-nov-2026/",
@@ -6245,7 +6828,26 @@ window.GUIDE = {
       "description": "Listed for State Senate · District 19 in the November 3, 2026 election.",
       "raceDescription": "State Senate · District 19: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=41",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Mary Dirksen · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://marydirksen.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=43",
@@ -6402,7 +7004,17 @@ window.GUIDE = {
       "description": "Listed for State House · District 25 in the November 3, 2026 election.",
       "raceDescription": "State House · District 25: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://bobniemeyer.com/",
       "campaignSource": "https://bobniemeyer.com/",
@@ -6446,6 +7058,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Stephanie Carkin · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://www.StephanieForOregon.com/endorsements",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -6756,7 +7377,17 @@ window.GUIDE = {
       "description": "Listed for State House · District 27 in the November 3, 2026 election.",
       "raceDescription": "State House · District 27: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Recommends",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.markfororegon.com/",
       "campaignSource": "https://www.markfororegon.com/",
@@ -7404,7 +8035,26 @@ window.GUIDE = {
       "description": "Listed for State House · District 33 in the November 3, 2026 election.",
       "raceDescription": "State House · District 33: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://www.ciattathompson.com/endorsements",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.ciattathompson.com/",
       "campaignSource": "https://www.ciattathompson.com/",
@@ -7803,7 +8453,17 @@ window.GUIDE = {
       "description": "Listed for State House · District 36 in the November 3, 2026 election.",
       "raceDescription": "State House · District 36: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf#page=27",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://orthfororegon.com/",
       "campaignSource": "https://orthfororegon.com/",
@@ -8259,6 +8919,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://www.HelfrichforOregon.com/supporters",
+          "confidence": "Campaign-reported",
+          "cycle": "2026 · stage unspecified",
+          "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon Senate. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -9529,6 +10207,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Listed among endorsements on the current campaign page. The page does not date this individual endorsement or specify primary versus general election. Historical sections, employment references and criticism of opponents are excluded.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=53",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Andrew Morrison · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.andrewmorrisonfororegon.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -10094,6 +10790,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Find in source: PDF page 6 · State Representatives. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=56",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Greg Smith · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Greg Smith. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            }
+          ]
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -10231,6 +10945,24 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Bobby Levy · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf#page=37",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Bobby Levy · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://bobbylevyfororegon.com/endorsements/",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
         }
       ],
       "rosterStatus": "November election-office roster",
@@ -10371,7 +11103,35 @@ window.GUIDE = {
       "description": "Listed for Lane County Commission · East Lane, Position 5 in the November 3, 2026 election.",
       "raceDescription": "Lane County Commission · East Lane, Position 5: voters in the named jurisdiction elect a representative for this office.",
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Jake Pelroy. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Jake Pelroy · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://www.Pelroy.com/endorsements",
+              "confidence": "Campaign-reported",
+              "cycle": "2026 · stage unspecified",
+              "note": "Current campaign endorsement page. The page does not date this specific endorsement or specify primary versus general election. The campaign’s common organization name is retained; no national organization is inferred.",
+              "checked": "2026-10-21"
+            }
+          ]
+        }
+      ],
       "rosterStatus": "November election-office roster",
       "campaignUrl": "https://www.Pelroy.com",
       "campaignSource": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=49",
@@ -11254,7 +12014,17 @@ window.GUIDE = {
       "description": "Bonds for infrastructure, safety and vocational facilities.",
       "raceDescription": "Bonds for infrastructure, safety and vocational facilities.",
       "source": "https://multco.us/info/ballot-measure-filings-november-2026-general-election",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "tao",
+          "source": "https://oregoncatalyst.com/99891-costly-hillsboro-property-tax-hike-measure-34355.html",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Association-authored statement, linked from its OregonWatchdog homepage: Vote No on Hillsboro Ballot Measure 34-355. The statement is published on Oregon Catalyst under the association’s byline.",
+          "position": "No",
+          "checked": "2026-10-21"
+        }
+      ],
       "rosterStatus": "November election-office roster"
     },
     {
@@ -12277,6 +13047,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Matt Bunch · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Matt Bunch. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -12415,6 +13194,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Find in source: HD 53. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -14299,7 +15087,17 @@ window.GUIDE = {
       "raceDescription": "Elects the Deschutes County Commissioner, Position 3 to serve the local jurisdiction.",
       "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
       "campaignUrl": null,
       "campaignChecked": "2026-10-19",
       "ballotpediaUrl": "https://ballotpedia.org/Lauren_Connally_(Deschutes_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
@@ -14373,7 +15171,17 @@ window.GUIDE = {
       "raceDescription": "Elects the Deschutes County Commissioner, Position 5 to serve the local jurisdiction.",
       "source": "https://www.deschutescounty.gov/1593/November-3-2026-General-Election",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
       "campaignUrl": null,
       "campaignChecked": "2026-10-19",
       "ballotpediaUrl": "https://ballotpedia.org/Rob_Imhoff_(Deschutes_County_Commissioner_Board_Position_5,_Oregon,_candidate_2026)",
@@ -14508,7 +15316,17 @@ window.GUIDE = {
       "raceDescription": "Elects the Bend Mayor, Position 7 to serve the local jurisdiction.",
       "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=44",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
       "campaignUrl": null,
       "campaignChecked": "2026-10-19",
       "ballotpediaUrl": "https://ballotpedia.org/Bernadette_Strome_(Bend_City_Council_Position_7_(Mayor),_Oregon,_candidate_2026)",
@@ -15292,6 +16110,15 @@ window.GUIDE = {
           "position": "No",
           "note": "Find in source: Ballot Measures. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "The party’s November guide explicitly says Vote YES on Ballot Measure 9-185.",
+          "position": "Yes",
+          "checked": "2026-10-21"
         }
       ]
     },
@@ -15461,6 +16288,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Mark Owens · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book19_web.pdf#page=36",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Mark Owens · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -15485,7 +16321,17 @@ window.GUIDE = {
       "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=26",
       "sourceDetail": "Candidate and measure list",
       "rosterStatus": "November election-office roster",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf#page=42",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Michele Stroh · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "campaignUrl": null,
       "campaignChecked": "2026-10-19",
       "ballotpediaUrl": "https://ballotpedia.org/Michele_Stroh",
@@ -15642,6 +16488,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Max Sherman · left column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Max Sherman. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book11_web.pdf#page=41",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Max Sherman · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -15934,6 +16807,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Find in source: HD 04. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf#page=40",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Alek Skarlatos · left column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -15987,6 +16869,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Find in source: HD 59. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -16106,6 +16997,42 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · E Werner Reschke · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=37",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · E Werner Reschke · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf#page=37",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · E Werner Reschke · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Oregon House. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -16292,6 +17219,33 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Find in source: HD 03. Published on the entity’s 2026 list.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "ortl",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book2_web.pdf#page=36",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Dwayne Yunker · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21",
+          "additionalSources": [
+            {
+              "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+              "confidence": "Issuer-confirmed",
+              "cycle": "Primary",
+              "note": "Issuer’s 2026 primary-winners article · Dwayne Yunker. This is primary-cycle support, not an inferred fresh general-election decision.",
+              "checked": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "entity": "offpac",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book2_web.pdf#page=36",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Dwayne Yunker · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -16385,6 +17339,15 @@ window.GUIDE = {
           "position": "Endorses",
           "note": "Candidate-submitted November voters’ pamphlet statement · Lucetta A Elmer · right column. Campaign claims are not independently verified by the election office.",
           "checked": "2026-10-19"
+        },
+        {
+          "entity": "tao",
+          "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf#page=39",
+          "confidence": "Campaign-reported",
+          "cycle": "General",
+          "note": "Candidate-submitted November voters’ pamphlet · Lucetta A Elmer · right column. The election office publishes but does not verify the endorsement claim.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
         }
       ],
       "campaignUrl": null,
@@ -19611,9 +20574,526 @@ window.GUIDE = {
       "raceDescription": "County commissioner election. Both candidate statements appear on PDF page 17 of the official November county pamphlet.",
       "source": "https://jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203%2C%202026/Jackson%20County%20Voters%27%20Pamphlet%20%28November%203%2C%202026%29.pdf#page=17",
       "rosterStatus": "November voters’ pamphlet",
-      "endorsements": [],
+      "endorsements": [
+        {
+          "entity": "shf",
+          "source": "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf#page=1",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "2026 general-election guide, updated October 20 · PDF page 1 · Local Races. Green means Endorsed; blue means Recommended.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
       "campaignUrl": null,
       "ballotpediaUrl": "https://ballotpedia.org/Colleen_Roberts_(Jackson_County_Commissioner_Board_Position_3,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "deschutesclerkjonathancurtis",
+      "name": "Jonathan Curtis",
+      "race": "deschutes-clerk",
+      "raceName": "Deschutes County Clerk",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=38",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Clerk.",
+      "raceDescription": "Nonpartisan county clerk election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Jonathan_A._Curtis_(Deschutes_County_Clerk,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "deschutesclerkstevedennison",
+      "name": "Steve Dennison",
+      "race": "deschutes-clerk",
+      "raceName": "Deschutes County Clerk",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=38",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Clerk.",
+      "raceDescription": "Nonpartisan county clerk election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Steve_Dennison_(Deschutes_County_Clerk,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "deschutessheriffjamesmacmclaughlin",
+      "name": "James (Mac) McLaughlin",
+      "race": "deschutes-sheriff",
+      "raceName": "Deschutes County Sheriff",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=41",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Sheriff.",
+      "raceDescription": "Nonpartisan county sheriff election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/James_McLaughlin_(Deschutes_County_Sheriff,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "deschutessherifftyrupert",
+      "name": "Ty Rupert",
+      "race": "deschutes-sheriff",
+      "raceName": "Deschutes County Sheriff",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=41",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes County Sheriff.",
+      "raceDescription": "Nonpartisan county sheriff election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": "https://tyrupertforsheriff.com/",
+      "ballotpediaUrl": "https://ballotpedia.org/Ty_Rupert_(Deschutes_County_Sheriff,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.deschutesrepublicans.org/2026_candidates",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "redmondmayoredfitch",
+      "name": "Ed Fitch",
+      "race": "redmond-mayor",
+      "raceName": "Redmond Mayor",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=49",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond Mayor.",
+      "raceDescription": "Nonpartisan citywide mayor election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Ed_Fitch_(Mayor_of_Redmond,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "redmondmayorjaypatrick",
+      "name": "Jay Patrick",
+      "race": "redmond-mayor",
+      "raceName": "Redmond Mayor",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=49",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond Mayor.",
+      "raceDescription": "Nonpartisan citywide mayor election.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": "https://sites.google.com/view/jaypatrickformayor",
+      "ballotpediaUrl": "https://ballotpedia.org/Jay_Patrick_(Mayor_of_Redmond,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.deschutesrepublicans.org/2026_candidates",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "redmondcounciltobiascolvin",
+      "name": "Tobias Colvin",
+      "race": "redmond-council",
+      "raceName": "Redmond City Council",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=50",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond City Council.",
+      "raceDescription": "Nonpartisan city council election; candidate statements are on PDF pages 50–51.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Tobias_Colvin_(Redmond_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "redmondcouncilravenhansen",
+      "name": "Raven Hansen",
+      "race": "redmond-council",
+      "raceName": "Redmond City Council",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=50",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond City Council.",
+      "raceDescription": "Nonpartisan city council election; candidate statements are on PDF pages 50–51.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination. Party page spells the surname Hanson; the county pamphlet uses Hansen for the same Redmond council candidate.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": "https://raven4redmond.org/",
+      "ballotpediaUrl": "https://ballotpedia.org/Raven_Hansen_(Redmond_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.deschutesrepublicans.org/2026_candidates",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "redmondcouncilkathrynosborne",
+      "name": "Kathryn Osborne",
+      "race": "redmond-council",
+      "raceName": "Redmond City Council",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=50",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond City Council.",
+      "raceDescription": "Nonpartisan city council election; candidate statements are on PDF pages 50–51.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": "https://www.KathrynOsborne.com",
+      "ballotpediaUrl": "https://ballotpedia.org/Kathryn_Osborne_(Redmond_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=50",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "redmondcouncilpaulmpovey",
+      "name": "Paul M Povey",
+      "race": "redmond-council",
+      "raceName": "Redmond City Council",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color#page=50",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Redmond City Council.",
+      "raceDescription": "Nonpartisan city council election; candidate statements are on PDF pages 50–51.",
+      "rosterStatus": "November voters’ pamphlet",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Paul_M._Povey_(Redmond_City_Council_At-large,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "deschutesswcd2marthaameeker",
+      "name": "Martha A Meeker",
+      "race": "deschutes-swcd2",
+      "raceName": "Deschutes Soil & Water Conservation District · Zone 2",
+      "source": "https://www.deschutescounty.gov/DocumentCenter/View/8646/Department-of-Agriculture-Deschutes-Soil-and-Water-Conservation-District-Certified-List-of-Candidates#page=1",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Deschutes"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Deschutes Soil & Water Conservation District · Zone 2.",
+      "raceDescription": "One two-year unexpired conservation district director term. All district voters may vote for this position.",
+      "rosterStatus": "November certified roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "deschutes-gop",
+          "source": "https://www.deschutesrepublicans.org/2026_candidates",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Featured in the party’s November candidate guide, updated October 17. Party-listed support is separate from a formal endorsement and ballot nomination.",
+          "position": "Party-listed support",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Martha_A._Meeker_(Deschutes_Soil_and_Water_Conservation_District_Zone_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "clackamas2markshull",
+      "name": "Mark Shull",
+      "race": "clackamas2",
+      "raceName": "Clackamas County Commission · Position 2",
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Clackamas County Commission · Position 2.",
+      "raceDescription": "Nonpartisan county commissioner election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Mark_Shull_(Clackamas_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "clackamas2paulsavas",
+      "name": "Paul Savas",
+      "race": "clackamas2",
+      "raceName": "Clackamas County Commission · Position 2",
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Clackamas County Commission · Position 2.",
+      "raceDescription": "Nonpartisan county commissioner election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Paul Savas. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        },
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Official 2026 local-government endorsement list; candidate matched to the county’s November filing table.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": "https://electpaulsavas.com/",
+      "ballotpediaUrl": "https://ballotpedia.org/Paul_Savas_(Clackamas_County_Commissioner_Board_Position_2,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "clackamasclerkcatherinemcmullen",
+      "name": "Catherine McMullen",
+      "race": "clackamas-clerk",
+      "raceName": "Clackamas County Clerk",
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Clackamas County Clerk.",
+      "raceDescription": "Nonpartisan county clerk election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "af",
+          "source": "https://www.politicalaction.oregonafscme.org/elections2026",
+          "confidence": "Issuer-confirmed",
+          "cycle": "General",
+          "note": "Official 2026 local-government endorsement list; candidate matched to the county’s November filing table.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": "https://clackamasvoice.org/",
+      "ballotpediaUrl": "https://ballotpedia.org/Catherine_McMullen_(Clackamas_County_Clerk,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables",
+      "campaignSource": "https://www.politicalaction.oregonafscme.org/elections2026",
+      "campaignChecked": "2026-10-21",
+      "campaignLabel": "Official campaign page"
+    },
+    {
+      "id": "clackamasclerkmarkreaksecker",
+      "name": "Mark Reaksecker",
+      "race": "clackamas-clerk",
+      "raceName": "Clackamas County Clerk",
+      "source": "https://www.clackamas.us/elections/november-3-2026-general-election",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Clackamas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Clackamas County Clerk.",
+      "raceDescription": "Nonpartisan county clerk election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Mark_Reaksecker_(Clackamas_County_Clerk,_Oregon,_candidate_2026)",
+      "ballotpediaChecked": "2026-10-19",
+      "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
+    },
+    {
+      "id": "douglas3chrisboice",
+      "name": "Chris Boice",
+      "race": "douglas3",
+      "raceName": "Douglas County Commission · Position 3",
+      "source": "https://www.douglascountyor.gov/181/Current-Candidates",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Douglas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Douglas County Commission · Position 3.",
+      "raceDescription": "Nonpartisan county commissioner election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Chris Boice. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": null
+    },
+    {
+      "id": "douglas3stevehammerson",
+      "name": "Steve Hammerson",
+      "race": "douglas3",
+      "raceName": "Douglas County Commission · Position 3",
+      "source": "https://www.douglascountyor.gov/181/Current-Candidates",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Douglas"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Douglas County Commission · Position 3.",
+      "raceDescription": "Nonpartisan county commissioner election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [],
+      "campaignUrl": null
+    },
+    {
+      "id": "lane1ryanceniga",
+      "name": "Ryan Ceniga",
+      "race": "lane1",
+      "raceName": "Lane County Commission · West Lane, Position 1",
+      "source": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf#page=26",
+      "kind": "Candidate",
+      "level": "Local",
+      "geography": [
+        "Lane"
+      ],
+      "party": "Nonpartisan",
+      "description": "Candidate for Lane County Commission · West Lane, Position 1.",
+      "raceDescription": "Nonpartisan county commissioner election.",
+      "rosterStatus": "November election-office roster",
+      "rosterChecked": "2026-10-21",
+      "endorsements": [
+        {
+          "entity": "ortl",
+          "source": "https://ortlpac.org/oregons-pro-life-2026-primary-election-wins/",
+          "confidence": "Issuer-confirmed",
+          "cycle": "Primary",
+          "note": "Issuer’s 2026 primary-winners article · Ryan Ceniga. This is primary-cycle support, not an inferred fresh general-election decision.",
+          "position": "Endorses",
+          "checked": "2026-10-21"
+        }
+      ],
+      "campaignUrl": null,
+      "ballotpediaUrl": "https://ballotpedia.org/Ryan_Ceniga_(Lane_County_Commissioner_Board_Position_1_(West_Lane_County),_Oregon,_candidate_2026)",
       "ballotpediaChecked": "2026-10-19",
       "ballotpediaSource": "Ballotpedia’s Oregon 2026 election directory and candidate tables"
     }
@@ -19669,8 +21149,135 @@ window.GUIDE = {
     "fire": "https://www.osffc.org/docs/2026endorsements.general.pdf#page=1",
     "sierra-or": "https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements",
     "nfib-fed": "https://www.nfib.com/news/press-release/nfib-endorses-rep-cliff-bentz-and-monique-despain-for-election-to-congress-to-represent-oregon/",
-    "sierra-national": "https://www.sierraclubindependentaction.org/endorsements#OR"
+    "sierra-national": "https://www.sierraclubindependentaction.org/endorsements#OR",
+    "ortl": "https://ortlpac.org/vote/",
+    "tao": "https://www.oregonwatchdog.com/",
+    "offpac": "https://www.oregonfirearms.org/oregon-firearms-federation-political-action-committee",
+    "shf": "https://standforhealthfreedom.com/guides/orvotes/",
+    "deschutes-gop": "https://www.deschutesrepublicans.org/2026_candidates"
   },
   "coverage": "Federal, governor and all 75 legislative contest rosters are included. Local coverage and endorsement coverage remain partial. Source-specific review results and unresolved gaps are recorded in source-audit.html.",
-  "researchRevision": "2026-10-19 full-slate and campaign statement reconciliation"
+  "researchRevision": "2026-10-21 conservative guides and primary-source reconciliation",
+  "guides": [
+    {
+      "publisher": "AG-PAC",
+      "type": "Endorsement list",
+      "description": "Agriculture and natural-resource policy; current 2026 candidate slate.",
+      "url": "https://www.agpacoregon.org/endorsements",
+      "entity": "ag",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Deschutes County Republican Party",
+      "type": "Party candidate guide",
+      "description": "October 17 guide: featured candidates and Yes on Measure 9-185. Party listings are distinct from formal endorsements.",
+      "url": "https://www.deschutesrepublicans.org/2026_candidates",
+      "entity": "deschutes-gop",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "NFIB OR PAC",
+      "type": "Endorsement list",
+      "description": "Small-business interests; state legislative endorsements. NFIB FedPAC is a separate committee.",
+      "url": "https://www.nfib.com/news/news/nfib-oregon-pac-announces-2026-legislative-endorsements/",
+      "entity": "nfib",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon Family Council",
+      "type": "Candidate questionnaire",
+      "description": "Current 2026 Christian voter-guide request page. Compares candidate issue answers; questionnaire participation is not an endorsement. The publisher’s request form is on its site.",
+      "url": "https://www.oregonfamilycouncil.org/voters-guide-pdf",
+      "entity": null,
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon Firearms Federation PAC",
+      "type": "Published endorsement report",
+      "description": "June 1 primary report identifies PAC endorsements. The current PAC information page does not provide a complete November slate.",
+      "url": "https://www.oregonfirearms.org/primary-wrap-up",
+      "entity": "offpac",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon Labor Federation, AFL-CIO",
+      "type": "Endorsement guide",
+      "description": "Federal, state and local labor-chapter choices. Chapter recommendations are identified in the cards.",
+      "url": "https://www.oregonlabor.org/vote",
+      "entity": "afl",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon League of Conservation Voters",
+      "type": "Endorsement list",
+      "description": "Current general-election list. The source review explains a remaining ballot-identity conflict.",
+      "url": "https://www.olcv.org/2026-general-endorsements/",
+      "entity": "olcv",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon Right to Life PAC",
+      "type": "Personalized endorsement guide",
+      "description": "Abortion-policy endorsements. The publisher requires an address to show your local guide; this site does not collect it. Our records also cite public issuer announcements and campaign statements.",
+      "url": "https://ortlpac.org/voterguide",
+      "entity": "ortl",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregon Working Families Party",
+      "type": "Party candidate guide",
+      "description": "Current Oregon candidate list. Party-listed support is separate from ballot nomination.",
+      "url": "https://workingfamilies.org/state/oregon/",
+      "entity": "wfp",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Oregonians for Food & Shelter",
+      "type": "Endorsement guide",
+      "description": "Agriculture, forestry and crop-protection interests; the guide’s own endorsement panels are distinguished from comparisons of other groups.",
+      "url": "https://www.ofsonline.org/s/OFS-2026-Voters-Guide-no-bleed.pdf",
+      "entity": "ofs",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Planned Parenthood Action Oregon",
+      "type": "Endorsement list",
+      "description": "Current state and local general-election list. The national Action Fund’s federal list is a separate source.",
+      "url": "https://www.plannedparenthoodaction.org/planned-parenthood-action-oregon/endorsements",
+      "entity": "pp",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "SEIU Oregon State Council",
+      "type": "Endorsement list",
+      "description": "General-election union endorsements; source conflicts remain disclosed in the source review.",
+      "url": "https://seiu-oregon.org/2026-general-election-endorsements/",
+      "entity": "seiu",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Stand for Health Freedom",
+      "type": "Endorsement and recommendation guide",
+      "description": "October 20 general-election guide. The one-page PDF distinguishes Endorsed from Recommended. One May county-race entry is excluded from November listings.",
+      "url": "https://standforhealthfreedom.com/guides/orvotes/",
+      "entity": "shf",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Taxpayers Association of Oregon",
+      "type": "Position statements and candidate claims",
+      "description": "Lower-tax advocacy. Current association statements and campaign-reported endorsements are linked individually; a complete current public candidate slate was not found.",
+      "url": "https://www.oregonwatchdog.com/",
+      "entity": "tao",
+      "checked": "2026-10-21"
+    },
+    {
+      "publisher": "Umatilla County Republican Central Committee",
+      "type": "Endorsement list",
+      "description": "All seven named candidates on its November slate, with an incorrect district label explained in the relevant card.",
+      "url": "https://www.umatillarepublicanparty.com/endorsements",
+      "entity": "ucrp",
+      "checked": "2026-10-21"
+    }
+  ]
 };

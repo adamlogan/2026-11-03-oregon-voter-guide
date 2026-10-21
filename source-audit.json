@@ -1,6 +1,6 @@
 {
-  "checked": "2026-10-19",
-  "scope": "Every entity currently in the guide was reviewed. Published lists were reconciled and campaign statements checked; unresolved identities, election stages and local ballot records are disclosed. This is not a claim to capture all Oregon endorsers or every endorsement.",
+  "checked": "2026-10-21",
+  "scope": "Entities were reviewed across October 19–21. October 21 adds conservative guides and local roster checks. Individual evidence dates remain attached to claims. This is not a claim that all Oregon endorsers or every private decision are captured.",
   "entities": [
     {
       "id": "ag",
@@ -29,6 +29,13 @@
       "claims": 1,
       "source": "https://centristindependentvoter.com/oregon-senate-2026-jeff-merkley-endorsement/",
       "review": "Checked the full 2026 general-election House, Senate and governor directories. Merkley is the only endorsed Oregon candidate there. Oregon CD5 is marked Under Review rather than endorsed; it is excluded. No Oregon governor endorsement appears. The short Oregon list is consistent with these published directories."
+    },
+    {
+      "id": "deschutes-gop",
+      "name": "Deschutes County Republican Party",
+      "claims": 16,
+      "source": "https://www.deschutesrepublicans.org/2026_candidates",
+      "review": "Reviewed the full October 17 general-election page, including its linked candidate cards. Fifteen clearly featured candidate listings and the Yes on Measure 9-185 position are included. Raun Atkinson appears only below Do your research, so that mention is not counted as support. Raven Hanson in the party page is matched to Raven Hansen in the county pamphlet using the same Redmond council contest and campaign context."
     },
     {
       "id": "foodwater",
@@ -117,9 +124,9 @@
     {
       "id": "af",
       "name": "Oregon AFSCME",
-      "claims": 70,
+      "claims": 72,
       "source": "https://www.politicalaction.oregonafscme.org/elections2026",
-      "review": "State and local issuer page reviewed; added Sean VanGordon after a November roster check and two additional explicit November campaign claims (Mark Gamba and Jason Kropf). Metro, Paul Savas and Catherine McMullen still require November roster resolution. Jasmine Hatmaker and Tai Pruce-Zimmerman are absent from the checked November Eugene roster. Mai Vang / Salem Ward 6 conflicts with it. Local-union-only claims were not assigned to the statewide council."
+      "review": "State and local issuer page reviewed; added Sean VanGordon after a November roster check and two additional explicit November campaign claims (Mark Gamba and Jason Kropf). Metro entries still require November roster resolution. Paul Savas and Catherine McMullen were matched to the official November county list on October 21. Jasmine Hatmaker and Tai Pruce-Zimmerman are absent from the checked November Eugene roster. Mai Vang / Salem Ward 6 conflicts with it. Local-union-only claims were not assigned to the statewide council."
     },
     {
       "id": "orcops",
@@ -150,6 +157,13 @@
       "review": "20 explicit campaign-reported endorsements captured from November pamphlet statements. The official homepage/advocacy pages do not supply a complete current public slate. Employment references and undated Previous Endorsements pages were excluded. Farm Bureau remains distinct from AG-PAC."
     },
     {
+      "id": "offpac",
+      "name": "Oregon Firearms Federation PAC",
+      "claims": 3,
+      "source": "https://www.oregonfirearms.org/oregon-firearms-federation-political-action-committee",
+      "review": "The June 1, 2026 issuer report explicitly identifies PAC endorsements of Jack Tibbetts and Ken Jackola. Dwayne Yunker’s November statement explicitly names the PAC. These three are included, with primary and general evidence distinguished. Glenn Lancaster’s generic parent-organization reference is not assigned to the PAC. No complete November issuer slate was located."
+    },
+    {
       "id": "afl",
       "name": "Oregon Labor Federation, AFL-CIO",
       "claims": 68,
@@ -169,6 +183,13 @@
       "claims": 61,
       "source": "https://www.oregonrn.org/page/2026Endorse",
       "review": "All 60 roster-matched candidates from the checked official 2026 list included, including Samuel Denney after a Roseburg election-office check. Added a separate campaign-reported Cyrus Javadi claim from his November statement; 61 total. The city lists Ellen Porter as withdrawn, so she is excluded."
+    },
+    {
+      "id": "ortl",
+      "name": "Oregon Right to Life PAC",
+      "claims": 30,
+      "source": "https://ortlpac.org/vote/",
+      "review": "Reviewed the issuer’s 2026 primary-winners article, all 22 state November pamphlets and current campaign endorsement pages. Primary claims remain labeled Primary; a November campaign statement does not become issuer confirmation. The full current LifeVote guide requires an address and does not offer a public statewide export in the pages checked. May-elected county candidates are not imported as November contests."
     },
     {
       "id": "fire",
@@ -255,6 +276,20 @@
       "review": "All 52 positions on the checked Oregon Chapter November list included: 49 candidates and three measures. Kept separate from the national federal directory. An ambiguous generic Sierra Club campaign claim was removed rather than assigned to a committee without evidence."
     },
     {
+      "id": "shf",
+      "name": "Stand for Health Freedom",
+      "claims": 21,
+      "source": "https://standforhealthfreedom.com/guides/orvotes/",
+      "review": "All 22 rows in the issuer’s October 20 general-election PDF were reconciled: 21 November candidates included, with G Mark Norman labeled Recommended. Jason Fields’s county commission race was decided in May; the official November Yamhill county-candidate table lists only clerk candidates. That row is excluded from November listings. Candidate names are matched using their current official November races."
+    },
+    {
+      "id": "tao",
+      "name": "Taxpayers Association of Oregon",
+      "claims": 20,
+      "source": "https://www.oregonwatchdog.com/",
+      "review": "Captured explicit November pamphlet and current campaign claims plus the association’s bylined No on Hillsboro Measure 34-355 statement, linked from its official news site. No complete current public candidate slate was found. Campaign claims are labeled Campaign-reported; older taxpayer guides are excluded."
+    },
+    {
       "id": "advocate",
       "name": "The Corvallis Advocate",
       "claims": 12,
@@ -316,6 +351,21 @@
         "checked": "2026-10-19"
       },
       "reason": "Campaign said Sierra Club without identifying the issuing committee. Not assigned to either national or Oregon chapter."
+    }
+  ],
+  "additionalPasses": [
+    {
+      "checked": "2026-10-21",
+      "focus": "Conservative publisher guides",
+      "newEntities": [
+        "ortl",
+        "tao",
+        "offpac",
+        "shf",
+        "deschutes-gop"
+      ],
+      "newClaims": 92,
+      "refreshedCampaignPages": 20
     }
   ]
 }

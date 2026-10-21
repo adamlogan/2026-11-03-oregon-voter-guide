@@ -31,7 +31,7 @@ Update data.js and data.json together, then run validation. Update the research 
 
 ## Current limits
 
-Partial research release: 382 listings, 164 contests, 1,108 claims, 42 entities. All federal, governor and 75 legislative contest rosters are included. Local/endorsement coverage remains partial. See source-audit.html for each entity’s captured slate and unresolved gaps.
+Partial research release: 400 listings, 173 contests, 1,200 claims, 47 entities. All federal, governor and 75 legislative contest rosters are included. Local/endorsement coverage remains partial. See source-audit.html for each entity’s captured slate and unresolved gaps.
 
 UI checks should include phone-width layout, keyboard navigation, Escape and focus return in dialogs, any/all entity matches, source/stage filters, no-match states, reset, shared links and a GitHub project subpath. No third-party scripts, cookies or tracking.
 
@@ -54,3 +54,7 @@ The source review expanded Merkley from 2 to 21 sourced records (including a rec
 
 - `documents.js`, `downloads.js`: document descriptions, original filenames when supplied, PDF page hints and session-only repeat warnings.
 - `source-audit.html`, `source-audit.json`: issuer-by-issuer coverage and unresolved source/roster gaps.
+
+## October 21 conservative-guide expansion
+
+Added Oregon Right to Life PAC, Taxpayers Association of Oregon, OFFPAC, Stand for Health Freedom and Deschutes County Republican Party records. Published guides are linked in guides.html; the Oregon Family Council questionnaire is a resource, not an inferred endorsement. conservative-coverage.json records the reconciliation, including a May-only county row and a research-only mention excluded from support.

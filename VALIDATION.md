@@ -1,3 +1,13 @@
+## October 21, 2026 — conservative-source additions
+
+Dataset: 400 listings, 173 contests, 1,200 attributed claims, 47 distinct entities.
+
+Added 90 records from Oregon Right to Life PAC (30), Taxpayers Association of Oregon (20), Oregon Firearms Federation PAC (3), Stand for Health Freedom (21), and Deschutes County Republican Party (16). Added the current Oregon Family Council questionnaire-guide resource without treating questionnaire answers as endorsements. Added 18 candidates from official November election sources and two AFSCME claims after matching the new local races.
+
+Regression checks distinguish the Stand for Health Freedom recommendation from its 20 endorsements, 15 Deschutes party listings from its measure position, and OFFPAC primary support from the campaign-reported general-election claim. Checks exclude the May-only county race and the ambiguous research-only candidate mention. Existing filters include the recommendation through the shared candidate-support choice. Source-review counts match the dataset; local links include the new published-guides page.
+
+Download behavior is checked through the behavioral harness, without opening a blocking native confirmation during browser review. Public source guides requiring an address or request form remain links to the publisher; no personal information was submitted.
+
 ## October 19, 2026 — reconciliation checks
 
 Dataset: 382 listings, 164 contests, 1,108 attributed claims, 42 distinct entities.

@@ -52,6 +52,7 @@ window.GUIDE_DOCUMENTS = {
     "title": "Keizer City Council · Position 4 · election-office document"
   },
   "https://www.deschutescounty.gov/DocumentCenter/View/8934/DESCHUTES-NOV26-VP_WEB-Color": {
+    "filename": "Filename supplied by source",
     "title": "Deschutes County · November 2026 voters’ pamphlet"
   },
   "https://www.co.lincoln.or.us/DocumentCenter/View/8365/List-of-Candidates-and-Measures-for-the-November-2026-General-Election": {
@@ -115,5 +116,13 @@ window.GUIDE_DOCUMENTS = {
   "https://jacksoncountyor.gov/Document%20Center/Departments/Clerk/Elections/General%20Elections/Nov%203%2C%202026/Jackson%20County%20Voters%27%20Pamphlet%20%28November%203%2C%202026%29.pdf": {
     "filename": "Jackson County Voters' Pamphlet (November 3, 2026).pdf",
     "title": "Jackson County · November 2026 voters’ pamphlet"
+  },
+  "https://standforhealthfreedom.com/wp-content/uploads/2026/04/VHF-Oregon-26-General-VG-4.pdf": {
+    "filename": "VHF-Oregon-26-General-VG-4.pdf",
+    "title": "Stand for Health Freedom · Oregon 2026 general-election guide, updated October 20"
+  },
+  "https://www.deschutescounty.gov/DocumentCenter/View/8646/Department-of-Agriculture-Deschutes-Soil-and-Water-Conservation-District-Certified-List-of-Candidates": {
+    "filename": "Filename supplied by source",
+    "title": "Deschutes Soil & Water Conservation District · certified November 2026 candidates"
   }
 };

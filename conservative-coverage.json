@@ -1,0 +1,34 @@
+{
+  "checked": "2026-10-21",
+  "entities": {
+    "ortl": 30,
+    "tao": 20,
+    "offpac": 3,
+    "shf": 21,
+    "deschutes-gop": 16
+  },
+  "shf": {
+    "publishedRows": 22,
+    "includedNovemberRows": 21,
+    "endorsements": 20,
+    "recommendations": 1,
+    "excluded": [
+      {
+        "name": "Jason Fields",
+        "reason": "County commission race decided in May; official November county-candidate table lists only the clerk contest.",
+        "source": "https://or-yamhillcounty.civicplus.com/1301/November-3-2026-General-Election"
+      }
+    ]
+  },
+  "deschutes": {
+    "includedCandidateListings": 15,
+    "measurePositions": 1,
+    "excluded": [
+      {
+        "name": "Raun Atkinson",
+        "reason": "Only mentioned beneath Do your research; no affirmative support inferred."
+      }
+    ]
+  },
+  "sourceRule": "Candidate mentions, surveys, pledges and legislative ratings alone are not counted as endorsements. Primary support is not silently promoted to general-election issuer confirmation."
+}

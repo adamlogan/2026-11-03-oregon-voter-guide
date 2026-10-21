@@ -1,3 +1,10 @@
+## October 21, 2026 — conservative guides
+
+- Added 90 sourced records from five conservative publishers, plus two AFSCME records after resolving shared local roster gaps. Total: 400 listings, 173 contests, 1,200 claims, 47 entities.
+- Added a published-guides page, including Oregon Family Council’s current questionnaire page. Older 2022 downloads, questionnaires, ratings and pledges are not imported as endorsements.
+- Preserved primary-cycle labels, formal recommendation labels and party-listed support. Reconciled every row of the October 20 SHF general-election guide and full Deschutes Republican guide.
+- Added current election-office records for 18 local candidates and retained source dates.
+
 ## October 19, 2026 — full-slate and campaign reconciliation
 
 - Expanded from 919 to 1,108 attributed records and from 323 to 382 listings across 164 contests.
