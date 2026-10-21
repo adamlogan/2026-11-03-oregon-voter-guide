@@ -49,4 +49,5 @@ assert(offpac.some(x=>x.item.name==='Dwayne Yunker'&&x.claim.cycle==='General'&&
 assert(D.guides.some(g=>JSON.stringify(g).includes('https://www.oregonfamilycouncil.org/voters-guide-pdf')));assert(!D.entities.some(e=>/Oregon Family Council/.test(e.name)));
 controls.position.value='support';run("selected.add('shf')");assert(run("filtered().some(i=>i.name==='G Mark Norman')"));run('selected.clear()');
 assert.equal(D.items.length,400);assert.equal(D.items.reduce((n,i)=>n+i.endorsements.length,0),1200);assert.equal(D.entities.length,47);
+const candidateItems=D.items.filter(i=>i.kind==='Candidate');const methodology=fs.readFileSync(path.join(root,'methodology.html'),'utf8');assert(methodology.includes(`${candidateItems.filter(i=>i.campaignUrl).length} of ${candidateItems.length} candidates`));assert(methodology.includes(`linked for ${candidateItems.filter(i=>i.ballotpediaUrl).length} candidates`));
 console.log('PASS: conservative-source reconciliation; exact recommendation and party-listing labels; primary/general distinction; withheld May-only and ambiguous mentions; questionnaire resource; shared support filter.');
