@@ -11,6 +11,13 @@ const announcementTimers=new Map();
 function announce(id,message){clearTimeout(announcementTimers.get(id));announcementTimers.set(id,setTimeout(()=>{$(id).textContent=message;},250));}
 function show(title,body){opener=document.activeElement;$('info-body').innerHTML=`<h2 id="info-title" tabindex="-1">${esc(title)}</h2>${body}`;$('info-body').scrollTop=0;$('info').showModal();$('info-title').focus({preventScroll:true});}
 $('info').addEventListener('close',()=>{(opener?.isConnected?opener:$('search')).focus();});
+$('info').addEventListener('keydown',e=>{
+ if(e.key!=='Tab'||e.altKey||e.ctrlKey||e.metaKey)return;
+ const stops=[...$('info').querySelectorAll('a[href],button:not([disabled]),input:not([disabled]),select:not([disabled]),textarea:not([disabled]),[tabindex="0"]')].filter(el=>el.getClientRects().length);
+ if(!stops.length)return;
+ if(e.shiftKey&&document.activeElement===stops[0]){e.preventDefault();stops.at(-1).focus();}
+ else if(!e.shiftKey&&document.activeElement===stops.at(-1)){e.preventDefault();stops[0].focus();}
+});
 $('info').addEventListener('click',e=>{if(e.target===$('info')){const b=$('info').getBoundingClientRect();if(e.clientX<b.left||e.clientX>b.right||e.clientY<b.top||e.clientY>b.bottom)$('info').close();}});
 function entityInfo(id){const e=E[id];show(e.name,`<span class="pill">${esc(e.kind)}</span><p>${esc(e.description)}</p><p><strong>${e.includedClaims} ${e.includedClaims===1?'record':'records'} in this guide.</strong> ${esc(e.coverageReview||'')}</p>${link(e.source,'Primary source / entity context')}${e.guideUrl&&e.guideUrl!==e.source?link(e.guideUrl,'Publisher’s voter guide'):''}${link('source-audit.html#'+e.id,'Source review and known gaps')}<p class="hint">A campaign-hosted source confirms that a campaign made the claim; it does not independently confirm the entity’s decision.</p>`);}
 function claimMatches(c){return (!$('confidence').value||c.confidence===$('confidence').value)&&(!$('entityType').value||E[c.entity].kind===$('entityType').value)&&(!$('position').value||($('position').value==='support'?['Endorses','Recommends','Recommends ranking','Recommendation to NEA','Party-listed support'].includes(c.position):c.position===$('position').value))&&(!$('cycle').value||c.cycle===$('cycle').value);}
