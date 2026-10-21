@@ -1,3 +1,7 @@
+## October 21, 2026 — feedback links
+
+Added a compact invitation to report errors, data gaps and missing endorsing entities through Github Issues on the main guide, methodology, source review and published-guide pages. Each link includes a descriptive accessible name and hover text explaining that the repository hosts the website files.
+
 ## October 21, 2026 — conservative guides
 
 - Added 90 sourced records from five conservative publishers, plus two AFSCME records after resolving shared local roster gaps. Total: 400 listings, 173 contests, 1,200 claims, 47 entities.
