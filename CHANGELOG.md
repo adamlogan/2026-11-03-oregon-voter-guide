@@ -1,3 +1,7 @@
+## October 21, 2026 — accessibility improvements
+
+Reworked native styling for relative text sizes, stronger control/focus contrast, responsive wrapping, and system light/dark, higher/lower contrast, reduced-motion and forced-color preferences. Added skip links, table header relationships, calmer live announcements, explicit campaign-report text, and safer dialog/reset focus. No runtime dependencies or settings panel added. Added the source review and focused regression checks in ACCESSIBILITY.md and verify-accessibility.cjs.
+
 ## October 21, 2026 — feedback links
 
 Added a compact invitation to report errors, data gaps and missing endorsing entities through Github Issues on the main guide, methodology, source review and published-guide pages. Each link includes a descriptive accessible name and hover text explaining that the repository hosts the website files.

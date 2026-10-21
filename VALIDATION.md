@@ -1,3 +1,7 @@
+## October 21, 2026 — accessibility source checks
+
+Data/filter and download regressions pass. The focused accessibility harness verifies dialog heading focus, scroll reset and focus return/fallback; resetting empty results; coalescing rapid result announcements; retaining selections during entity search; semantic skip/table/dialog markup; and unchanged dependency footprint. Six source palettes pass contrast calculations: minimum normal text 4.93:1, minimum control/focus boundary 3.86:1. These are source checks, not an assistive-technology certification.
+
 ## October 21, 2026 — conservative-source additions
 
 Dataset: 400 listings, 173 contests, 1,200 attributed claims, 47 distinct entities.

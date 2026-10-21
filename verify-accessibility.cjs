@@ -1,0 +1,27 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),vm=require('node:vm'),assert=require('node:assert/strict');
+const root=__dirname,D=JSON.parse(fs.readFileSync(path.join(root,'data.json'),'utf8')),app=fs.readFileSync(path.join(root,'app.js'),'utf8'),css=fs.readFileSync(path.join(root,'style.css'),'utf8');
+const elements=new Map(),timers=new Map(),writes=[];let timerId=0,active;
+function element(id){if(!elements.has(id)){let text='';const e={id,value:id==='match'?'any':'',checked:false,isConnected:true,open:false,innerHTML:'',events:{},append(){},addEventListener(name,fn){this.events[name]=fn;},focus(){active=this;},showModal(){this.open=true;},close(){this.open=false;this.events.close?.();}};Object.defineProperty(e,'textContent',{get:()=>text,set:s=>{text=s;writes.push({id,text:s});}});elements.set(id,e);}return elements.get(id);}
+const document={getElementById:element,createElement:()=>({}),querySelector:()=>element('legend'),addEventListener(){},get activeElement(){return active;}};
+const c={window:{GUIDE:D,matchMedia:()=>({matches:false})},document,location:{pathname:'/index.html',search:'',href:'https://example.test/index.html'},history:{replaceState(){}},URLSearchParams,Intl,Date,Map,Set,clearTimeout:id=>timers.delete(id),setTimeout:fn=>{timers.set(++timerId,fn);return timerId;}};
+vm.createContext(c);vm.runInContext(app,c);const run=s=>vm.runInContext(s,c),flush=()=>{for(const [id,fn] of [...timers]){timers.delete(id);fn();}};flush();
+const opener=element('original-opener');opener.focus();element('info-body').scrollTop=400;run("entityInfo('ortl')");assert.equal(element('info-body').scrollTop,0);assert.equal(active.id,'info-title');assert(element('info').open);element('info').close();assert.equal(active,opener);
+opener.focus();run("entityInfo('ortl')");opener.isConnected=false;element('info').close();assert.equal(active.id,'search');
+run("selected.add('shf')");element('entity-search').value='not-an-entity';run('renderEntities()');flush();assert(run("selected.has('shf')"));assert(element('entity-status').textContent.startsWith('0 of 47'));
+run('reset()');assert.equal(active.id,'search');assert.equal(run('selected.size'),0);assert.equal(run('filtered().length'),400);
+writes.length=0;element('search').value='zzznomatch';run('render()');assert(element('results').innerHTML.includes('Reset all filters'));element('search').value='Jeff Merkley';run('render()');flush();const announcements=writes.filter(x=>x.id==='result-status');assert.equal(announcements.length,1);assert(announcements[0].text.startsWith('1 of 400 listings'));
+assert(element('results').innerHTML.includes('aria-haspopup="dialog"'));element('search').value='';run('render()');assert(element('results').innerHTML.includes('Campaign-reported'));assert(element('results').innerHTML.includes('aria-labelledby="race-'));
+for(const n of ['index.html','methodology.html','source-audit.html','guides.html']){
+ const html=fs.readFileSync(path.join(root,n),'utf8');assert(html.includes('class="skip"'));assert(!/maximum-scale|user-scalable/.test(html));assert(!/<script[^>]+src="https?:/.test(html));
+ if(n!=='index.html'){assert(html.includes('<caption class="sr-only">'));assert(!/<th>/.test(html));assert(html.includes('scope="row"'));}
+}
+assert(css.includes('font:100%/1.5'));assert(!/font-size:\s*\d+px/.test(css));for(const pref of ['prefers-color-scheme:dark','prefers-contrast:more','prefers-contrast:less','forced-colors:active','prefers-reduced-motion:no-preference'])assert(css.includes(pref));
+// Check actual palette definitions, including text on tinted badges and form surfaces.
+const base=Object.fromEntries([...css.slice(css.indexOf(':root'),css.indexOf('* {')).matchAll(/--([a-z-]+):\s*(#[a-f\d]{6})/g)].map(m=>[m[1],m[2]]));
+const lum=hex=>{const rgb=hex.slice(1).match(/../g).map(n=>parseInt(n,16)/255).map(n=>n<=.04045?n/12.92:((n+.055)/1.055)**2.4);return rgb[0]*.2126+rgb[1]*.7152+rgb[2]*.0722;};
+const ratio=(a,b)=>{const x=lum(a),y=lum(b);return (Math.max(x,y)+.05)/(Math.min(x,y)+.05);};
+const mediaRules=[...css.matchAll(/@media\((prefers-[^{]+)\{\s*:root\s*\{([^}]+)\}/g)];const palettes=[['light',base]];
+for(const dark of [false,true])for(const contrast of ['', 'more','less']){if(!dark&&!contrast)continue;let palette={...base};for(const rule of mediaRules){const q=rule[1];if((!q.includes('prefers-color-scheme:dark')||dark)&&(!q.includes('prefers-contrast:more')||contrast==='more')&&(!q.includes('prefers-contrast:less')||contrast==='less'))for(const m of rule[2].matchAll(/--([a-z-]+):\s*(#[a-f\d]{6})/g))palette[m[1]]=m[2];}palettes.push([`${dark?'dark':'light'} ${contrast}`,palette]);}
+let minText=99,minControl=99;for(const [name,p] of palettes){for(const fg of ['ink','muted','green','negative'])for(const bg of ['paper','surface','tint']){const r=ratio(p[fg],p[bg]);assert(r>=4.5,`${name}: ${fg}/${bg} ${r.toFixed(2)}`);minText=Math.min(minText,r);}for(const bg of ['paper','surface'])for(const fg of ['control-border','switch-off','focus']){const r=ratio(p[fg],p[bg]);assert(r>=3,`${name}: ${fg}/${bg} ${r.toFixed(2)}`);minControl=Math.min(minControl,r);}assert(ratio(p.knob,p.green)>=3);assert(ratio(p.knob,p['switch-off'])>=3);}
+console.log(`PASS: dialog focus/return/fallback; reset focus; coalesced announcements; preserved selections; empty states; dialog semantics; skip links and table headers; relative sizing and native preferences. ${palettes.length} palettes: minimum text ${minText.toFixed(2)}:1, control/focus ${minControl.toFixed(2)}:1. No runtime dependencies added.`);

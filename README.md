@@ -58,3 +58,5 @@ The source review expanded Merkley from 2 to 21 sourced records (including a rec
 ## October 21 conservative-guide expansion
 
 Added Oregon Right to Life PAC, Taxpayers Association of Oregon, OFFPAC, Stand for Health Freedom and Deschutes County Republican Party records. Published guides are linked in guides.html; the Oregon Family Council questionnaire is a resource, not an inferred endorsement. conservative-coverage.json records the reconciliation, including a May-only county row and a research-only mention excluded from support.
+
+Accessibility changes, testing limits and reference guidance: [ACCESSIBILITY.md](ACCESSIBILITY.md). Run `node verify-accessibility.cjs` alongside the data/filter and download checks. Native browser and system preferences supply display choices without additional controls or dependencies.
