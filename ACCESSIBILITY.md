@@ -15,7 +15,7 @@ This is a source-level review and improvement pass, not a certification of WCAG 
 
 The included `verify.cjs` and `verify-downloads.cjs` cover real filter functions, data/source integrity and session-only file-request behavior. `verify-accessibility.cjs` checks focus restoration/reset, announcement coalescing, selection retention, table/skip-link semantics, contrast values and the absence of new runtime dependencies.
 
-Manual browser checks and any remaining limits are recorded in `VALIDATION.md`. Browser/platform support determines which display preferences are available. People may also adjust browser zoom, font settings and system colors. No physical-device, end-user assistive-technology or full screen-reader conformance audit has been performed. Please report barriers through [Github Issues](https://github.com/adamlogan/2026-11-03-oregon-voter-guide/issues).
+Manual keyboard, combined-filter and narrow-layout checks passed in the in-app browser. All four pages reported no horizontal overflow at 320 CSS pixels with normal and doubled default text sizes (305 pixels available when scrollbars were present). Details and remaining limits are recorded in `VALIDATION.md`. Browser/platform support determines which display preferences are available. People may also adjust browser zoom, font settings and system colors. No physical-device, end-user assistive-technology or full screen-reader conformance audit has been performed. Please report barriers through [Github Issues](https://github.com/adamlogan/2026-11-03-oregon-voter-guide/issues).
 
 ## Reference guidance
 

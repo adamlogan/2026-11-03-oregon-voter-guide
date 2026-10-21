@@ -1,3 +1,12 @@
+## October 21, 2026 — live accessibility verification
+
+Published through GitHub Pages and checked in the in-app browser:
+
+- Keyboard skip link focuses the filter heading. Enter opens a candidate dialog at its heading. Tab and Shift+Tab wrap at the dialog boundaries; Escape restores the opener. The boundary fix was made after a native-dialog backward-Tab gap was observed.
+- An empty search returns zero results and a working reset. Reset focuses search and restores 400 listings / 173 contests / 1,200 claims. Searching the entity list hides options without losing selected entities or changing result counts. A combined Sierra chapter/national plus Marion/all-selected view returns three listings and six claims; reset clears both selections and geography.
+- The actual main guide, published guides, source review and methodology were embedded at 320 CSS pixels. All four reported no horizontal page overflow with normal and doubled default text sizes. With scrollbars the available content width was 305 CSS pixels. This checks narrow reflow and text enlargement, not physical-phone behavior or browser-zoom UI.
+- Six source palettes passed contrast calculations. OS-level preference switching and screen-reader speech output were not emulated or certified. No physical-device or end-user assistive-technology audit was performed.
+
 ## October 21, 2026 — accessibility source checks
 
 Data/filter and download regressions pass. The focused accessibility harness verifies dialog heading focus, scroll reset and focus return/fallback; resetting empty results; coalescing rapid result announcements; retaining selections during entity search; semantic skip/table/dialog markup; and unchanged dependency footprint. Six source palettes pass contrast calculations: minimum normal text 4.93:1, minimum control/focus boundary 3.86:1. These are source checks, not an assistive-technology certification.
