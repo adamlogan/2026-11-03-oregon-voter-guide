@@ -24,7 +24,7 @@ nav { display:flex; flex-wrap:wrap; gap:.25rem 1.25rem; font-size:.875rem; }
 header a { display:inline-flex; align-items:center; min-height:2.75rem; }
 main { max-width:80rem; margin:auto; padding:0 2rem; }
 .intro { padding:1.5rem 0 1.125rem; }
-h1 { font-family:Georgia,serif; font-weight:500; letter-spacing:-.025em; font-size:clamp(2rem,4vw,2.75rem); line-height:1.2; margin:0 0 .625rem; }
+h1 { overflow-wrap:anywhere; font-family:Georgia,serif; font-weight:500; letter-spacing:-.025em; font-size:clamp(2rem,4vw,2.75rem); line-height:1.2; margin:0 0 .625rem; }
 h2 { font-size:1.0625rem; font-weight:650; margin:0; }
 p { margin:.625rem 0; }
 .intro>p { max-width:70ch; color:var(--muted); }
@@ -50,7 +50,8 @@ summary::marker { color:var(--green); }
 .hint { color:var(--muted); font-size:.8125rem; line-height:1.6; }
 .check { display:flex; align-items:center; gap:.5rem; min-height:2.75rem; margin-top:.75rem; }
 .check input { width:1.125rem; height:1.125rem; flex-shrink:0; accent-color:var(--green); }
-.match select { width:auto; max-width:100%; margin-left:.25rem; }
+.match label { min-width:0; max-width:100%; }
+.match select { width:auto; max-width:100%; margin-left:0; }
 .jump-link { display:inline-flex; align-items:center; min-height:2.75rem; font-size:.8125rem; }
 .entity { display:flex; align-items:center; gap:.25rem; padding:.125rem 0; border-top:1px solid var(--line); }
 .entity label { display:flex; align-items:center; justify-content:space-between; min-height:2.75rem; gap:.5rem; flex:1; min-width:0; color:var(--ink); cursor:pointer; font-size:.8125rem; }

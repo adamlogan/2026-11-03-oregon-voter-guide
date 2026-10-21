@@ -1,9 +1,22 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Narrow-layout checks · Oregon Endorsement Guide</title>
 <style>body{font:100%/1.5 system-ui,sans-serif;margin:1rem;color:#173b39;background:#f7f8f3}a{color:#164d48}.frames{display:flex;gap:2rem;flex-wrap:wrap}.frame{max-width:100%;min-width:0}iframe{display:block;width:320px;max-width:100%;height:800px;border:1px solid #6b7d73}h1{font-size:1.5rem}h2{font-size:1.125rem}</style></head>
-<body><main><h1>Narrow-layout checks</h1><p>These are the real website pages in 320 CSS-pixel frames. Use the <a href="index.html">regular guide</a> to browse endorsements.</p><div class="frames">
-<section class="frame"><h2>Main guide</h2><iframe id="check-guide" title="Main guide at 320 CSS pixels" src="index.html?search=Jeff+Merkley"></iframe></section>
-<section class="frame"><h2>Published guides</h2><iframe id="check-guides" title="Published guides at 320 CSS pixels" src="guides.html"></iframe></section>
-<section class="frame"><h2>Source review</h2><iframe id="check-sources" title="Source review at 320 CSS pixels" src="source-audit.html"></iframe></section>
-<section class="frame"><h2>Methodology</h2><iframe id="check-method" title="Methodology at 320 CSS pixels" src="methodology.html"></iframe></section>
-</div></main></body></html>
+<body><main><h1>Narrow-layout checks</h1><p>This development page embeds the real website pages in 320 CSS-pixel frames. Use the <a href="index.html">regular guide</a> to browse endorsements.</p><p><label><input id="large-text" type="checkbox"> Test double text size</label></p><div class="frames">
+<section class="frame"><h2>Main guide</h2><p id="status-check-guide" role="status">Loading main guide…</p><iframe id="check-guide" title="Main guide at 320 CSS pixels" src="index.html?search=Jeff+Merkley&amp;review=access3"></iframe></section>
+<section class="frame"><h2>Published guides</h2><p id="status-check-guides" role="status">Loading published guides…</p><iframe id="check-guides" title="Published guides at 320 CSS pixels" src="guides.html?review=access3"></iframe></section>
+<section class="frame"><h2>Source review</h2><p id="status-check-sources" role="status">Loading source review…</p><iframe id="check-sources" title="Source review at 320 CSS pixels" src="source-audit.html?review=access3"></iframe></section>
+<section class="frame"><h2>Methodology</h2><p id="status-check-method" role="status">Loading methodology…</p><iframe id="check-method" title="Methodology at 320 CSS pixels" src="methodology.html?review=access3"></iframe></section>
+</div></main><script>
+'use strict';
+const frames=[...document.querySelectorAll('iframe')],large=document.getElementById('large-text');
+function inspect(frame){
+ const doc=frame.contentDocument;if(!doc?.body)return;
+ doc.documentElement.style.fontSize=large.checked?'200%':'';
+ requestAnimationFrame(()=>{
+  const root=doc.documentElement,width=root.clientWidth,content=root.scrollWidth;
+  document.getElementById('status-'+frame.id).textContent=`${width}px viewport · ${content}px content · ${content>width+1?'Horizontal overflow detected':'No horizontal overflow'} · ${large.checked?'double':'normal'} text size`;
+ });
+}
+frames.forEach(frame=>{frame.addEventListener('load',()=>inspect(frame));if(frame.contentDocument?.readyState==='complete')inspect(frame);});
+large.addEventListener('change',()=>frames.forEach(inspect));
+</script></body></html>
